@@ -1,7 +1,4 @@
-[
-    {"type":"header","version":"4.8.3","comment":"Export to JSON plugin for PHPMyAdmin"},
-    {"type":"database","name":"il_ilce"},
-    {"type":"table","name":"ilce","database":"il_ilce","data":
+
     [
     {"id":"1757","il_id":"1","name":"ALADAĞ"},
     {"id":"1219","il_id":"1","name":"CEYHAN"},
@@ -976,6 +973,4 @@
     {"id":"2031","il_id":"81","name":"KAYNAŞLI"},
     {"id":"1292","il_id":"81","name":"MERKEZ"},
     {"id":"1730","il_id":"81","name":"YIĞILCA"}
-    ]
-    }
     ]

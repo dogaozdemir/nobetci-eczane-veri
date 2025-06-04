@@ -1,7 +1,4 @@
-[
-    {"type":"header","version":"4.8.3","comment":"Export to JSON plugin for PHPMyAdmin"},
-    {"type":"database","name":"il_ilce"},
-    {"type":"table","name":"il","database":"il_ilce","data":
+
     [
     {"id":"15","name":"BURDUR"},
     {"id":"26","name":"ESKİŞEHİR"},
@@ -87,6 +84,4 @@
     {"id":"71","name":"KIRIKKALE"},
     {"id":"70","name":"KARAMAN"},
     {"id":"35","name":"İZMİR"}
-    ]
-    }
     ]
