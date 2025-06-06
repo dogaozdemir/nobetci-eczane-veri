@@ -1,0 +1,10 @@
+{
+    "functions": {
+      "api/update-eczaneler.js": {
+        "memory": 512,
+        "maxDuration": 60,
+        "schedule": "*/5 * * * *"
+      }
+    }
+  }
+  
