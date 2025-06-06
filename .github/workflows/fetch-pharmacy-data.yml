@@ -1,8 +1,8 @@
-name: Update Pharmacy Data Daily
+name: Fetch Pharmacy Data Daily
 
 on:
   schedule:
-    - cron: '*/5 * * * *' # Her 5dk
+    - cron: '0 5 * * *'
   workflow_dispatch:
 
 jobs:
@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Setup Node
+      - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: 18
@@ -21,16 +21,16 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Install Puppeteer dependencies
-        run: sudo apt-get install -y libxss1 libappindicator1 libindicator7 libasound2 libatk-bridge2.0-0 libgtk-3-0
+      - name: Create .env file from secret
+        run: echo "COLLECTAPI_KEY=${{ secrets.COLLECTAPI_KEY }}" > .env
 
-      - name: Run scraper
-        run: node scripts/update-eczaneler.js
+      - name: Run scraper script
+        run: node scripts/update-pharmacy-data.js
 
-      - name: Commit scraped data
+      - name: Commit updated data
         run: |
-          git config --global user.email "actions@github.com"
-          git config --global user.name "GitHub Actions"
-          git add public/data/eczaneler.json
-          git commit -m "Güncel eczane verisi" || echo "No changes"
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add public/data/pharmacies.json
+          git commit -m "Update pharmacy data"
           git push

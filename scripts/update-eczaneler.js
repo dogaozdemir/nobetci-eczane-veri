@@ -1,73 +1,60 @@
-import puppeteer from "puppeteer";
-import fs from "fs";
-import path from "path";
+import fs from 'fs';
+import path from 'path';
+import fetch from 'node-fetch';
+import 'dotenv/config';
+import ilList from '../data/il.json' assert { type: 'json' };
+import ilceList from '../data/ilce.json' assert { type: 'json' };
 
-// Türkçe karakterleri URL uyumlu hale getirme fonksiyonu
-function toSlug(str) {
-  return str
-    .toLowerCase()
-    .replace(/ç/g, "c")
-    .replace(/ğ/g, "g")
-    .replace(/ı/g, "i")
-    .replace(/ö/g, "o")
-    .replace(/ş/g, "s")
-    .replace(/ü/g, "u")
-    .replace(/\s+/g, "-")
-    .replace(/[^a-z0-9-]/g, ""); // Noktalama temizliği
+const API_KEY = process.env.COLLECTAPI_KEY;
+
+if (!API_KEY) {
+  console.error('❌ HATA: COLLECTAPI_KEY .env dosyasında tanımlı değil.');
+  process.exit(1);
 }
 
-// Verileri çek
-async function scrapeDistrict(citySlug, districtSlug) {
-  const url = `https://www.hastanemyanimda.com/nobetci-eczane/${citySlug}/${districtSlug}`;
-  const browser = await puppeteer.launch({
-    headless: true,
-    args: ["--no-sandbox", "--disable-setuid-sandbox"]
-  });
-  const page = await browser.newPage();
-  await page.goto(url, { waitUntil: "networkidle0", timeout: 0 });
+const delay = ms => new Promise(res => setTimeout(res, ms));
 
-  const data = await page.evaluate(() => {
-    const list = [];
-    document.querySelectorAll(".list-group .list-group-item").forEach(item => {
-      const name = item.querySelector("h5")?.innerText.trim();
-      const address = item.querySelector("p")?.innerText.trim();
-      const phone = item.querySelector("a[href^='tel']")?.innerText.trim();
-      list.push({ name, address, phone });
-    });
-    return list;
-  });
-
-  await browser.close();
-  return data;
+// İlk harf büyük, kalanlar küçük hale getir (Türkçe karakterlerle uyumlu)
+function capitalizeTurkish(str) {
+  return str.charAt(0).toLocaleUpperCase('tr-TR') + str.slice(1).toLocaleLowerCase('tr-TR');
 }
 
-async function main() {
-  const ilData = JSON.parse(fs.readFileSync("data/il.json", "utf8"));
-  const ilceData = JSON.parse(fs.readFileSync("data/ilce.json", "utf8"));
+const fetchPharmacies = async () => {
   const allData = {};
 
-  for (const il of ilData) {
-    const citySlug = toSlug(il.il_adi);
-    const ilceler = ilceData.filter(i => i.il_kodu === il.il_kodu);
+  for (const il of ilList) {
+    const ilceListForCity = ilceList.filter(ilce => ilce.il_id === il.il_id);
+    allData[il.il_adi.toLowerCase()] = {};
 
-    for (const ilce of ilceler) {
-      const districtSlug = toSlug(ilce.ilce_adi);
-      const key = `${citySlug}/${districtSlug}`;
-      console.log(`🟢 Veri çekiliyor: ${key}`);
+    for (const ilce of ilceListForCity) {
+      const ilAd = capitalizeTurkish(il.il_adi);
+      const ilceAd = capitalizeTurkish(ilce.ilce_adi);
+
+      const url = `https://api.collectapi.com/health/dutyPharmacy?ilce=${encodeURIComponent(ilceAd)}&il=${encodeURIComponent(ilAd)}`;
+
       try {
-        const data = await scrapeDistrict(citySlug, districtSlug);
-        allData[key] = data;
+        const res = await fetch(url, {
+          headers: {
+            "content-type": "application/json",
+            "authorization": API_KEY,
+          }
+        });
+
+        const json = await res.json();
+        allData[il.il_adi.toLowerCase()][ilce.ilce_adi.toLowerCase()] = json.result || [];
+        console.log(`✅ ${ilAd} / ${ilceAd}`);
       } catch (err) {
-        console.error(`❌ Hata oluştu: ${key}`, err);
-        allData[key] = [];
+        console.error(`❌ ${ilAd} / ${ilceAd}:`, err.message);
       }
+
+      await delay(800);
     }
   }
 
-  const filePath = path.join("public", "data", "eczaneler.json");
-  fs.mkdirSync(path.dirname(filePath), { recursive: true });
-  fs.writeFileSync(filePath, JSON.stringify(allData, null, 2));
-  console.log("✅ Tüm veriler kaydedildi.");
-}
+  const outputPath = path.resolve('public/data/pharmacies.json');
+  fs.mkdirSync(path.dirname(outputPath), { recursive: true });
+  fs.writeFileSync(outputPath, JSON.stringify(allData, null, 2));
+  console.log(`📁 Veriler kaydedildi: ${outputPath}`);
+};
 
-main();
+fetchPharmacies();
