@@ -2,8 +2,8 @@ name: Update Pharmacy Data Daily
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # her 5 dakikada bir çalışır
-  workflow_dispatch:       # manuel tetikleme için
+    - cron: '*/5 * * * *' # Her gün saat 06:00'da (UTC+3)
+  workflow_dispatch:
 
 jobs:
   fetch:
@@ -21,5 +21,16 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      - name: Install Puppeteer dependencies
+        run: sudo apt-get install -y libxss1 libappindicator1 libindicator7 libasound2 libatk-bridge2.0-0 libgtk-3-0
+
       - name: Run scraper
         run: node scripts/update-eczaneler.js
+
+      - name: Commit scraped data
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add public/data/eczaneler.json
+          git commit -m "Güncel eczane verisi" || echo "No changes"
+          git push
