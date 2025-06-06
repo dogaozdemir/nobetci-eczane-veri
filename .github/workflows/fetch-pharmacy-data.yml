@@ -2,7 +2,7 @@ name: Update Pharmacy Data Daily
 
 on:
   schedule:
-    - cron: '*/5 * * * *' # Her gün saat 06:00'da (UTC+3)
+    - cron: '*/5 * * * *' # Her 5dk
   workflow_dispatch:
 
 jobs:
