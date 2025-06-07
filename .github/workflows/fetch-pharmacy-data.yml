@@ -3,7 +3,7 @@ name: Günlük Nöbetçi Eczane Verisi Çek
 on:
   workflow_dispatch: # Manuel tetikleme için Gerekli (Run Workflow butonu çıkar)
   schedule:
-    - cron: '0 5 * * *' # Her gün sabah 08:00'de (UTC+3 için 5)
+    - cron: '0 7 * * *'  # Her gün sabah 10:00'da (UTC+3 için UTC 07:00)
 
 jobs:
   update-eczaneler:
