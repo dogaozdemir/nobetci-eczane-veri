@@ -1,37 +1,39 @@
-name: Günlük Nöbetçi Eczane Verisi Çek
+name: Fetch Pharmacy Data
 
 on:
-  workflow_dispatch: # Manuel tetikleme için Gerekli (Run Workflow butonu çıkar)
   schedule:
-    - cron: '0 7 * * *'  # Her gün sabah 10:00'da (UTC+3 için UTC 07:00)
+    - cron: '0 9 * * *'  # Her sabah 09:00'de çalışır
+  workflow_dispatch:      # Manuel tetikleme için buton sağlar
 
 jobs:
-  update-eczaneler:
+  fetch:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Reposuyu klonla
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Node.js kurulumu
+      - name: Use Node.js 18
         uses: actions/setup-node@v3
         with:
           node-version: 18
 
-      - name: Bagimlilik yukle
-        run: npm install
+      - name: Install dependencies
+        run: npm ci
 
-      - name: .env dosyasa ayarla
+      - name: Debug current directory
         run: |
-          echo "COLLECTAPI_KEY=${{ secrets.COLLECTAPI_KEY }}" >> .env
+          echo "Current directory:"
+          pwd
+          echo "Listing all files recursively:"
+          ls -R .
 
-      - name: Veriyi güncelle
+      - name: Check if node-fetch is installed
+        run: |
+          echo "Checking for node-fetch:"
+          npm ls node-fetch || true
+
+      - name: Run data fetch script
         run: node scripts/update-eczaneler.js
-
-      - name: Güncellenen verileri push et
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
-          git commit -m "📦 Eczane verisi güncellendi [bot]" || echo "Değişiklik yok"
-          git push
+        env:
+          COLLECTAPI_KEY: ${{ secrets.COLLECTAPI_KEY }}
