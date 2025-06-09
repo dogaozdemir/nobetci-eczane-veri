@@ -1,28 +1,33 @@
-name: Günlük Eczane Verisi Güncelle
+name: Fetch Pharmacy Data
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '0 8 * * *'  # UTC 08:00 = Türkiye saati ile 11:00
+    - cron: '0 11 * * *'  # Her gün saat 11:00'de (UTC)
+  workflow_dispatch:
 
 jobs:
-  fetch-and-save-data:
+  fetch-data:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: .
 
     steps:
-      - name: 🧾 Repositoriesi çek
+      - name: Repo'yu checkout et
         uses: actions/checkout@v3
 
-      - name: 🔧 Node.js kurulumu
+      - name: Node.js kur (18.x)
         uses: actions/setup-node@v3
         with:
-          node-version: '18'
+          node-version: 18
 
-      - name: 📦 Bağımlılıkları kur (npm ci)
+      - name: NPM bağımlılıklarını yükle
         run: npm ci
 
-      - name: 📂 Debug: node_modules dizininde node-fetch var mı?
-        run: ls -R node_modules | grep node-fetch || echo_
+      - name: Yüklenen paketleri listele (debug için)
+        run: npm list --depth=1
+
+      - name: node-fetch yüklü mü kontrol et
+        run: node -p "require.resolve('node-fetch')"
+
+      - name: Veriyi çek (update-eczaneler.js çalıştır)
+        run: node scripts/update-eczaneler.js
+        env:
+          COLLECTAPI_KEY: ${{ secrets.COLLECTAPI_KEY }}
