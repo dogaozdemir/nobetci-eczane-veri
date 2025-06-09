@@ -12,6 +12,9 @@ jobs:
     steps:
       - name: Repo'yu checkout et
         uses: actions/checkout@v3
+        with:
+          persist-credentials: true
+          fetch-depth: 0
 
       - name: Node.js kur (18.x)
         uses: actions/setup-node@v3
@@ -21,9 +24,6 @@ jobs:
       - name: NPM bağımlılıklarını yükle
         run: npm ci
 
-      - name: Yüklenen paketleri listele (debug için)
-        run: npm list --depth=1
-
       - name: node-fetch yüklü mü kontrol et
         run: node -p "require.resolve('node-fetch')"
 
@@ -31,3 +31,16 @@ jobs:
         run: node scripts/update-eczaneler.js
         env:
           COLLECTAPI_KEY: ${{ secrets.COLLECTAPI_KEY }}
+
+      - name: Değişiklik var mı kontrol et
+        run: git status
+
+      - name: Değişiklikleri commit et ve pushla
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data/pharmacies.json
+          git commit -m "🔄 Otomatik veri güncellemesi"
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
