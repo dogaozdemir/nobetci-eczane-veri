@@ -5,6 +5,9 @@ on:
     - cron: '0 11 * * *'  # Her gün saat 11:00'de (UTC)
   workflow_dispatch:
 
+permissions:
+  contents: write  # ✅ Gerekli izin: GitHub Actions push yapabilsin diye
+
 jobs:
   fetch-data:
     runs-on: ubuntu-latest
@@ -42,5 +45,3 @@ jobs:
           git add public/data/pharmacies.json
           git commit -m "🔄 Otomatik veri güncellemesi"
           git push origin main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
