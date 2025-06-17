@@ -2,7 +2,7 @@ name: Fetch Pharmacy Data
 
 on:
   schedule:
-    - cron: '0 11 * * *'  # Her gün saat 11:00'de (UTC)
+    - cron: '0 10 * * *'  # Her gün saat 11:00'de (UTC)
   workflow_dispatch:
 
 permissions:
