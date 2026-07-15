@@ -62,15 +62,6 @@
         "loc": "37.110274,35.112127"
       }
     ],
-    "feke": [
-      {
-        "name": "MERVE ECZANESİ",
-        "dist": "FEKE",
-        "address": "İslam Mah. Kocayurdan Küme Evler No:23/A Feke Adana",
-        "phone": "0(322)741-24-24",
-        "loc": "37.81628,35.920119"
-      }
-    ],
     "i̇mamoğlu": [
       {
         "name": "ELİF ÖZMÜ ECZANESİ",
@@ -357,13 +348,14 @@
   "ağrı": {
     "di̇yadi̇n": [
       {
-        "name": "DİYADİN ECZANESİ",
+        "name": "ŞİFA ECZANESİ",
         "dist": "DİYADİN",
-        "address": "İnönü Caddesi, No:86 Diyadin / Ağrı",
-        "phone": "0(472)511-24-65",
-        "loc": "39.539805,43.674178"
+        "address": "Murat Mahallesi, Kaymakam Özgür Azer Kurak Caddesi No:63/A Diyadin / Ağrı",
+        "phone": "0(505)597-63-42",
+        "loc": "39.54644,43.66698"
       }
     ],
+    "doğubayazit": [],
     "eleşki̇rt": [
       {
         "name": "EMEK ECZANESİ",
@@ -371,15 +363,6 @@
         "address": "Müftü Selim Mahallesi Cumhuriyet Caddesino:112/B Eleşkirt/Ağri",
         "phone": "0(472)711-47-47",
         "loc": "39.798151,42.677896"
-      }
-    ],
-    "hamur": [
-      {
-        "name": "AHMET ECZANESİ",
-        "dist": "HAMUR",
-        "address": "Kümbet Mahallesi, Van Caddesi No:49/C Hamur / Ağrı",
-        "phone": "0(544)564-57-48",
-        "loc": "39.60953,42.98853"
       }
     ],
     "merkez": [],
@@ -414,11 +397,11 @@
   "amasya": {
     "göynücek": [
       {
-        "name": "EVREN ECZANESİ",
+        "name": "KILIÇ ECZANESİ",
         "dist": "GÖYNÜCEK",
-        "address": "Yeni Mahallesi, Yozgat Caddesi No:67/A Göynücek / Amasya",
-        "phone": "0(358)615-25-25",
-        "loc": "40.39195104,35.52156216"
+        "address": "Yeni Mahalle Yozgat Caddesi No:166 Göynücek / Amasya",
+        "phone": "0(358)615-26-01",
+        "loc": "40.39668504,35.52464592"
       }
     ],
     "gümüşhaciköy": [
@@ -443,11 +426,11 @@
     ],
     "suluova": [
       {
-        "name": "TONKUŞ ECZANESİ",
+        "name": "ESRA ECZANESİ",
         "dist": "SULUOVA",
-        "address": "Yeni Mah. Atatürk Bulvari No:82/Z01 Suluova/Amasya",
-        "phone": "0(536)591-21-13",
-        "loc": "40.820322,35.657992"
+        "address": "Orta Mahallesi, Atatürk Bulvarı 304/z03 Suluova / Amasya",
+        "phone": "0(358)400-00-60",
+        "loc": "40.835582,35.6452"
       }
     ],
     "taşova": [
@@ -513,56 +496,13 @@
         "loc": "40.16257497,31.93229808"
       }
     ],
-    "çamlidere": [],
-    "çankaya": [
+    "çamlidere": [
       {
-        "name": "YAVEROĞLU ECZANESİ",
-        "dist": "ÇANKAYA",
-        "address": "İlkadım Mahallesi, Dikmen Caddesi, No:171 Çankaya / Ankara",
-        "phone": "0(312)479-87-97",
-        "loc": "39.88888,32.840772"
-      },
-      {
-        "name": "İLKEM ECZANESİ",
-        "dist": "ÇANKAYA",
-        "address": "Birlik Mahallesi, 435.Cadde No:40/A Çankaya / Ankara",
-        "phone": "0(312)496-17-05",
-        "loc": "39.8783335713041,32.8753165245156"
-      },
-      {
-        "name": "ANAVRİN ECZANESİ",
-        "dist": "ÇANKAYA",
-        "address": "Ümit Mahallesi, 2479. Cadde No:2/39 Çayyolu / Çankaya / Ankara",
-        "phone": "0 (312) 577-17-77",
-        "loc": "39.900418,32.692544"
-      },
-      {
-        "name": "GÜN ECZANESİ",
-        "dist": "ÇANKAYA",
-        "address": "Cevizlidere Mahallesi, 1283 Sokak No:6/A Balgat / Çankaya / Ankara",
-        "phone": "0 (312) 472-77-78",
-        "loc": "39.885026,32.819807"
-      },
-      {
-        "name": "SEVİN ECZANESİ",
-        "dist": "ÇANKAYA",
-        "address": "Yukarı Dikmen Mahallesi, Turan Güneş Bulvarı 636 Caddesi, Nazlıcalar Sitesi No:10/A Oran / Çankaya / Ankara",
-        "phone": "0(312)490-90-92",
-        "loc": "39.85169697,32.84268084"
-      },
-      {
-        "name": "BAHÇELİEVLER ECZANESİ",
-        "dist": "ÇANKAYA",
-        "address": "3.Cadde (Azerbaycan Caddesi) No:31/B Bahçelievler / Çankaya / Ankara",
-        "phone": "0(312)213-12-84",
-        "loc": "39.929016250786,32.8262110323973"
-      },
-      {
-        "name": "ANKA ECZANESİ",
-        "dist": "ÇANKAYA",
-        "address": "G.M.K. Bulvarı No:47/A Eti Mahallesi, / Çankaya / Ankara",
-        "phone": "0(312)229-28-98",
-        "loc": "39.925936,32.847324"
+        "name": "NUR ECZANESİ",
+        "dist": "ÇAMLIDERE",
+        "address": "Yayalar Mahallesi, Cumhuriyet Caddesi No:57/c, Çamlıdere / Ankara",
+        "phone": "0 (312) 753-10-17",
+        "loc": "40.49063901,32.47485804"
       }
     ],
     "çubuk": [
@@ -641,15 +581,6 @@
         "loc": "39.4340255876587,32.5130201710808"
       }
     ],
-    "kahramankazan": [
-      {
-        "name": "DERMAN ECZANESİ",
-        "dist": "KAHRAMANKAZAN",
-        "address": "Atatürk Mahallesi, 29 Mayıs Caddesi, No:76/A Kazan / Ankara",
-        "phone": "0(312)814-06-60",
-        "loc": "40.2031836543469,32.6808898327886"
-      }
-    ],
     "kaleci̇k": [
       {
         "name": "MELİKE ECZANESİ",
@@ -660,6 +591,13 @@
       }
     ],
     "keçi̇ören": [
+      {
+        "name": "PINARBAŞI ECZANESİ",
+        "dist": "KEÇİÖREN",
+        "address": "Pınarbaşı Mahallesi, Atlılar Sokak, No:38/B Keçiören / Ankara",
+        "phone": "0(312)581-15-18",
+        "loc": "40.008061,32.866968"
+      },
       {
         "name": "SELİN ECZANESİ",
         "dist": "KEÇİÖREN",
@@ -726,6 +664,13 @@
         "address": "Durali Alıç Mahallesi, 955 Sokak No:51 Mamak / Ankara",
         "phone": "0(312)390-34-35",
         "loc": "39.8987914,32.9284445"
+      },
+      {
+        "name": "ZEYNEP ULUCAN ECZANESİ",
+        "dist": "MAMAK",
+        "address": "Karşıyaka Mahallesi, Cumhuriyet Caddesi No:3 Lalahan / Mamak / Ankara",
+        "phone": "0(312)865-26-37",
+        "loc": "39.964108,33.107428"
       }
     ],
     "nallihan": [
@@ -783,15 +728,13 @@
         "address": "Mustafa Kemal Mahallesi, Fatih Caddesi No:3/N Yenikent / Sincan / Ankara",
         "phone": "0 (312) 277-10-33",
         "loc": "40.003611,32.524213"
-      }
-    ],
-    "şerefli̇koçhi̇sar": [
+      },
       {
-        "name": "MELEK ECZANESİ",
-        "dist": "ŞEREFLİKOÇHİSAR",
-        "address": "Yeşilova Mahallesi, Aziz Mahmut Hüdai Bulvarı No:2/B Şereflikoçhisar / Ankara",
-        "phone": "0(312)688-01-07",
-        "loc": "38.93689197,33.53438196"
+        "name": "TEMELLİ PINAR ECZANESİ",
+        "dist": "SİNCAN",
+        "address": "İstiklal Mahallesi, Hürriyet Caddesi No:30/A Temelli / Sincan / Ankara",
+        "phone": "0 (312) 645-17-40",
+        "loc": "39.7276697473316,32.356269896663"
       }
     ],
     "yeni̇mahalle": [
@@ -888,15 +831,6 @@
         "loc": "36.244309,29.988151"
       }
     ],
-    "döşemealti": [
-      {
-        "name": "BEYZA ECZANESİ",
-        "dist": "DÖŞEMEALTI",
-        "address": "Yeşilbayır Mahallesi, Atatürk Caddesi No:70/A Döşemealtı / Antalya",
-        "phone": "0(507)242-74-70",
-        "loc": "36.98157,30.60604"
-      }
-    ],
     "elmali": [
       {
         "name": "İŞLEKEL ECZANESİ",
@@ -979,43 +913,6 @@
         "loc": "36.602828,30.562221"
       }
     ],
-    "kepez": [
-      {
-        "name": "EKİN ECZANESİ",
-        "dist": "KEPEZ",
-        "address": "Kültür Mahallesi, Hürriyet Caddesi, 3821 Sokak No:1/8-G Kepez / Antalya",
-        "phone": "0(242)226-02-75",
-        "loc": "36.901184,30.660956"
-      },
-      {
-        "name": "KAAN ECZANESİ",
-        "dist": "KEPEZ",
-        "address": "Göçerler Mahallesi, 5379.Sokak No:110 A4-Blok Kepez / Antalya",
-        "phone": "0(533)492-14-77",
-        "loc": "36.95317,30.66298"
-      },
-      {
-        "name": "EREĞLİ ANIL ECZANESİ",
-        "dist": "KEPEZ",
-        "address": "Çallı Kavsağı Dokuma İstikameti 50 metre sağında 14 No'lu Sağlık Ocağı yanı Kepez / Antalya",
-        "phone": "0(242)345-35-35",
-        "loc": "36.908302,30.683694"
-      },
-      {
-        "name": "ASİL ECZANESİ",
-        "dist": "KEPEZ",
-        "address": "Karşıyaka Mahallesi, 3933 Sokak, Kepez / Antalya",
-        "phone": "0(242)325-04-44",
-        "loc": "36.91707903,30.70143216"
-      },
-      {
-        "name": "BANU YALÇIN ECZANESİ",
-        "dist": "KEPEZ",
-        "address": "Mehmet Akif Ersoy Mahallesi, Mehmet Atay Caddesi, 6758 Sokak, No:5/7 Kepez / Antalya",
-        "phone": "0(242)339-41-17",
-        "loc": "36.92418,30.721348"
-      }
-    ],
     "konyaalti": [
       {
         "name": "ELİF ECZANESİ",
@@ -1045,11 +942,11 @@
     ],
     "manavgat": [
       {
-        "name": "HÜLYA ABA ECZANESİ",
+        "name": "UYGUR ECZANESİ",
         "dist": "MANAVGAT",
-        "address": "Bahçelievler Mahallesi, Antalya Caddesi, No:81/102 Manavgat / Antalya",
-        "phone": "0(242)746-60-96",
-        "loc": "36.78704604,31.435668"
+        "address": "Hasan Fehmı Boztepe Caddesi, Kasaplar Mahallesi, Uygurbey Ap. No:134/A Manavgat / Antalya",
+        "phone": "0(242)742-22-00",
+        "loc": "36.78942096,31.43019096"
       },
       {
         "name": "CİHAN ECZANESİ",
@@ -1130,11 +1027,11 @@
   "artvin": {
     "ardanuç": [
       {
-        "name": "DENİZ ECZANESİ",
+        "name": "HAKAN ECZANESİ",
         "dist": "ARDANUÇ",
-        "address": "Merkez Mah. 7 Mart Cad. Ömer Noyan Sok. No:21/F",
-        "phone": "0(466)611-42-19",
-        "loc": "41.121758,42.065987"
+        "address": "Merkez Mahallesi, İnönü Caddesi, No:40/1 Ardanuç / Artvin",
+        "phone": "0(466)611-37-35",
+        "loc": "41.12863596,42.07662216"
       }
     ],
     "arhavi̇": [
@@ -1267,6 +1164,43 @@
         "loc": "37.388106,27.43284096"
       }
     ],
+    "efeler": [
+      {
+        "name": "İBN-I SİNA ECZANESİ",
+        "dist": "EFELER",
+        "address": "Cumhuriyet Mahallesi Vali Konağı Bulvarı No:38 Merkez / Aydın",
+        "phone": "0(256)225-10-73",
+        "loc": "37.84127697,27.83909412"
+      },
+      {
+        "name": "BİLGİN ECZANESİ",
+        "dist": "EFELER",
+        "address": "Kurtuluş Mahallesi, Adnan Menderes Bulvarı, 2015 Sokak No:2 Merkez / Aydın",
+        "phone": "0(256)212-82-79",
+        "loc": "37.84509297,27.84374892"
+      },
+      {
+        "name": "HAYAT ECZANESİ",
+        "dist": "EFELER",
+        "address": "Hasanefendi Mahallesi, Gençlik Caddesi, No:25/B Merkez / Aydın",
+        "phone": "0(256)225-58-69",
+        "loc": "37.84964202,27.83838816"
+      },
+      {
+        "name": "CANSU ECZANESİ",
+        "dist": "EFELER",
+        "address": "Umurlu, Çarşı Mahallesi Barbaros Caddesi No:1/4 Aydın Merkez / Aydın",
+        "phone": "0(256)251-32-22",
+        "loc": "37.85032197,27.95897196"
+      },
+      {
+        "name": "HAZAL ECZANESİ",
+        "dist": "EFELER",
+        "address": "Hasan Efendi Mahallesi, Hastane Caddesi, No:14 Merkez / Aydın",
+        "phone": "0(256)213-93-81",
+        "loc": "37.862005,27.815449"
+      }
+    ],
     "germenci̇k": [
       {
         "name": "YENİ SEMA ECZANESİ",
@@ -1381,6 +1315,29 @@
         "loc": "37.9201961407122,28.3369424020769"
       }
     ],
+    "söke": [
+      {
+        "name": "ÇİĞDEM ECZANESİ",
+        "dist": "SÖKE",
+        "address": "Fevzipaşa Mahallesi, Zafer Sokak, No:43/B Söke / Aydın",
+        "phone": "0(256)512-08-53",
+        "loc": "37.76204898,27.41004108"
+      },
+      {
+        "name": "GÜMÜŞ ECZANESİ",
+        "dist": "SÖKE",
+        "address": "Hürriyet Mahallesi, Çalışlı Caddesi, 29 Sokak No:39 Söke / Aydın",
+        "phone": "0(256)544-16-11",
+        "loc": "37.713872,27.552184"
+      },
+      {
+        "name": "ERGİN ECZANESİ",
+        "dist": "SÖKE",
+        "address": "Aydın Caddesi, No:70/A 5 No Lu Sağlık Ocağı Köşesi Söke / Aydın",
+        "phone": "0(256)513-13-17",
+        "loc": "37.75665996,27.40884084"
+      }
+    ],
     "sultanhi̇sar": [
       {
         "name": "MADEN ECZANESİ",
@@ -1468,82 +1425,82 @@
     ],
     "burhani̇ye": [
       {
-        "name": "DERYA ECZANESİ",
+        "name": "SELÇUK ECZANESİ",
         "dist": "BURHANİYE",
-        "address": "Kocacami Mahallesi, Cumhuriyet Meydanı No:3/B Burhaniye / Balıkesir",
-        "phone": "0(266)412-08-46",
-        "loc": "39.502859,26.980853"
+        "address": "Ören Mahallesi, Siteler Caddesi, 2012 Sokak No:3/A Burhaniye / Balıkesir",
+        "phone": "0(266)416-45-30",
+        "loc": "39.495878,26.937168"
       },
       {
-        "name": "ÇAKIR ECZANESİ",
+        "name": "BAHAR ECZANESİ",
         "dist": "BURHANİYE",
-        "address": "Öğretmenler Mahallesi, Manolya Sokak, No:13/5-B Burhaniye / Balıkesir",
-        "phone": "0(266)416-36-76",
-        "loc": "39.487826,26.934818"
+        "address": "Bahçelievler Mahallesi, 2783 Sokak, 90/2 Burhaniye / Balıkesir",
+        "phone": "0(266)358-12-00",
+        "loc": "39.507007,26.967416"
       }
     ],
     "dursunbey": [
       {
-        "name": "KORKMAZ ECZANESİ",
+        "name": "AVCI ECZANESİ",
         "dist": "DURSUNBEY",
-        "address": "Eminbey Caddesi, No:16/A Dursunbey / Balıkesir",
-        "phone": "0(266)662-12-88",
-        "loc": "39.58428699,28.62811512"
+        "address": "Mollaoğlu Mahallesi, Bağlarbaşı Sokak, No:5 Dursunbey / Balıkesir",
+        "phone": "0(266)662-18-00",
+        "loc": "39.58562997,28.62763092"
       }
     ],
     "edremi̇t": [
       {
-        "name": "ÇİÇEK ECZANESİ",
+        "name": "UMUT ECZANESİ",
         "dist": "EDREMİT",
-        "address": "Cennetayağı Mahallesi, Hacıbekir Caddesi No:8/A Edremit / Balıkesir",
-        "phone": "0(266)373-78-74",
-        "loc": "39.586898,27.023499"
+        "address": "Camivasat Mahallesi, Gazi Caddesi, No:37 Edremit / Balıkesir",
+        "phone": "0(266)373-16-25",
+        "loc": "39.592723,27.023382"
       },
       {
-        "name": "MERİH ECZANESİ",
+        "name": "AKDENİZ ECZANESİ",
         "dist": "EDREMİT",
-        "address": "Fatih Mahallesi, Kocaseyit Caddesi, No:56 Edremit / Balıkesir",
-        "phone": "0(266)374-44-45",
-        "loc": "39.602387,26.992334"
+        "address": "Tuzcumurat Mahallesi, 215 Sokak, No:15 Edremit / Balıkesir",
+        "phone": "0(266)372-24-65",
+        "loc": "39.604476,27.028249"
       },
       {
-        "name": "ÖZEN ECZANESİ",
+        "name": "ECE ECZANESİ",
         "dist": "EDREMİT",
-        "address": "Güre Mah. Çanakkale Bulvarı No:364A",
-        "phone": "0(266)606-09-21",
-        "loc": "39.586675,26.884231"
+        "address": "İkizçay Mahallesi, 18071.Sokak No:12/F Edremit / Balıkesir",
+        "phone": "0(266)385-22-34",
+        "loc": "39.573418,26.943161"
       },
       {
-        "name": "ÖZLEM ECZANESİ",
+        "name": "YASEMİN ECZANESİ",
         "dist": "EDREMİT",
-        "address": "Şahindere Mahallesi, Mimar Sinan Caddesi, Baysal Apt. No:2/B Edremit / Balıkesir",
-        "phone": "0(266)396-66-65",
-        "loc": "39.568775,26.744615"
+        "address": "Şahindere Mahallesi, Mimar Sinan Caddesi, No:2/F Edremit / Balıkesir",
+        "phone": "0(266)396-07-30",
+        "loc": "39.568782,26.744765"
       },
       {
-        "name": "OKSİJEN ECZANESİ",
+        "name": "ŞİRİN ECZANESİ",
         "dist": "EDREMİT",
-        "address": "Altınkum Mahallesi, İnönü Caddesi No:26/A Edremit / Balıkesir",
-        "phone": "0(266)384-22-23",
-        "loc": "39.571911,26.944898"
+        "address": "Cennetayağı Mahallesi, İstasyon Caddesi, No:53/B Edremit / Balıkesir",
+        "phone": "0(541)814-37-89",
+        "loc": "39.575428,27.040417"
       }
     ],
     "gömeç": [
       {
-        "name": "ATAMER ECZANESİ",
+        "name": "ATLAS ECZANESİ",
         "dist": "GÖMEÇ",
-        "address": "Mithatpaşa Mahallesi, Atatürk Caddesi No:82, Gömeç / Balıkesir",
-        "phone": "0(266)367-71-54",
-        "loc": "39.390926,26.839946"
+        "address": "Kemalpaşa Mahallesi, Ali Aydınoğlu Sokak No:10/14-15 Gömeç / Balıkesir",
+        "phone": "0(507)500-29-96",
+        "loc": "39.3936,26.8436"
       }
     ],
     "gönen": [
       {
-        "name": "FULYA ECZANESİ",
+        "name": "MARMARA ECZANESİ",
         "dist": "GÖNEN",
-        "address": "Plevne Mahallesi, 31 Sokak, No:2/A Gönen / Balıkesir",
-        "phone": "0(266)762-19-84",
-        "loc": "40.10126598,27.65109996"
+        "address": "Tırnıva Mahallesi, Hastane Caddesi, No:21/A Gönen / Balıkesir",
+        "phone": "0(266)762-62-63",
+        "loc": "40.09561299,27.64872108"
       }
     ],
     "havran": [
@@ -1580,13 +1537,22 @@
         "loc": "39.65258,27.87389"
       }
     ],
+    "kepsut": [
+      {
+        "name": "KARA ECZANESİ",
+        "dist": "KEPSUT",
+        "address": "Camicedit Mahallesi, 30 Caddesi, 1 Sokak, No:1 Kepsut / Balıkesir",
+        "phone": "0(266)576-13-00",
+        "loc": "39.68844903,28.156617"
+      }
+    ],
     "manyas": [
       {
-        "name": "TOK ECZANESİ",
+        "name": "ŞENTÜRK ECZANESİ",
         "dist": "MANYAS",
-        "address": "Çarşıiçi Mahallesi, Belediye Dükkanları No:1 Manyas / Balıkesir",
-        "phone": "0(266)818-12-14",
-        "loc": "40.04693901,27.96779916"
+        "address": "Çarşı Mahallesi, Hükümet Caddesi, No:54 Manyas / Balıkesir",
+        "phone": "0(266)818-31-91",
+        "loc": "40.04273601,27.97296588"
       }
     ],
     "marmara": [],
@@ -1599,24 +1565,24 @@
         "loc": "39.38237901,27.65417184"
       }
     ],
-    "susurluk": [
+    "sindirgi": [
       {
-        "name": "SERKAN ECZANESİ",
-        "dist": "SUSURLUK",
-        "address": "Yeni Mahalle, Yeni Cadde No:2/C Susurluk / Balıkesir",
-        "phone": "0(266)865-50-51",
-        "loc": "39.91625298,28.15584588"
+        "name": "İLKNUR ECZANESİ",
+        "dist": "SINDIRGI",
+        "address": "Cumhuriyet Meydanı İşbankası No:2/A Sındırgı / Balıkesir",
+        "phone": "0(266)516-40-97",
+        "loc": "39.23886303,28.17539712"
       }
     ]
   },
   "bilecik": {
     "bozüyük": [
       {
-        "name": "ÖZLEM ECZANESİ",
+        "name": "ÇALIKUŞU ECZANESİ",
         "dist": "BOZÜYÜK",
-        "address": "Kasimpaşa Mah. Dr. ismail Bakkalcioğlu Cad. No:18/B",
-        "phone": "0(228)314-86-56",
-        "loc": "39.905205,30.037964"
+        "address": "Yeni Mahalle, İsmet İnönü Caddesi No:155/B Bozüyük / Bilecik",
+        "phone": "0(228)315-70-00",
+        "loc": "39.903935,30.05104"
       }
     ],
     "gölpazari": [
@@ -1639,6 +1605,15 @@
         "loc": "40.35841497,30.01572612"
       }
     ],
+    "pazaryeri̇": [
+      {
+        "name": "ÇİĞDEM ECZANESİ",
+        "dist": "PAZARYERİ",
+        "address": "Dereboğaz Mahallesi, Çarşı Meydanı No:8 Pazaryeri / Bilecik",
+        "phone": "0(228)381-21-39",
+        "loc": "39.995235,29.90282796"
+      }
+    ],
     "söğüt": [
       {
         "name": "ŞEHİRLİ ECZANESİ",
@@ -1654,11 +1629,11 @@
     "adakli": [],
     "genç": [
       {
-        "name": "MURAT ECZANESİ",
+        "name": "YAŞAM ECZANESİ",
         "dist": "GENÇ",
-        "address": "Cumhuriyet Mahallesi, Cumhuriyet Caddesi No:148/B Genç / Bingöl",
-        "phone": "0(426)411-32-23",
-        "loc": "38.750922,40.559901"
+        "address": "Cumh Mahallesi, Cumh Caddesi, No:132 Genç / Bingöl",
+        "phone": "0(426)411-25-26",
+        "loc": "38.751159,40.560477"
       }
     ],
     "karliova": [
@@ -1681,16 +1656,17 @@
         "loc": "38.959251,41.039142"
       }
     ],
+    "yayladere": [],
     "yedi̇su": []
   },
   "bitlis": {
     "adi̇lcevaz": [
       {
-        "name": "EMRE ECZANESİ",
+        "name": "SAĞLIK ECZANESİ",
         "dist": "ADİLCEVAZ",
-        "address": "Atatürk Mahallesi, Hastane Caddesi No:46/D Adilcevaz / Bitlis",
-        "phone": "0(434)311-20-20",
-        "loc": "38.799091,42.76259"
+        "address": "Cumhuriyet Caddesi, No:11/2 Adilcevaz / Bitlis",
+        "phone": "0(434)311-23-78",
+        "loc": "38.802071,42.733371"
       }
     ],
     "ahlat": [
@@ -1702,13 +1678,22 @@
         "loc": "38.747595,42.476001"
       }
     ],
+    "güroymak": [
+      {
+        "name": "SEZGİN ECZANESİ",
+        "dist": "GÜROYMAK",
+        "address": "Bağlar Mahallesi, Muş Bulvarı No:86/B Güroymak / Bitlis",
+        "phone": "0(434)511-25-25",
+        "loc": "38.5785,42.01585"
+      }
+    ],
     "hi̇zan": [
       {
-        "name": "ŞİFA ECZANESİ",
+        "name": "ZARA ECZANESİ",
         "dist": "HİZAN",
-        "address": "Kültür Mah.hükümet Cad.no:40/B",
-        "phone": "0(501)086-04-47",
-        "loc": "38.225085,42.426407"
+        "address": "Kültür Mahallesi, Hükümet Caddesi No:42/G Hizan / Bitlis",
+        "phone": "0(434)611-21-00",
+        "loc": "38.224512,42.425184"
       }
     ],
     "merkez": [],
@@ -1742,20 +1727,20 @@
     "dörtdi̇van": [],
     "gerede": [
       {
-        "name": "DERMAN ECZANESİ",
+        "name": "TANER ECZANESİ",
         "dist": "GEREDE",
-        "address": "Seviller Mahallesi, Hükümet Caddesi, No:5/D Gerede / Bolu",
-        "phone": "0(374)311-30-03",
-        "loc": "40.798908,32.19210216"
+        "address": "Yeni Mahalle Necip Fazıl Caddesi No:7 Gerede / Bolu",
+        "phone": "0(374)311-77-11",
+        "loc": "40.794552,32.20784712"
       }
     ],
     "göynük": [
       {
-        "name": "ŞİFA ECZANESİ",
+        "name": "KAYA ECZANESİ",
         "dist": "GÖYNÜK",
-        "address": "Selim Çopar Caddesi, No:8/B Göynük / Bolu",
-        "phone": "0(374)451-23-40",
-        "loc": "40.398347,30.783699"
+        "address": "Sofuali Mahallesi, Beytepesi Caddesi No:27 Göynük / Bolu",
+        "phone": "0 (374) 451-22-00",
+        "loc": "40.409849,30.781297"
       }
     ],
     "kibriscik": [],
@@ -1794,11 +1779,11 @@
     "altinyayla": [],
     "bucak": [
       {
-        "name": "GÜLŞAH ECZANESİ",
+        "name": "DURNA ECZANESİ",
         "dist": "BUCAK",
-        "address": "Sanayii Mahallesi Orhangazi Caddesi, No:2 Acil karşısı Bucak / Burdur",
-        "phone": "0(248)325-12-11",
-        "loc": "37.45907199,30.59128296"
+        "address": "Yetmişevler Mahallesi Orhangazi Caddesi No:5/Z-10 Bucak / Burdur",
+        "phone": "0(248)325-62-11",
+        "loc": "37.471291,30.564243"
       }
     ],
     "çavdir": [],
@@ -1814,11 +1799,11 @@
     ],
     "karamanli": [
       {
-        "name": "DEVA ECZANESİ",
+        "name": "KARAMANLI ECZANESİ",
         "dist": "KARAMANLI",
-        "address": "Barbaros Mahallesi, Hastane Caddesi, No:21 Karamanlı / Burdur",
-        "phone": "0(248)531-24-24",
-        "loc": "37.3681,29.8182"
+        "address": "Fatih Mahallesi Burdur Caddesi No:6/A Karamanlı / Burdur",
+        "phone": "0(248)531-22-44",
+        "loc": "37.37002302,29.82135492"
       }
     ],
     "kemer": [],
@@ -1843,15 +1828,6 @@
     ]
   },
   "bursa": {
-    "büyükorhan": [
-      {
-        "name": "YENİ ORHAN ECZANESİ",
-        "dist": "BÜYÜKORHAN",
-        "address": "Orhan Mahallesi, Dr. İbrahim Öktem Caddesi, No:35 Büyükorhan / Bursa",
-        "phone": "0(506)226-03-44",
-        "loc": "39.77504298,28.88199504"
-      }
-    ],
     "gemli̇k": [
       {
         "name": "ERÇEK ECZANESİ",
@@ -1911,11 +1887,20 @@
     ],
     "i̇zni̇k": [
       {
-        "name": "UYSAL ECZANESİ",
+        "name": "CEYHAN ECZANESİ",
         "dist": "İZNİK",
-        "address": "Mahmut Çelebi Mahallesi, Kılıçaslan Caddesi No:2/6-A İznik / Bursa",
-        "phone": "0(224)757-12-91",
-        "loc": "40.42868796,29.71984392"
+        "address": "Mustafakemalpaşa Mahallesi, Atatürk Caddesi, No:101 İznik / Bursa",
+        "phone": "0(224)757-50-33",
+        "loc": "40.43038203,29.71981512"
+      }
+    ],
+    "karacabey": [
+      {
+        "name": "ŞİFA ECZANESİ",
+        "dist": "KARACABEY",
+        "address": "Tavşanlı Mahallesi, Bursa Caddesi, Sait Özer Apt. No:5/A Karacabey / Bursa",
+        "phone": "0(224)676-11-47",
+        "loc": "40.21543602,28.35889704"
       }
     ],
     "keles": [
@@ -1925,15 +1910,6 @@
         "address": "Atatürk Caddesi, Çarşı içi No:3/B Keles / Bursa",
         "phone": "0(224)861-21-64",
         "loc": "39.91274802,29.23312104"
-      }
-    ],
-    "kestel": [
-      {
-        "name": "İLKER ECZANESİ",
-        "dist": "KESTEL",
-        "address": "Vani Mehmet Mahallesi, Hakim Aytekin Baysal Sokak, No:9/B Kestel / Bursa",
-        "phone": "0(224)372-44-20",
-        "loc": "40.199334,29.213519"
       }
     ],
     "mudanya": [
@@ -1961,13 +1937,57 @@
         "loc": "40.034772,28.41012612"
       }
     ],
-    "orhaneli̇": [
+    "ni̇lüfer": [
       {
-        "name": "CANNUR ECZANESİ",
-        "dist": "ORHANELİ",
-        "address": "İsmet Paşa Mahallesi, Hastane Caddesi, No:7 Orhaneli / Bursa",
-        "phone": "0(224)817-12-62",
-        "loc": "39.90139299,28.98721296"
+        "name": "ŞULE SAĞLIK ECZANESİ",
+        "dist": "NİLÜFER",
+        "address": "Barış Mahallesi, Körfez Sokak No:22/A Nilüfer / Bursa",
+        "phone": "0 (224) 909-10-16",
+        "loc": "40.21528,28.966821"
+      },
+      {
+        "name": "UTKU ECZANESİ",
+        "dist": "NİLÜFER",
+        "address": "Kızılcıklı Mahallesi, Osmangazi Caddesi, No:7A/e Nilüfer / Bursa",
+        "phone": "0(224)470-08-08",
+        "loc": "40.196849,28.805643"
+      },
+      {
+        "name": "SELEN BOZBEY ECZANESİ",
+        "dist": "NİLÜFER",
+        "address": "29 Ekim Mahallesi, U.Mumcu Bulvarı No:25/A Nilüfer / Bursa",
+        "phone": "0(224)502-02-92",
+        "loc": "40.220077,28.913283"
+      },
+      {
+        "name": "ÇİÇEK ECZANESİ",
+        "dist": "NİLÜFER",
+        "address": "Konak Mahallesi, Karaca Sokak No:2/A Nilüfer / Bursa",
+        "phone": "0 (224) 408-97-64",
+        "loc": "40.205345,28.982753"
+      },
+      {
+        "name": "ÇALI CEREN ECZANESİ",
+        "dist": "NİLÜFER",
+        "address": "Çalı Mahallesi, 149 Sokak No:4/A Nilüfer / Bursa",
+        "phone": "0(224)482-28-28",
+        "loc": "40.172238,28.920346"
+      },
+      {
+        "name": "GÖKKUŞAĞI ECZANESİ",
+        "dist": "NİLÜFER",
+        "address": "İhsaniye Mahallesi, Tuna Caddesi, No:46/A-B Nilüfer / Bursa",
+        "phone": "0(224)249-52-23",
+        "loc": "40.220124,28.992471"
+      }
+    ],
+    "orhangazi̇": [
+      {
+        "name": "EYLÜL ECZANESİ",
+        "dist": "ORHANGAZİ",
+        "address": "Camikebir Mahallesi, Orhanbey Caddesi, Bektaş Psj. No:27 Orhangazi / Bursa",
+        "phone": "0(224)572-24-06",
+        "loc": "40.49144901,29.30828904"
       }
     ],
     "osmangazi̇": [
@@ -2023,11 +2043,11 @@
     ],
     "yeni̇şehi̇r": [
       {
-        "name": "ŞİFA ECZANESİ",
+        "name": "ACAR ECZANESİ",
         "dist": "YENİŞEHİR",
-        "address": "Ulucami Mahallesi, Belediye Meydanı No:5 16900 Yenişehir / Bursa",
-        "phone": "0(224)773-04-65",
-        "loc": "40.26188403,29.650077"
+        "address": "Kurtuluş Mahallesi, İznik Caddesi, No:21 Yenişehir / Bursa",
+        "phone": "0(224)773-05-06",
+        "loc": "40.268105,29.651875"
       }
     ],
     "yildirim": [
@@ -2055,22 +2075,6 @@
     ]
   },
   "çanakkale": {
-    "ayvacik": [
-      {
-        "name": "AYVACIK MERKEZ ECZANESİ",
-        "dist": "AYVACIK",
-        "address": "Edremit Caddesi, No:7/171 Ayvacık / Çanakkale",
-        "phone": "0(286)712-11-00",
-        "loc": "39.60051,26.4056"
-      },
-      {
-        "name": "HAN ECZANESİ",
-        "dist": "AYVACIK",
-        "address": "Sahil Mahallesi, Atatürk Caddesi No:19 Ayvacık / Çanakkale",
-        "phone": "0(286)752-64-20",
-        "loc": "39.547822,26.606064"
-      }
-    ],
     "bayrami̇ç": [
       {
         "name": "GÜLER ECZANESİ",
@@ -2078,6 +2082,15 @@
         "address": "Cami Kebir Mahallesi, İnönü Caddesi, No:9/B Bayramiç / Çanakkale",
         "phone": "0(286)773-60-06",
         "loc": "39.81060999,26.61181596"
+      }
+    ],
+    "bi̇ga": [
+      {
+        "name": "HAYAT ECZANESİ",
+        "dist": "BİGA",
+        "address": "Çan Caddesi No:10/B Biga / Çanakkale",
+        "phone": "0(286)316-29-22",
+        "loc": "40.225393,27.242348"
       }
     ],
     "bozcaada": [
@@ -2109,27 +2122,36 @@
     ],
     "ezi̇ne": [
       {
-        "name": "NAR ECZANESİ",
+        "name": "DERMAN ECZANESİ",
         "dist": "EZİNE",
-        "address": "Geyikli Beldesi, Hürriyet Mahallesi, Fabrika Sokak No:1/2 Ezine / Çanakkale",
-        "phone": "0(501)650-11-03",
-        "loc": "39.80308,26.20586"
+        "address": "Akbank karşısı Ezine / Çanakkale",
+        "phone": "0(286)618-24-73",
+        "loc": "39.786633,26.33718"
       },
       {
-        "name": "HANIM ECZANESİ",
+        "name": "GÜLHAN ECZANESİ",
         "dist": "EZİNE",
-        "address": "Seferşah Mahallesi, Adnan Menderes Caddesi No:35/A Ezine / Çanakkale",
-        "phone": "0(286)502-02-42",
-        "loc": "39.78888,26.33952"
+        "address": "Geyikli Beldesi Ezine / Çanakkale",
+        "phone": "0(286)638-51-52",
+        "loc": "39.802904,26.206092"
       }
     ],
     "geli̇bolu": [
       {
-        "name": "DERYA ECZANESİ",
+        "name": "YÜKSEL ECZANESİ",
         "dist": "GELİBOLU",
-        "address": "Yazıcızade Mahallesi, Dübekbaşı Sokak No:12-14/A Gelibolu / Çanakkale",
-        "phone": "0(286)566-66-17",
-        "loc": "40.413737,26.676313"
+        "address": "Gazi Süleyman Paşa Mahallesi, Gazi Hasan Paşa Caddesi No:12 Gelibolu / Çanakkale",
+        "phone": "0(286)566-29-89",
+        "loc": "40.412747,26.667782"
+      }
+    ],
+    "gökçeada": [
+      {
+        "name": "TUNCA ECZANESİ",
+        "dist": "GÖKÇEADA",
+        "address": "Fatih Mahallesi, İnönü Caddesi, No:48/A Gökçeada / Çanakkale",
+        "phone": "0(286)887-47-63",
+        "loc": "40.197719,25.902986"
       }
     ],
     "lapseki̇": [
@@ -2148,27 +2170,17 @@
         "loc": "40.37658,26.719482"
       }
     ],
-    "merkez": [],
     "yeni̇ce": [
       {
-        "name": "BEGÜM ECZANESİ",
+        "name": "DOST ECZANESİ",
         "dist": "YENİCE",
-        "address": "Kurtuluş Mahallesi Hamdibey Caddesi No:5 Zemin 1 Yenice/Çanakkale",
-        "phone": "0(286)773-11-17",
-        "loc": "39.930265,27.259479"
+        "address": "Kurtuluş Mahallesi, Biga Caddesi, No:26/1 Yenice / Çanakkale",
+        "phone": "0(286)474-42-52",
+        "loc": "39.929746,27.256724"
       }
     ]
   },
   "çankırı": {
-    "atkaracalar": [
-      {
-        "name": "AKİF ECZANESİ",
-        "dist": "ATKARACALAR",
-        "address": "Kıran Mahallesi, Nevzat Ayaz Caddesi, No:60/3 Atkaracalar / Çankırı",
-        "phone": "0(376)712-10-48",
-        "loc": "40.80857598,33.07788792"
-      }
-    ],
     "bayramören": [
       {
         "name": "MEHMET ECZANESİ",
@@ -2189,11 +2201,11 @@
     ],
     "eldi̇van": [
       {
-        "name": "KİRAZ ECZANESİ",
+        "name": "ELDİVAN ECZANESİ",
         "dist": "ELDİVAN",
-        "address": "Topraklık Mahallesi, Başbuğ Alparslan Türkeş Caddesi No:13/A Eldivan / Çankırı",
-        "phone": "0 (507) 809-41-98",
-        "loc": "40.5316,33.4984"
+        "address": "Cami Mahallesi, Park Sokak No:30/A Eldivan / Çankırı",
+        "phone": "0(376)311-21-50",
+        "loc": "40.53060396,33.49929492"
       }
     ],
     "ilgaz": [
@@ -2207,11 +2219,11 @@
     ],
     "kizilirmak": [
       {
-        "name": "KIZILIRMAK ECZANESİ",
+        "name": "ŞİFA ECZANESİ",
         "dist": "KIZILIRMAK",
-        "address": "Osmanlı Mahallesi, Cumhuriyet Caddesi, No:26/A Kızılırmak / Çankırı",
-        "phone": "0(376)324-10-30",
-        "loc": "40.347014,33.986918"
+        "address": "Osmanlı Mahallesi Yunus Emre Caddesi, No:12/B Kızılırmak / Çankırı",
+        "phone": "0(376)324-16-40",
+        "loc": "40.34402496,33.98517396"
       }
     ],
     "korgun": [
@@ -2232,7 +2244,6 @@
         "loc": "40.840002,33.26159592"
       }
     ],
-    "merkez": [],
     "orta": [
       {
         "name": "ŞİFA ECZANESİ",
@@ -2273,11 +2284,11 @@
     ],
     "bayat": [
       {
-        "name": "BAYAT ECZANESİ",
+        "name": "YÜKSEL ECZANESİ",
         "dist": "BAYAT",
-        "address": "Yeni Mahallesi, Beyazıt Caddesi No:6/B Bayat / Çorum",
-        "phone": "0(364)381-06-19",
-        "loc": "40.643,34.25907"
+        "address": "Çorum Caddesi, No:42 Bayat / Çorum",
+        "phone": "0(364)381-47-23",
+        "loc": "40.64275899,34.25835888"
       }
     ],
     "boğazkale": [
@@ -2287,6 +2298,15 @@
         "address": "Cumhuriyet Meydanı No:24 Boğazkale / Çorum",
         "phone": "0(364)452-29-78",
         "loc": "40.02427404,34.60831092"
+      }
+    ],
+    "dodurga": [
+      {
+        "name": "HAYAT ECZANESİ",
+        "dist": "DODURGA",
+        "address": "Esen Tepe Mahallesi, Yunus Emre Bulvarı No: 7/B-C Dodurga / Çorum",
+        "phone": "0(364)221-12-89",
+        "loc": "40.85811396,34.81040592"
       }
     ],
     "i̇ski̇li̇p": [
@@ -2393,6 +2413,7 @@
         "loc": "38.22969996,29.419263"
       }
     ],
+    "beyağaç": [],
     "bozkurt": [
       {
         "name": "İREM ECZANESİ",
@@ -2427,6 +2448,15 @@
         "address": "Yeni Mahallesi, Atatürk Bulvarı No:2/A Çameli / Denizli",
         "phone": "0(258)571-51-99",
         "loc": "37.07562096,29.34462312"
+      }
+    ],
+    "çardak": [
+      {
+        "name": "TUNA ECZANESİ",
+        "dist": "ÇARDAK",
+        "address": "Cumhuriyet Mahallesi, Adnan Menderes Caddesi, No:54 Çardak / Denizli",
+        "phone": "0(258)851-13-07",
+        "loc": "37.82311398,29.66758884"
       }
     ],
     "çi̇vri̇l": [
@@ -2609,13 +2639,22 @@
         "loc": "38.12806197,39.45010212"
       }
     ],
+    "çinar": [
+      {
+        "name": "ZERZEVAN ECZANESİ",
+        "dist": "ÇINAR",
+        "address": "Cumhuriyet Mahallesi, Sadlık Sokak No:5/1 Çınar / Diyarbakır",
+        "phone": "0(412)511-25-11",
+        "loc": "37.729922,40.40541"
+      }
+    ],
     "çüngüş": [
       {
-        "name": "ÇÜNGÜS ECZANESİ",
+        "name": "ÇÜNGÜŞ ECZANESİ",
         "dist": "ÇÜNGÜŞ",
-        "address": "Cami Sk.cumhuriyet Meydani Cd No:1",
-        "phone": "",
-        "loc": "38.212187,39.293747"
+        "address": "Karşıyaka Mahallesi, Cumhuriyet Meydanı No:4 Çüngüş / Diyarbakır",
+        "phone": "0 (412) 541-20-85",
+        "loc": "37.919565,40.219594"
       }
     ],
     "di̇cle": [
@@ -2634,6 +2673,15 @@
         "address": "Diyarbakır İli Eğil İlçesi Kale Mah. Bey Sok. No:8 B",
         "phone": "0(531)316-87-26",
         "loc": "38.257835,40.085521"
+      }
+    ],
+    "ergani̇": [
+      {
+        "name": "ROZERİN ECZANESİ",
+        "dist": "ERGANİ",
+        "address": "İstasyon Yolu Üzeri Ergani Diyarbakır",
+        "phone": "0(412)611-89-56",
+        "loc": "38.25707904,39.756798"
       }
     ],
     "hani̇": [
@@ -2727,6 +2775,7 @@
         "loc": "38.141786,41.006894"
       }
     ],
+    "sur": [],
     "yeni̇şehi̇r": [
       {
         "name": "ŞİLBE YOLALTI ECZANESİ",
@@ -2738,13 +2787,13 @@
     ]
   },
   "edirne": {
-    "enez": [
+    "havsa": [
       {
-        "name": "SAYGIN ECZANESİ",
-        "dist": "ENEZ",
-        "address": "Gazi Ömerbey Mahallesi, Kale Caddesi, No:11 Enez / Edirne",
-        "phone": "0(284)811-61-47",
-        "loc": "40.724814,26.084344"
+        "name": "YAVUZ ECZANESİ",
+        "dist": "HAVSA",
+        "address": "Uzunköprü Caddesi, No:5/B Havsa / Edirne",
+        "phone": "0(284)336-24-73",
+        "loc": "41.548864,26.821615"
       }
     ],
     "i̇psala": [
@@ -2767,11 +2816,11 @@
     ],
     "lalapaşa": [
       {
-        "name": "SEVİL ECZANESİ",
+        "name": "YAREN ECZANESİ",
         "dist": "LALAPAŞA",
-        "address": "Cumhuriyet Caddesi, No:36/B Lalapaşa / Edirne",
-        "phone": "0(284)321-40-32",
-        "loc": "41.839311,26.732826"
+        "address": "Merkez Mahallesi, Adem Yavuz Sokak, Yakup Usta Caddesi, No:1/B Lalapaşa / Edirne",
+        "phone": "0(284)321-40-82",
+        "loc": "41.839159,26.735825"
       }
     ],
     "meri̇ç": [
@@ -2792,18 +2841,10 @@
         "phone": "0(284)311-36-89",
         "loc": "41.76645,26.910025"
       }
-    ],
-    "uzunköprü": [
-      {
-        "name": "GENCAN ECZANESİ",
-        "dist": "UZUNKÖPRÜ",
-        "address": "Habib Hoca Mahallesi, Yusuf Kirez Sokak, No:8 Uzunköprü / Edirne",
-        "phone": "0(284)513-55-75",
-        "loc": "41.260305,26.685897"
-      }
     ]
   },
   "elazığ": {
+    "ağin": [],
     "alacakaya": [],
     "aricak": [],
     "baski̇l": [],
@@ -2857,15 +2898,6 @@
         "loc": "39.80728998,40.03752384"
       }
     ],
-    "i̇li̇ç": [
-      {
-        "name": "ALTINKENT ECZANESİ",
-        "dist": "İLİÇ",
-        "address": "Abdullahpaşa Mahallesi, Hükümet Caddesi No:4/Z-1 İliç / Erzincan",
-        "phone": "0 (446) 711-24-00",
-        "loc": "39.456454,38.564252"
-      }
-    ],
     "kemah": [],
     "kemali̇ye": [],
     "merkez": [],
@@ -2899,6 +2931,15 @@
     ]
   },
   "erzurum": {
+    "aşkale": [
+      {
+        "name": "FATİH ECZANESİ",
+        "dist": "AŞKALE",
+        "address": "Çarşı Mahallesi, İstanbul Caddesi, No:60/1 Aşkale-Erzurum",
+        "phone": "0(442)415-24-25",
+        "loc": "39.92142897,40.69538892"
+      }
+    ],
     "azi̇zi̇ye": [
       {
         "name": "ŞENOL ECZANESİ",
@@ -2913,15 +2954,6 @@
         "address": "Ilıca Mahallesi, Hoca Ahmet Yasevi Caddesi, Yurt Apt No:1L Aziziye / Erzurum",
         "phone": "0(442)631-35-54",
         "loc": "39.94632837,41.10373568"
-      }
-    ],
-    "çat": [
-      {
-        "name": "ÇAT ECZANESİ",
-        "dist": "ÇAT",
-        "address": "Oyuklu Mah. Hastane Cad. No:12/D",
-        "phone": "0(536)202-80-69",
-        "loc": "39.612799,40.977931"
       }
     ],
     "hinis": [
@@ -2942,13 +2974,13 @@
         "loc": "40.029859,42.148274"
       }
     ],
-    "karaçoban": [
+    "i̇spi̇r": [
       {
-        "name": "MERKEZ RESULOĞULLARI ECZANESİ",
-        "dist": "KARAÇOBAN",
-        "address": "Kavaklı Mahallesi, Hastane Caddesi, No:32/C-Z.1 Karaçoban / Erzurum",
-        "phone": "0(442)591-30-30",
-        "loc": "39.347629,42.098708"
+        "name": "YENİ BURÇAK ECZANESİ",
+        "dist": "İSPİR",
+        "address": "Karşıyaka Mahallesi, Hükümet Caddesi, No:28 İspir / Erzurum",
+        "phone": "0(442)451-33-60",
+        "loc": "40.483377,41.00011596"
       }
     ],
     "karayazi": [
@@ -3007,15 +3039,6 @@
         "loc": "39.643982,41.505973"
       }
     ],
-    "tortum": [
-      {
-        "name": "MERKEZ ECZANESİ",
-        "dist": "TORTUM",
-        "address": "Yavuz Sultan Selim Mahallesi, Ebubekir Akay Caddesi, No:51 Tortum / Erzurum",
-        "phone": "0(442)761-32-55",
-        "loc": "40.299986,41.543097"
-      }
-    ],
     "uzundere": [
       {
         "name": "KARAHAN ECZANESİ",
@@ -3023,6 +3046,22 @@
         "address": "Merkez Mahallesi, Orgenaral Siyami Taşdan Caddesi, No:8/A Uzundere-Erzurum",
         "phone": "0(442)791-25-90",
         "loc": "40.53249603,41.54475096"
+      }
+    ],
+    "yakuti̇ye": [
+      {
+        "name": "BAHAR ECZANESİ",
+        "dist": "YAKUTİYE",
+        "address": "1. Terminal Caddesi, No:42/A Yakutiye / Erzurum",
+        "phone": "0(442)816-11-12",
+        "loc": "39.908573,41.255105"
+      },
+      {
+        "name": "SARE ECZANESİ",
+        "dist": "YAKUTİYE",
+        "address": "Kazim Karabekir Paşa Mah. 50. Yil Cad. No:26/28C Bankalar Cad. istasyon Kavşaği Büyük Migros Üstü M.zahid Kotku Camii Karşisi",
+        "phone": "0(442)215-14-51",
+        "loc": "39.913771,41.271334"
       }
     ]
   },
@@ -3116,29 +3155,6 @@
         "phone": "0(222)711-42-62",
         "loc": "39.449232,31.53892788"
       }
-    ],
-    "tepebaşi": [
-      {
-        "name": "NEŞET ECZANESİ",
-        "dist": "TEPEBAŞI",
-        "address": "Batıkent Mahallesi, Hayrettin Karaca Sokak, No:19 Tepebaşı / Eskişehir",
-        "phone": "0(222)320-04-05",
-        "loc": "39.7890712939476,30.4693683847093"
-      },
-      {
-        "name": "YAŞAM ECZANESİ",
-        "dist": "TEPEBAŞI",
-        "address": "Bahçelievler Mahallesi, Prof. Dr. Orhan Oğuz Caddesi, No:35/B Tepebaşı / Eskişehir",
-        "phone": "0(222)322-30-57",
-        "loc": "39.79003052,30.51605272"
-      },
-      {
-        "name": "ORGANİK ECZANESİ",
-        "dist": "TEPEBAŞI",
-        "address": "Hoşnudiye Mahallesi, İsmet İnönü-1 Caddesi, No:22/B Tepebaşı / Eskişehir",
-        "phone": "0 (222) 232-35-30",
-        "loc": "39.777763,30.516789"
-      }
     ]
   },
   "gaziantep": {
@@ -3149,15 +3165,6 @@
         "address": "Yeşilova Mahallesi Gaziantep Caddesi No:84/B Araban / Gaziantep",
         "phone": "0(342)611-27-50",
         "loc": "37.42705,37.687947"
-      }
-    ],
-    "i̇slahi̇ye": [
-      {
-        "name": "SELİM ECZANESİ",
-        "dist": "İSLAHİYE",
-        "address": "Hacı Ali Öztürk Mahallesi, Hatay Caddesi, No:3/C İslahiye / Gaziantep",
-        "phone": "0(342)869-07-14",
-        "loc": "37.02518604,36.631179"
       }
     ],
     "karkamiş": [],
@@ -3221,6 +3228,13 @@
         "address": "Bülbülzade Mahallesi, Yeşilvadi Bulvarı No:171A/d Şahinbey / Gaziantep",
         "phone": "05309118222",
         "loc": "37.03153,37.352561"
+      },
+      {
+        "name": "KOZANLI TANRITANIR ECZANESİ",
+        "dist": "ŞAHİNBEY",
+        "address": "İbn-i Sina Mahallesi, 190011 Nolu Cadde No:5AF Şahinbey / Gaziantep",
+        "phone": "0(342)251-55-75",
+        "loc": "37.01815,37.38622"
       },
       {
         "name": "DEVECİ ECZANESİ",
@@ -3292,22 +3306,13 @@
     ]
   },
   "giresun": {
-    "alucra": [
-      {
-        "name": "KÜBRA ECZANESİ",
-        "dist": "ALUCRA",
-        "address": "Hoca Ahmed Yesevi Mah. Halil Kırcalı Sok. No:6/B",
-        "phone": "0(454)751-34-34",
-        "loc": "40.320453,38.76402"
-      }
-    ],
     "bulancak": [
       {
-        "name": "DEMİRKILIÇ ECZANESİ",
+        "name": "MÜGE ECZANESİ",
         "dist": "BULANCAK",
-        "address": "Ballıca Mahallesi, Ocak Sokak, No:7/A Bulancak / Giresun",
-        "phone": "0(454)311-00-33",
-        "loc": "40.934425,38.213976"
+        "address": "İsmetpaşa Mahallesi, Hamdi Uzunalioğlu Caddesi, No:105 Bulancak / Giresun",
+        "phone": "0(454)318-41-21",
+        "loc": "40.94028396,38.244114"
       }
     ],
     "çamoluk": [],
@@ -3351,11 +3356,11 @@
     ],
     "keşap": [
       {
-        "name": "KEŞAP ECZANESİ",
+        "name": "FATİH ECZANESİ",
         "dist": "KEŞAP",
-        "address": "Atatürk Bulvarı Bozkurt Mahallesi, No:45 Keşap / Giresun",
-        "phone": "0(454)641-40-59",
-        "loc": "40.9158778963428,38.5130082214785"
+        "address": "Bozkurt Mahallesi, Hükümet Caddesi, No:33/D Keşap / Giresun",
+        "phone": "0(454)212-70-90",
+        "loc": "40.9163917481585,38.5100052757277"
       }
     ],
     "merkez": [],
@@ -3379,40 +3384,40 @@
     ],
     "ti̇rebolu": [
       {
-        "name": "DİKMEN ECZANESİ",
+        "name": "DİLEK ECZANESİ",
         "dist": "TİREBOLU",
-        "address": "Çarşı Mahallesi, Zübeyde Hanım Caddesi, No:5/A Tirebolu / Giresun",
-        "phone": "0(454)411-35-35",
-        "loc": "41.0070883166576,38.814543509375"
+        "address": "Yeniköy Mahallesi, Plaj Sokak, No:1/B Tirebolu / Giresun",
+        "phone": "0(454)411-45-99",
+        "loc": "41.0041564239004,38.8113344108947"
       }
     ],
     "yağlidere": [
       {
-        "name": "BİLGE ECZANESİ",
+        "name": "AYDIN ECZANESİ",
         "dist": "YAĞLIDERE",
-        "address": "Merkez Mahallesi, Ahmet Yanbul Caddesi, No:38/A Yağlıdere / Giresun",
-        "phone": "0(454)671-22-44",
-        "loc": "40.85925498,38.62642788"
+        "address": "Selçuk Kayaalp Caddesi, No:25/A Yağlıdere / Giresun",
+        "phone": "0(454)671-38-40",
+        "loc": "40.85957997,38.62583316"
       }
     ]
   },
   "gümüşhane": {
     "kelki̇t": [
       {
-        "name": "SOYDAŞ ECZANESİ",
+        "name": "GÜMÜŞ ECZANESİ",
         "dist": "KELKİT",
-        "address": "Büyük Cami Mahallesi, Büyük Cami Sokak No:8 Kelkit / Gümüşhane",
-        "phone": "0(456)317-36-61",
-        "loc": "40.12919,39.43677"
+        "address": "Cumhuriyet Mah. Kabristan Köprü Sk. No:5A",
+        "phone": "0(456)317-41-42",
+        "loc": "40.129488,39.435605"
       }
     ],
     "köse": [
       {
-        "name": "HUZUR ECZANESİ",
+        "name": "NUR ECZANESİ",
         "dist": "KÖSE",
-        "address": "Oltan Sungurlu Caddesi No:36, Köse / Gümüşhane",
-        "phone": "0 (456) 411-52-02",
-        "loc": "40.20927102,39.65357016"
+        "address": "Yeni Mahalle Hilal Sokak No:6/A",
+        "phone": "0(456)411-50-42",
+        "loc": "40.208737,39.658004"
       }
     ],
     "kürtün": [
@@ -3427,11 +3432,11 @@
     "merkez": [],
     "şi̇ran": [
       {
-        "name": "ŞİFA ECZANESİ",
+        "name": "GİRİFTİNOĞLU ECZANESİ",
         "dist": "ŞİRAN",
-        "address": "19 Mayıs Caddesi, No:39/B Şiran / Gümüşhane",
-        "phone": "0(456)511-84-01",
-        "loc": "40.18865,39.123945"
+        "address": "Tekke Mahallesi, Şehit Teğmen Tuna Kara Caddesi, No:17/1 Şiran / Gümüşhane",
+        "phone": "0(456)511-70-83",
+        "loc": "40.188849,39.124161"
       }
     ],
     "torul": [
@@ -3466,29 +3471,29 @@
     ],
     "yüksekova": [
       {
-        "name": "RUMEYSA ECZANESİ",
+        "name": "DEVA ECZANESİ",
         "dist": "YÜKSEKOVA",
-        "address": "İnanlı Mahallesi, İnanlı Caddesi No:317/C Yüksekova / Hakkari",
-        "phone": "0(438)351-00-01",
-        "loc": "37.56752,44.22918"
+        "address": "LC Waikiki karşısı Yüksekova / Hakkari",
+        "phone": "0(438)351-66-11",
+        "loc": "37.5713591787042,44.2836057532771"
       },
       {
-        "name": "BEŞER ECZANESİ",
+        "name": "ŞALVACI ECZANESİ",
         "dist": "YÜKSEKOVA",
-        "address": "Cumhuriyet Mahallesi, Kani Haydar Caddesi No:95/A Yüksekova / Hakkari",
-        "phone": "0(533)688-34-30",
-        "loc": "37.56075,44.295499"
+        "address": "Yeni Mahallesi, Dağlıca Caddesi No:48/C Yüksekova / Hakkari",
+        "phone": "0(438)351-00-22",
+        "loc": "37.560004,44.270147"
       }
     ]
   },
   "hatay": {
     "altinözü": [
       {
-        "name": "KİRAZ ECZANESİ",
+        "name": "DENİZCAN ECZANESİ",
         "dist": "ALTINÖZÜ",
-        "address": "Fatrikli Mahallesi, Kazıkçı Sokak, No:3/A-B Altınözü / Hatay",
-        "phone": "0 (326) 502-22-12",
-        "loc": "36.12059,36.243822"
+        "address": "Sarilar Mahallesi Gündüz Caddesi 18/A",
+        "phone": "0(326)512-36-47",
+        "loc": "36.115419,36.250651"
       }
     ],
     "antakya": [],
@@ -3517,6 +3522,7 @@
         "loc": "36.491383,36.194439"
       }
     ],
+    "defne": [],
     "dörtyol": [
       {
         "name": "AYKIN ECZANESİ",
@@ -3604,6 +3610,15 @@
         "loc": "36.48781,36.337698"
       }
     ],
+    "kumlu": [
+      {
+        "name": "ERSÖZ ECZANESİ",
+        "dist": "KUMLU",
+        "address": "Cumhuriyet Mah.şehit Mehmet Kurşun Geçirmez Bulvari 28/1-1",
+        "phone": "0(326)413-34-44",
+        "loc": "36.3665,36.44817"
+      }
+    ],
     "payas": [
       {
         "name": "KÜRTÜL ECZANESİ",
@@ -3649,6 +3664,7 @@
     ]
   },
   "isparta": {
+    "aksu": [],
     "atabey": [],
     "eği̇rdi̇r": [
       {
@@ -3688,15 +3704,16 @@
         "loc": "38.106908,30.550942"
       }
     ],
+    "sütçüler": [],
     "şarki̇karaağaç": [],
     "uluborlu": [],
     "yalvaç": [
       {
-        "name": "DENİZHAN ECZANESİ",
+        "name": "ALTİNBAŞ ECZANESİ",
         "dist": "YALVAÇ",
-        "address": "Kaşyukarı Mahallesi, Hastane Caddesi, No:15/2 Yalvaç / Isparta",
-        "phone": "0(246)441-41-70",
-        "loc": "38.29715001,31.17710304"
+        "address": "Leblebiciler Mah. Hastane Cad. No:44/C",
+        "phone": "0(246)441-81-82",
+        "loc": "38.295409,31.177945"
       }
     ],
     "yeni̇şarbademli̇": []
@@ -3725,13 +3742,22 @@
         "loc": "36.806624,34.635694"
       }
     ],
-    "aydincik": [
+    "anamur": [
       {
-        "name": "AYDINCIK ECZANESİ",
-        "dist": "AYDINCIK",
-        "address": "Atatürk Caddesi, Aydıncık / Mersin",
-        "phone": "0 (324) 841-32-63",
-        "loc": "36.152675,33.338549"
+        "name": "DİLŞAD ECZANESİ",
+        "dist": "ANAMUR",
+        "address": "Yalınevler Mahallesi, Mareşal Fevzi Çakmak Caddesi, No:182/1 Anamur / Mersin",
+        "phone": "0(324)814-12-22",
+        "loc": "36.0709742241233,32.8643076135741"
+      }
+    ],
+    "bozyazi": [
+      {
+        "name": "NİL ECZANESİ",
+        "dist": "BOZYAZI",
+        "address": "Merkez Mahallesi, Sağlık Sokak, No:8/7 Bozyazı / Mersin",
+        "phone": "0(324)851-69-88",
+        "loc": "36.10604502,32.97060288"
       }
     ],
     "çamliyayla": [],
@@ -3838,6 +3864,22 @@
         "loc": "36.909253,34.881943"
       }
     ],
+    "toroslar": [
+      {
+        "name": "HEKİM ECZANESİ",
+        "dist": "TOROSLAR",
+        "address": "Kurdali Mahallesi, 100075 Sokak, No:33/A Toroslar / Mersin",
+        "phone": "0(324)320-21-77",
+        "loc": "36.826091,34.625"
+      },
+      {
+        "name": "IŞIKLAR ECZANESİ",
+        "dist": "TOROSLAR",
+        "address": "Arpaçsakarlar Mh. Çiftçiler Cd. No:130/A",
+        "phone": "0(324)229-26-92",
+        "loc": "36.861017,34.629425"
+      }
+    ],
     "yeni̇şehi̇r": [
       {
         "name": "ARIÇ ECZANESİ",
@@ -3872,18 +3914,18 @@
         "loc": "40.8799875499784,29.0691949388733"
       },
       {
-        "name": "MERKEZ ECZANESİ",
+        "name": "HAYAT ECZANESİ",
         "dist": "ADALAR",
-        "address": "Nizam Mahallesi, 23 Nisan Caddesi, 12",
-        "phone": "+902163826392",
-        "loc": "40.8738566883213,29.1279981080284"
+        "address": "Heybeliada Mahallesi, Ayyıldız Caddesi, 43",
+        "phone": "+902163519907",
+        "loc": "40.8780500509314,29.0997233461303"
       },
       {
-        "name": "HEYBELİADA ECZANESİ",
+        "name": "BÜYÜKADA ECZANESİ",
         "dist": "ADALAR",
-        "address": "Heybeliada Mahallesi, Ayyıldız Caddesi, 28",
-        "phone": "+902163518415",
-        "loc": "40.87752911417611,29.10001824584442"
+        "address": "Maden Mahallesi, Çınar Caddesi, 4/A",
+        "phone": "+902163826756",
+        "loc": "40.8731849104542,29.1278709462456"
       },
       {
         "name": "DENİZ ECZANESİ",
@@ -3918,189 +3960,203 @@
     ],
     "ataşehi̇r": [
       {
-        "name": "ZEYTİN ECZANESİ",
+        "name": "ECZANE BUTİK",
         "dist": "ATAŞEHİR",
-        "address": "İçerenköy Mahallesi, Aydın Sokak, 26",
-        "phone": "+902165766616",
-        "loc": "40.972251,29.116563"
+        "address": "Atatürk Mahallesi, Girne Caddesi, 53B",
+        "phone": "+902164562634",
+        "loc": "40.986762282619,29.1320196975322"
       },
       {
-        "name": "EVRİM ECZANESİ",
+        "name": "LOTUS ECZANESİ",
         "dist": "ATAŞEHİR",
-        "address": "Mustafa Kemal Mahallesi, 3096. Sokak, 2/2",
-        "phone": "+902164725526",
-        "loc": "41.003991,29.093486"
+        "address": "İçerenköy Mahallesi Üsküdar-İçerenköy Yolu Caddesi No:80/A",
+        "phone": "2165734168",
+        "loc": "40.970283,29.114219"
       },
       {
-        "name": "NEFESİM ECZANESİ",
+        "name": "Vİ̇TA PLUS ECZANESİ̇",
         "dist": "ATAŞEHİR",
-        "address": "İnönü Mahallesi, 19 Mayıs Caddesi, 28/B",
-        "phone": "+902164690090",
-        "loc": "40.97666416963877,29.13021620309214"
+        "address": "Yenisahra Mahallesi Karaman Cad. No:No:1/1P",
+        "phone": "2166291176",
+        "loc": "40.990549,29.080505"
       },
       {
-        "name": "MELİSSA ECZANESİ",
+        "name": "İDA ECZANESİ",
         "dist": "ATAŞEHİR",
-        "address": "Atatürk Mahallesi, Ataşehir Bulvarı, 10H",
-        "phone": "+902164554886",
-        "loc": "40.99249178296755,29.12105441093445"
+        "address": "Küçükbakkalköy Mahallesi, Cengiz Topel Caddesi, No:16/B",
+        "phone": "+902165721915",
+        "loc": "40.9802165181141,29.11836181372769"
       }
     ],
     "avcilar": [
       {
-        "name": "YAKAMOZ ECZANESİ",
+        "name": "MALİ̇ ECZANESİ̇",
         "dist": "AVCILAR",
-        "address": "Tahtakale Mahallesi Ispartakule Bulvarı No:No:16/1F",
-        "phone": "2128772773",
-        "loc": "41.07175489986073,28.71038862159499"
+        "address": "Merkez Mahallesi Tüloğlu Sokak No:No:4/A",
+        "phone": "5327117217",
+        "loc": "40.97914591423514,28.7273313751252"
       },
       {
-        "name": "DEVA ECZANESİ",
+        "name": "GÜLCE ECZANESİ",
         "dist": "AVCILAR",
-        "address": "Denizköşkler Mahallesi, Ahmet Kaya Caddesi, 72/A",
-        "phone": "+902124200368",
-        "loc": "40.97603620121978,28.73371638183384"
+        "address": "Tahtakale Mahallesi, Firuze Çiçeği Sokak, 4S Dükkan: 128",
+        "phone": "+902123022813",
+        "loc": "41.06211557326924,28.71342267202843"
       },
       {
-        "name": "LİMON ECZANESİ",
+        "name": "DENİZ AVCİLAR ECZANESİ",
         "dist": "AVCILAR",
-        "address": "Üniversite Mahallesi, Uran Caddesi, 7A",
-        "phone": "+902126909017",
-        "loc": "41.01728266453185,28.55685979127884"
+        "address": "Mustafa Kemal Paşa Mahallesi, Mimarsinan Caddesi, 58B",
+        "phone": "+902124231555",
+        "loc": "41.0029713808296,28.7073253467679"
       },
       {
-        "name": "ÖZGE ECZANESİ",
+        "name": "NUR ECZANESİ",
         "dist": "AVCILAR",
-        "address": "Yeşilkent Mahallesi, Bahçeşehir Yan Yol Caddesi, 18/4B",
-        "phone": "+902128122882",
-        "loc": "41.05548066292686,28.68701497567554"
-      },
-      {
-        "name": "KARADAĞ ECZANESİ̇",
-        "dist": "AVCILAR",
-        "address": "Avcılar Merkez Mahallesi Tüloğlu Sokak No:No:22/A",
-        "phone": "2125095993",
-        "loc": "40.980672,28.727584"
-      },
-      {
-        "name": "ZEYREK ECZANESİ",
-        "dist": "AVCILAR",
-        "address": "Gümüşpala Mahallesi, Yeniyuva Sokak, 31A",
-        "phone": "+902125932155",
-        "loc": "41.100154,29.092542"
+        "address": "Avcılar Merkez Mahallesi, Şamlı Sokak, 32C",
+        "phone": "+902125936647",
+        "loc": "40.981074,28.721323"
       }
     ],
     "bağcilar": [
       {
-        "name": "GÜNEŞLİ İPEK ECZANESİ",
+        "name": "ÖZLER ECZANESİ",
         "dist": "BAĞCILAR",
-        "address": "15 Temmuz Mahallesi, Fevzi Çakmak Caddesi, 37/B",
-        "phone": "+902126555411",
-        "loc": "41.034832,28.822724"
+        "address": "Fatih Mahallesi, 1795. Sokak, 30/A",
+        "phone": "+902124459296",
+        "loc": "41.0541770333429,28.8485810645675"
       },
       {
-        "name": "AVRUPA ECZANESİ",
+        "name": "OKUR ECZANESİ",
         "dist": "BAĞCILAR",
-        "address": "Yeni Mahalle Mahallesi Dökümcüler Caddesi No:55/A",
-        "phone": "5071532539",
-        "loc": "41.039152,28.836567"
+        "address": "Güneşli Mahallesi, 1292. Sokak, 1A",
+        "phone": "+902129248158",
+        "loc": "41.0381050437051,28.8317407027073"
       },
       {
-        "name": "İKİZLER ECZANESİ",
+        "name": "SAMUR ECZANESİ",
         "dist": "BAĞCILAR",
-        "address": "Fatih Mahallesi, Velioğlu Caddesi, 82B",
-        "phone": "+902125157440",
-        "loc": "41.0504404289251,28.842443972826"
+        "address": "İnönü Mahallesi, 408 Sokak, 24/A",
+        "phone": "+902124332999",
+        "loc": "41.0313555611583,28.8503385437093"
       },
       {
-        "name": "TORAMAN ECZANESİ",
+        "name": "G-PLUS ECZANESİ",
         "dist": "BAĞCILAR",
-        "address": "Çınar Mahallesi, Esenler Caddesi, 11/A",
-        "phone": "+902125690270",
-        "loc": "41.0342854571197,28.8650583067181"
+        "address": "Bağlar Mahallesi, Mimar Sinan Caddesi, 37B",
+        "phone": "+902128030509",
+        "loc": "41.02476079466672,28.81555080413818"
+      },
+      {
+        "name": "YENİ VEFA ECZANESİ",
+        "dist": "BAĞCILAR",
+        "address": "Çınar Mahallesi, 773. Sokak, 58/1",
+        "phone": "+902126101066",
+        "loc": "41.03880915796398,28.8654439151287"
       }
     ],
     "bahçeli̇evler": [
       {
-        "name": "AKİN ECZANESİ",
+        "name": "OKSİJEN ECZANESİ",
         "dist": "BAHÇELİEVLER",
-        "address": "Cumhuriyet Mahallesi, Sevil Sokak, 41A",
-        "phone": "+902124350592",
-        "loc": "41.0168791565934,28.8491265517697"
+        "address": "Bahçelievler Mahallesi, Adnan Kahveci Bulvarı, 41/B",
+        "phone": "+902125555233",
+        "loc": "41.0053821407084,28.869548923751"
       },
       {
-        "name": "YENİBOSNA HAYAT ECZANESİ",
+        "name": "GÜNGÖR ECZANESİ",
         "dist": "BAHÇELİEVLER",
-        "address": "Zafer Mahallesi, Yıldırım Beyazıt Caddesi, 56",
-        "phone": "+902125037257",
-        "loc": "40.997928,28.834762"
+        "address": "Şirinevler Mahallesi, Gaziler Sokak, 6/B",
+        "phone": "+902124518010",
+        "loc": "41.00315771466834,28.84275247846532"
       },
       {
-        "name": "IŞİK ECZANESİ",
+        "name": "SARAY ECZANESİ",
         "dist": "BAHÇELİEVLER",
-        "address": "Kocasinan Merkez Mahallesi, Konak Sokak, 3",
-        "phone": "+902125709482",
-        "loc": "41.009973,28.844464"
+        "address": "Siyavuşpaşa Mahallesi, Çamlık Caddesi, Şebboy Sok. No:1",
+        "phone": "+902125075787",
+        "loc": "41.001432,28.857498"
       },
       {
-        "name": "CEM ECZANESİ",
+        "name": "PETEK ECZANESİ",
         "dist": "BAHÇELİEVLER",
-        "address": "Siyavuşpaşa Mahallesi, Ulubatlı Hasan Caddesi, 2/C",
-        "phone": "+902125068566",
-        "loc": "41.00255497748856,28.85531716975788"
+        "address": "Hürriyet Mahallesi, Ahmet Yesevi Caddesi, 80/D",
+        "phone": "+902126531283",
+        "loc": "40.99945650893,28.8386743386244"
+      },
+      {
+        "name": "KUTLU ECZANESİ",
+        "dist": "BAHÇELİEVLER",
+        "address": "Şirinevler Mahallesi Fetih 5. Sokak No:10/A",
+        "phone": "2126394242",
+        "loc": "40.9950736360348,28.8450786005166"
       }
     ],
     "bakirköy": [
       {
-        "name": "BAYAR ECZANESİ",
+        "name": "CEYLAN ECZANESİ",
         "dist": "BAKIRKÖY",
-        "address": "Ataköy 3-4-11.  Kısım Mahallesi Cevat Dursunoğlu Caddesi No:No:24/A",
-        "phone": "",
-        "loc": "40.982197,28.859852"
+        "address": "Osmaniye Mahallesi, Sığırtmaç Sokak, 2B",
+        "phone": "+902125702220",
+        "loc": "40.982429,28.872877"
       },
       {
-        "name": "İPEK ECZANESİ",
+        "name": "BÜYÜK UMUT ECZANESİ",
         "dist": "BAKIRKÖY",
-        "address": "Şenlikköy Mahallesi, Mektep Sokak, 52/2",
-        "phone": "+902126624637",
-        "loc": "40.9798711541192,28.7947297272539"
+        "address": "Yeşilköy Mahallesi Çekmece Caddesi 11/B",
+        "phone": "+902125731787",
+        "loc": "40.9596479074417,28.819573322761"
       },
       {
-        "name": "BAKİRKÖY SEVGİ ECZANESİ",
+        "name": "ÖYKÜ ECZANESİ",
         "dist": "BAKIRKÖY",
-        "address": "Cevizlik Mahallesi, Kırmızı Şebboy Sokak, 13/A",
-        "phone": "+902125437634",
-        "loc": "40.97738905167487,28.87716045830122"
+        "address": "Kartaltepe Mahallesi, Limon Çiçeği Sokak, 16",
+        "phone": "+902125708535",
+        "loc": "40.9958882746751,28.8732295000134"
       },
       {
-        "name": "DENİZ ECZANESİ",
+        "name": "YİLDİZ ECZANESİ",
         "dist": "BAKIRKÖY",
-        "address": "Yeşilköy Mahallesi, Yeşilköy İstanbul Caddesi, 79/D",
-        "phone": "+902124000680",
-        "loc": "40.9596989056573,28.8355545516804"
+        "address": "Şenlikköy Mahallesi, Meydan Sokak, 3/A",
+        "phone": "+902125741616",
+        "loc": "40.981147846357,28.7945672677705"
       }
     ],
     "başakşehi̇r": [
       {
-        "name": "KARAKUŞ ECZANESİ",
+        "name": "TAŞTAN ECZANESİ",
         "dist": "BAŞAKŞEHİR",
-        "address": "İkitelli OSB Mahallesi, Giyim Sanatkarları 1 A Blok Sokak, 9",
-        "phone": "+902126718428",
-        "loc": "41.07095302554087,28.80976229677335"
+        "address": "Güvercintepe Mahallesi, Fatih Caddesi, 64/A",
+        "phone": "+902123025876",
+        "loc": "41.077556,28.750814"
       },
       {
-        "name": "MEGA ŞEHİR ECZANESİ",
+        "name": "MODA ECZANESİ̇",
         "dist": "BAŞAKŞEHİR",
-        "address": "Başakşehir Mahallesi, Olimpiyat Bulvarı, 2D/11",
-        "phone": "+902129396414",
-        "loc": "41.09518,28.77426"
+        "address": "Başakşehir Mahallesi Gazi Mustafa Kemal Bulvarı No:3. İstanbul Moda Evleri B1 Blok No:7/AD",
+        "phone": "2128130056",
+        "loc": "41.12468,28.786486"
       },
       {
-        "name": "BERRİN ECZANESİ",
+        "name": "OKSİJEN ECZANESİ",
         "dist": "BAŞAKŞEHİR",
-        "address": "Bahçeşehir 1.  Kısım Mahallesi, Sakarya Caddesi, 36A-36B",
-        "phone": "+902129246484",
-        "loc": "41.0755946275374,28.6951562258485"
+        "address": "Bahçeşehir 1.  Kısım Mahallesi, Süzer Bulvarı, 7",
+        "phone": "+902126694466",
+        "loc": "41.06347654342883,28.68551528227433"
+      },
+      {
+        "name": "İSTANBUL ECZANESİ",
+        "dist": "BAŞAKŞEHİR",
+        "address": "Kayabaşı Mahallesi, Fetihtepe Caddesi, 7/A",
+        "phone": "+902128923334",
+        "loc": "41.13266201295458,28.78953097490811"
+      },
+      {
+        "name": "VERA ECZANESİ",
+        "dist": "BAŞAKŞEHİR",
+        "address": "Kayabaşı Mahallesi, Gazi Yaşargil Caddesi, 2S",
+        "phone": "+902128067503",
+        "loc": "41.1228713457876,28.7714969744462"
       }
     ],
     "bayrampaşa": [
@@ -4121,498 +4177,520 @@
     ],
     "beşi̇ktaş": [
       {
-        "name": "ZERDEÇAL ECZANESİ",
+        "name": "ELİZ DORA ECZANESİ",
         "dist": "BEŞİKTAŞ",
-        "address": "Kültür Mahallesi, İett Blokları Yolu Sokak, 23",
-        "phone": "+902122876896",
-        "loc": "41.074055,29.034062"
+        "address": "Nispetiye Mahallesi Ahmet Adnan Saygun Caddesi 8",
+        "phone": "+902123525545",
+        "loc": "41.0766685885099,29.025286777462"
       },
       {
-        "name": "GÜNCE ECZANESİ",
+        "name": "KARASU ECZANESİ(V)",
         "dist": "BEŞİKTAŞ",
-        "address": "Ortaköy Mahallesi, Dereboyu Caddesi, 4A",
-        "phone": "+902123203535",
-        "loc": "41.0557383510698,29.0231530437051"
+        "address": "Abbasağa Mahallesi, Üzengi Sokak, 17",
+        "phone": "+902128308640",
+        "loc": "41.045402,29.007202"
       },
       {
-        "name": "ÇAYİRCİOĞLU ECZANESİ",
+        "name": "RASİM AKMAZ ECZANESİ",
         "dist": "BEŞİKTAŞ",
-        "address": "Türkali Mahallesi Ihlamurdere Caddesi No:118/B",
-        "phone": "5448863463",
-        "loc": "41.048292,29.002369"
+        "address": "Mecidiye Mahallesi, Müverrih Sadettin Sokak No:18 Ortaköy / Beşiktaş / İstanbul",
+        "phone": "0(212)259-56-73",
+        "loc": "41.050475,29.023992"
       }
     ],
-    "beykoz": [
+    "beyli̇kdüzü": [
       {
-        "name": "ESRA ECZANESİ",
-        "dist": "BEYKOZ",
-        "address": "Kavacık Mahallesi, Orhan Veli Kanık Caddesi, 49/D",
-        "phone": "+902166801894",
-        "loc": "41.09501,29.087736"
+        "name": "EMEK ECZANESİ",
+        "dist": "BEYLİKDÜZÜ",
+        "address": "Cumhuriyet Mahallesi, Şehit Raif Esmertaş Sokak, 7",
+        "phone": "+902128721999",
+        "loc": "41.0072098359054,28.6429051198986"
       },
       {
-        "name": "BİLGE ECZANESİ",
-        "dist": "BEYKOZ",
-        "address": "Soğuksu Mahallesi, Mehmet Akif Ersoy Caddesi, 122",
-        "phone": "+902164259490",
-        "loc": "41.1142874696087,29.1092758602602"
+        "name": "AKASYA ECZANESİ",
+        "dist": "BEYLİKDÜZÜ",
+        "address": "Kavaklı Mahallesi, İbrahim Müteferrika Caddesi, 35B",
+        "phone": "+902128767936",
+        "loc": "40.985152,28.660129"
+      },
+      {
+        "name": "NALAN ECZANESİ̇",
+        "dist": "BEYLİKDÜZÜ",
+        "address": "Adnan Kahveci Mahallesi Yavuz Sultan Selim Bulvarı No:No:16/2",
+        "phone": "5074022252",
+        "loc": "41.00429519329232,28.62543524674501"
       }
     ],
     "beyoğlu": [
       {
-        "name": "Dİ̇LEK ECZANESİ̇",
+        "name": "ÖZHAN ECZANESİ",
         "dist": "BEYOĞLU",
-        "address": "Örnektepe Mahallesi Etibank Caddesi No:No:61-D",
-        "phone": "2122204570",
-        "loc": "41.057504351926,28.9550905846346"
+        "address": "Katip Mustafa Çelebi Mahallesi, Maç Sokak, 9A",
+        "phone": "+902122434358",
+        "loc": "41.0335136562745,28.9826699419838"
       },
       {
-        "name": "TAKSİM ÇİÇEK ECZANESİ",
+        "name": "İNCİ ECZANESİ",
         "dist": "BEYOĞLU",
-        "address": "Hüseyinağa Mahallesi, Sahne Sokak, 1/B",
-        "phone": "+902126502226",
-        "loc": "41.033955,28.97781"
+        "address": "Yenişehir Mahallesi Safa Meydanı Sokak No:46A",
+        "phone": "2122501698",
+        "loc": "41.044259,28.977684"
       },
       {
-        "name": "ADA ECZANESİ",
+        "name": "AKKAYA ECZANESİ",
         "dist": "BEYOĞLU",
-        "address": "Kaptanpaşa Mahallesi, Kasımpaşa Zincirlikuyu Caddesi, 203/B",
-        "phone": "+902122507352",
-        "loc": "41.0451333090455,28.9635375971872"
+        "address": "Piyalepaşa Mahallesi, Üst Baruthane Caddesi, 6/B",
+        "phone": "+902122554085",
+        "loc": "41.0453143113551,28.9630035594192"
       }
     ],
     "büyükçekmece": [
       {
-        "name": "SELİN ECZANESİ",
+        "name": "SERENAY ECZANESİ̇",
         "dist": "BÜYÜKÇEKMECE",
-        "address": "Ulus Mahallesi, Atatürk Caddesi, 26/B",
-        "phone": "+902128611303",
-        "loc": "41.0302842101851,28.5518462840577"
+        "address": "Mimar Sinan Merkez Mahallesi Bayar Sokak No:No:35/A",
+        "phone": "5513623477",
+        "loc": "41.01435269681383,28.55683164023659"
       },
       {
-        "name": "EFE ECZANESİ",
+        "name": "BEYAZ ECZANESİ",
         "dist": "BÜYÜKÇEKMECE",
-        "address": "Fatih Mahallesi Fedakar Sokak 4/A",
-        "phone": "+902128815455",
-        "loc": "41.0217199632989,28.5862089600898"
+        "address": "Fatih Mahallesi, Adnan Kahveci Caddesi, 20/A",
+        "phone": "+905309435429",
+        "loc": "41.021581,28.58671"
       },
       {
-        "name": "BİZİM ECZANESİ",
+        "name": "ÇİNAR ECZANESİ",
         "dist": "BÜYÜKÇEKMECE",
-        "address": "Mimar Sinan Merkez Mahallesi, E-5 Londra Asfaltı Caddesi, 60J",
-        "phone": "+902128816556",
-        "loc": "41.01692867267062,28.55733088212168"
+        "address": "Türkoba Mahallesi Atatürk Caddesi 247/B",
+        "phone": "+902128590710",
+        "loc": "41.0338398380235,28.5222033458087"
       },
       {
-        "name": "SU ECZANESİ",
+        "name": "BEYLİKDÜZÜ ECZANESİ",
         "dist": "BÜYÜKÇEKMECE",
-        "address": "Fatih Mahallesi, Sardunya 2 Sokak, A Giriş No:7/A Bağımsız Bölüm 1",
-        "phone": "+902128810540",
-        "loc": "40.915388,29.302865"
+        "address": "Pınartepe Mahallesi, Yavuz Sultan Selim Bulvarı, 6/1C",
+        "phone": "+902128554050",
+        "loc": "41.0152316730852,28.6257056484805"
       }
     ],
     "çatalca": [
       {
-        "name": "YÜCEL ECZANESİ",
+        "name": "EMEL ECZANESİ",
         "dist": "ÇATALCA",
-        "address": "Kaleiçi Mahallesi, Tevfik Erdönmez Caddesi, Kızılay İş Hanı",
-        "phone": "+902127891238",
-        "loc": "41.1429131330824,28.4584762498235"
+        "address": "Ferhatpaşa Mahallesi, Atatürk Caddesi, 47/2",
+        "phone": "+902127892771",
+        "loc": "41.14068210993739,28.46406944096088"
       }
     ],
     "çekmeköy": [
       {
-        "name": "MEHMET AKİF ECZANESİ",
+        "name": "EGE ECZANESİ",
         "dist": "ÇEKMEKÖY",
-        "address": "Mehmet Akif Mahallesi, Necip Fazıl Kısakürek Caddesi, 15A",
-        "phone": "+902166425384",
-        "loc": "41.0207357000834,29.1859434418076"
+        "address": "Çatalmeşe Mahallesi, Reşadiye Caddesi, 58/1A",
+        "phone": "+90",
+        "loc": "41.052243,29.239992"
       },
       {
-        "name": "ÖNAL ECZANESİ",
+        "name": "SEDA ECZANESİ",
         "dist": "ÇEKMEKÖY",
-        "address": "Taşdelen Mahallesi, Turgut Özal Bulvarı, 112-118H",
-        "phone": "+902167842780",
-        "loc": "41.031139,29.229742"
+        "address": "Çamlık Mahallesi, Şahinbey Caddesi, 60A",
+        "phone": "+902167550353",
+        "loc": "41.020744,29.192857"
+      },
+      {
+        "name": "TEZER ECZANESİ",
+        "dist": "ÇEKMEKÖY",
+        "address": "Mimar Sinan Mahallesi, Çavuşbaşı Caddesi, 30A",
+        "phone": "+905331413483",
+        "loc": "41.03339320805637,29.1744471681576"
       }
     ],
     "esenler": [
       {
-        "name": "KEMER ŞİFA ECZANESİ",
+        "name": "ALİMOĞLU ECZANESİ",
         "dist": "ESENLER",
-        "address": "Kemer Mahallesi 942. Sokak No:22/A",
-        "phone": "2124301020",
-        "loc": "41.052801,28.877998"
+        "address": "Menderes Mahallesi, Atışalanı Caddesi, 23",
+        "phone": "+902126479251",
+        "loc": "41.0406319606631,28.8813640716003"
       },
       {
-        "name": "YUNUS ECZANESİ",
+        "name": "ESLEM ECZANESİ",
         "dist": "ESENLER",
-        "address": "Turgut Reis Mahallesi, Adem Yavuz Caddesi, 43/A",
-        "phone": "+902126101142",
-        "loc": "41.005502,28.706312"
+        "address": "Birlik Mahallesi, Köyiçi Caddesi, 29/A",
+        "phone": "+902124315305",
+        "loc": "41.05436989976027,28.87219769816734"
       },
       {
-        "name": "BAHADİR ECZANESİ",
+        "name": "ZAFER ECZANESİ",
         "dist": "ESENLER",
-        "address": "Birlik Mahallesi, Kazım Karabekir Caddesi, 154",
-        "phone": "+902125680148",
-        "loc": "41.0488652125579,28.8681395581626"
+        "address": "Oruç Reis Mahallesi, Gazi Caddesi, 48/B",
+        "phone": "+902124311030",
+        "loc": "41.0547880424312,28.8601779949971"
       },
       {
-        "name": "BÜŞRA ASLAN ECZANESİ",
+        "name": "GÖKÇİN ECZANESİ",
         "dist": "ESENLER",
-        "address": "Havaalanı Mahallesi, Taşocağı Caddesi, 22/C",
-        "phone": "+902124322220",
-        "loc": "41.055385,28.869679"
-      }
-    ],
-    "esenyurt": [
-      {
-        "name": "PİNAR ECZANESİ",
-        "dist": "ESENYURT",
-        "address": "Pınar Mahallesi, 1241. Sokak, 3/1",
-        "phone": "+902124506036",
-        "loc": "41.0346464289771,28.6682290150721"
-      },
-      {
-        "name": "AKBAŞ ECZANESİ",
-        "dist": "ESENYURT",
-        "address": "Çınar Mahallesi, Fikri Sönmez Caddesi, 76/A",
-        "phone": "+905322825779",
-        "loc": "41.04189636384507,28.66480985277214"
-      },
-      {
-        "name": "AYŞE ÇENET ECZANESİ",
-        "dist": "ESENYURT",
-        "address": "Zafer Mahallesi, Doğan Araslı Bulvarı, 97-99F",
-        "phone": "+902128062401",
-        "loc": "41.025567,28.684474"
-      },
-      {
-        "name": "BULUT ECZANESİ",
-        "dist": "ESENYURT",
-        "address": "Yeşilkent Mahallesi, Nazım Hikmet Bulvarı, 49/4",
-        "phone": "+905395648722",
-        "loc": "41.023445,28.658279"
-      },
-      {
-        "name": "YEŞİM ECZANESİ",
-        "dist": "ESENYURT",
-        "address": "Güzelyurt Mahallesi, Yıldırım Beyazıt Caddesi, 20",
-        "phone": "+902128540712",
-        "loc": "41.0110293533723,28.6589761487921"
+        "address": "Birlik Mahallesi, Kazım Karabekir Caddesi, 164",
+        "phone": "+902126284145",
+        "loc": "41.04932017037522,28.86732075253412"
       }
     ],
     "eyüpsultan": [],
     "fati̇h": [
       {
-        "name": "BAYRAKTAR ECZANESİ̇",
+        "name": "SİRKECİ ECZANESİ",
         "dist": "FATİH",
-        "address": "Kemalpaşa Mahallesi Atatürk Bulvarı No:No:32/B",
-        "phone": "5318320558",
-        "loc": "41.011552,28.953717"
+        "address": "Hobyar Mahallesi, Ankara Caddesi, 65/B",
+        "phone": "+902125200804",
+        "loc": "41.01520807672198,28.97568567990111"
       },
       {
-        "name": "TEVHİD ECZANESİ",
+        "name": "SOFALİÇEŞME ECZANESİ",
         "dist": "FATİH",
-        "address": "İskenderpaşa Mahallesi, Kıztaşı Caddesi, 7",
-        "phone": "+902125343823",
-        "loc": "41.015675,28.950375"
+        "address": "Hırka-i Şerif Mahallesi, Sofalı Çeşme Caddesi, No:101/B",
+        "phone": "+902125325319",
+        "loc": "41.02364582119604,28.93565475940704"
       },
       {
-        "name": "ÇAPA ŞİFA ECZANESİ",
+        "name": "ZEHRA ECZANESİ",
         "dist": "FATİH",
-        "address": "Şehremini Mahallesi, Kerpiçhane Sokak, 11/A",
-        "phone": "+902125297355",
-        "loc": "41.01558,28.931007"
+        "address": "Atikali Mahallesi, Çarşamba Değirmeni Sokak, 18/A",
+        "phone": "+902124910070",
+        "loc": "41.02689912336223,28.9464345574379"
       },
       {
-        "name": "METRO ECZANESİ",
+        "name": "PAPATYA ECZANESİ",
         "dist": "FATİH",
-        "address": "Mesihpaşa Mahallesi, Aksaray Caddesi, Sait Efendi Sokak, 17",
-        "phone": "+902125186189",
-        "loc": "40.994647,28.852036"
+        "address": "Seyyid Ömer Mahallesi, Taşköprülüzade Sokak, 3A",
+        "phone": "+902125887066",
+        "loc": "41.008027,28.931501"
       },
       {
-        "name": "NİMET ECZANESİ",
+        "name": "KAYRA ECZANESİ",
         "dist": "FATİH",
-        "address": "Cerrahpaşa Mahallesi, Koca Mustafapaşa Caddesi, 112/A",
-        "phone": "+902125852258",
-        "loc": "40.9995,28.780234"
-      }
-    ],
-    "gazi̇osmanpaşa": [
-      {
-        "name": "NATURA ECZANESİ",
-        "dist": "GAZİOSMANPAŞA",
-        "address": "Karayolları Mahallesi, 621. Sokak 58-1/A",
-        "phone": "+902124774415",
-        "loc": "41.0869726448348,28.8972468192242"
+        "address": "Haseki Sultan Mahallesi, Haseki Caddesi, 16A",
+        "phone": "+902125850730",
+        "loc": "41.0095450745169,28.9460146003621"
       },
       {
-        "name": "KENT ECZANESİ",
-        "dist": "GAZİOSMANPAŞA",
-        "address": "Fevzi Çakmak Mahallesi Cengiz Topel Caddesi 172",
-        "phone": "+902125351170",
-        "loc": "41.0717773579166,28.9013509571266"
+        "name": "ÖZTEKİN ECZANESİ",
+        "dist": "FATİH",
+        "address": "Molla Hüsrev Mahallesi, Atatürk Bulvarı, 58",
+        "phone": "+902125143119",
+        "loc": "41.01674217665563,28.95671209300904"
       }
     ],
     "güngören": [
       {
-        "name": "ÇELİKEL ECZANESİ",
+        "name": "YAŞAM ECZANESİ",
         "dist": "GÜNGÖREN",
-        "address": "Haznedar Mahallesi, Sakarya Sokak, 16/B",
-        "phone": "+902126442331",
-        "loc": "41.009755,28.869266"
+        "address": "Tozkoparan Mahallesi, Cevat Açıkalın Caddesi, Tozkoparan Çarşısı, 12/8",
+        "phone": "+902124830473",
+        "loc": "41.0155502869365,28.8966019256231"
+      },
+      {
+        "name": "GÜN BURAK ECZANESİ",
+        "dist": "GÜNGÖREN",
+        "address": "Güngören Merkez Mahallesi, Bağlar Caddesi, 5",
+        "phone": "+902124612049",
+        "loc": "41.0255869946254,28.8722533674302"
       }
     ],
     "kadiköy": [
       {
-        "name": "KOZYATAĞİ ECZANESİ",
+        "name": "ZEYTİN ECZANESİ",
         "dist": "KADIKÖY",
-        "address": "Kozyatağı Mahallesi, Şemsettin Günaltay Caddesi, 114B",
-        "phone": "+902167473033",
-        "loc": "40.9665154931314,29.0872827860141"
+        "address": "Rasimpaşa Mahallesi, Misakı Milli Sokak, 81B",
+        "phone": "+902165414100",
+        "loc": "40.9933096267916,29.0289372268283"
       },
       {
-        "name": "CANKİZ ECZANESİ",
+        "name": "HASANPAŞA ECZANESİ",
         "dist": "KADIKÖY",
-        "address": "Erenköy Mahallesi, Erenköy İstasyon Caddesi, 35C",
-        "phone": "+902168037343",
-        "loc": "40.9751758352585,29.0793764415776"
+        "address": "Hasanpaşa Mahallesi, Kurbağalıdere Caddesi, 66/B",
+        "phone": "+902163707525",
+        "loc": "40.99500503374092,29.04078592578634"
       },
       {
-        "name": "ANKA ECZANESİ",
+        "name": "İNCİR ECZANESİ",
         "dist": "KADIKÖY",
-        "address": "Acıbadem Mahallesi Acıbadem Caddesi No:76/A",
-        "phone": "2167715040",
-        "loc": "40.997907,29.037413"
+        "address": "19 Mayıs Mahallesi, Yazar Sokak, 7/B",
+        "phone": "+905495462470",
+        "loc": "40.97789272269595,29.09148872218941"
       },
       {
-        "name": "CANSU KAHRAMAN ECZANESİ",
+        "name": "SOLEY ECZANESİ",
         "dist": "KADIKÖY",
-        "address": "Osmanağa Mahallesi General Asım Gündüz Caddesi No:44/A",
-        "phone": "2164145444",
-        "loc": "40.988521,29.028492"
+        "address": "Kozyatağı Mahallesi Seda Sokak No:11/A",
+        "phone": "2163803978",
+        "loc": "40.966225,29.099522"
       },
       {
-        "name": "EVRANOS ECZANESİ",
+        "name": "LİMON ECZANESİ",
         "dist": "KADIKÖY",
-        "address": "Göztepe Mahallesi, Nadir Ağa Sokak, 11/1A",
-        "phone": "+902165665457",
-        "loc": "40.9807252147767,29.0654117760129"
+        "address": "Merdivenköy Mahallesi, Reşat Nuri Sokak, 2/C",
+        "phone": "+902163554403",
+        "loc": "40.98767,29.076939"
       },
       {
-        "name": "CADDEBOSTAN PLUS ECZANESİ",
+        "name": "LİLYUM ECZANESİ",
         "dist": "KADIKÖY",
-        "address": "Caddebostan Mahallesi, Ömer Paşa Sokak, 1A",
-        "phone": "+902163501012",
-        "loc": "40.9690273212254,29.0654544494013"
+        "address": "Fenerbahçe Mahallesi Bağdat Caddesi No:92/B",
+        "phone": "2167664905",
+        "loc": "40.980141,29.042425"
       },
       {
-        "name": "SİMİRNA ECZANESİ",
+        "name": "HİZİR BEY ECZANESİ",
         "dist": "KADIKÖY",
-        "address": "Merdivenköy Mahallesi, Merdivenköy Yolu Caddesi, 29/B",
-        "phone": "+902166021032",
-        "loc": "40.98763073265412,29.06489968299866"
+        "address": "Dumlupınar Mahallesi, Hızır Bey Caddesi, 207B",
+        "phone": "+902165655001",
+        "loc": "40.98770207064296,29.05771915761577"
+      },
+      {
+        "name": "PERA ECZANESİ",
+        "dist": "KADIKÖY",
+        "address": "Erenköy Mahallesi Ethemefendi Caddesi No:26A",
+        "phone": "2167661153",
+        "loc": "40.968921,29.072222"
+      },
+      {
+        "name": "SERAP ECZANESİ",
+        "dist": "KADIKÖY",
+        "address": "Eğitim Mahallesi, Kasrıali Sokak, 38/1",
+        "phone": "+902164141974",
+        "loc": "41.01307536215968,29.22101482569082"
+      },
+      {
+        "name": "GÜLNAZ ECZANESİ",
+        "dist": "KADIKÖY",
+        "address": "Kozyatağı Mahallesi, Kaya Sultan Sokak, 24/A",
+        "phone": "+902167559055",
+        "loc": "40.965775,29.091312"
       }
     ],
     "kağithane": [
       {
-        "name": "CADDE ECZANESİ",
+        "name": "OCAK ECZANESİ",
         "dist": "KAĞITHANE",
-        "address": "Ortabayır Mahallesi Talatpaşa Caddesi No:257/A",
-        "phone": "2124298422",
-        "loc": "41.0810868782726,28.9924232173937"
+        "address": "Yahya Kemal Mahallesi, Ahlat Sokak, 3/A",
+        "phone": "+902122814924",
+        "loc": "41.0845273458429,28.9881842692515"
       },
       {
-        "name": "ESİNTİ ECZANESİ",
+        "name": "EMEL ECZANESİ",
         "dist": "KAĞITHANE",
-        "address": "Sultan Selim Mahallesi, Şahinler Caddesi, 6A",
-        "phone": "+902122835900",
-        "loc": "41.09224322126346,29.00162100791931"
+        "address": "Sultan Selim Mahallesi, Sultan Selim Caddesi 78",
+        "phone": "+902123241106",
+        "loc": "41.0909254989475,28.9988635697597"
       },
       {
-        "name": "ÇELEBİ ECZANESİ",
+        "name": "GÜNDEM ECZANESİ",
         "dist": "KAĞITHANE",
-        "address": "Talatpaşa Mahallesi, Aslangazi Caddesi, 1",
-        "phone": "+902122204144",
-        "loc": "41.0635624199041,28.9679306231335"
+        "address": "Hürriyet Mahallesi, Dr. Cemil Bengü Caddesi, 2A",
+        "phone": "+902122316505",
+        "loc": "41.069622,28.982813"
+      },
+      {
+        "name": "ŞEBNEM ECZANESİ",
+        "dist": "KAĞITHANE",
+        "address": "Hamidiye Mahallesi, Karaman Sokak, 5/C",
+        "phone": "+902122947857",
+        "loc": "41.09433,28.969806"
       }
     ],
     "kartal": [
       {
-        "name": "KORDONBOYU ECZANESİ",
+        "name": "GÜNDOĞDU ECZANESİ",
         "dist": "KARTAL",
-        "address": "Kordonboyu Mahallesi Ankara Caddesi No:59B",
-        "phone": "2163532540",
-        "loc": "40.888533,29.188815"
+        "address": "Cevizli Mahallesi, Mustafa Kemal Caddesi, 26/D",
+        "phone": "+902164418266",
+        "loc": "40.9124015887935,29.1726424499792"
       },
       {
-        "name": "AYDİN ECZANESİ",
+        "name": "AKİN ECZANESİ",
         "dist": "KARTAL",
-        "address": "Cevizli Mahallesi, Saraylar Caddesi, 83/B",
-        "phone": "+902163706081",
-        "loc": "40.9110595650054,29.1682893691164"
+        "address": "Uğur Mumcu Mahallesi, Şeyh Şamil Caddesi, 9/K",
+        "phone": "+902162904175",
+        "loc": "40.93371202782273,29.21411767601967"
       },
       {
-        "name": "FATİH ECZANESİ",
+        "name": "MANZARA ADALAR ECZANESİ",
         "dist": "KARTAL",
-        "address": "Soğanlık Yeni Mahallesi, Mimar Sinan Caddesi, 35/A-35/C",
-        "phone": "+902165668822",
-        "loc": "40.917855,29.191851"
+        "address": "Karlıktepe Mahallesi, Yakacık Caddesi, 67B-2",
+        "phone": "+905416299524",
+        "loc": "40.895589,29.198903"
       },
       {
-        "name": "YENİ EKİN ECZANESİ",
+        "name": "KARTAL PLUS ECZANESİ",
         "dist": "KARTAL",
-        "address": "Hürriyet Mahallesi, Peker Sokak, 3A",
-        "phone": "+902163773110",
-        "loc": "40.903959,29.232051"
+        "address": "Orta Mahallesi, Yalnız Selvi Caddesi, 21A",
+        "phone": "+902162250891",
+        "loc": "40.9138750120774,29.208512882851"
       }
     ],
     "küçükçekmece": [
       {
-        "name": "GÜLDEN ECZANESİ",
+        "name": "MEYDAN ECZANESİ (V)",
         "dist": "KÜÇÜKÇEKMECE",
-        "address": "Yeşilova Mahallesi, Kahramanlar Caddesi, 16A",
-        "phone": "+902126244695",
-        "loc": "40.98678239101947,28.78446400165558"
+        "address": "Halkalı Merkez Mahallesi İkitelli Caddesi No:No:13",
+        "phone": "2126935175",
+        "loc": "41.03662252791658,28.78838480790899"
       },
       {
-        "name": "LALE ECZANESİ",
+        "name": "DEFNE ECZANESİ",
         "dist": "KÜÇÜKÇEKMECE",
-        "address": "Halkalı Merkez Mahallesi Mahmutbey Caddesi No:NO:14/C",
-        "phone": "2125484209",
-        "loc": "41.0355566884392,28.7923049892985"
+        "address": "Yeni Mahallesi, Salih Tamcı Sokak, 20/D",
+        "phone": "+905526063334",
+        "loc": "40.994933,28.777539"
       },
       {
-        "name": "GÜLŞEN ECZANESİ",
+        "name": "BEDİA ECZANESİ",
         "dist": "KÜÇÜKÇEKMECE",
-        "address": "Atatürk Mahallesi İkitelli Caddesi 137/A",
-        "phone": "+902124719150",
-        "loc": "41.0512845035232,28.7964446150955"
+        "address": "Atatürk Mahallesi, Salı Pazarı Caddesi, 33",
+        "phone": "+902126987872",
+        "loc": "41.0504250420379,28.8028780248912"
       },
       {
-        "name": "İREM ŞEN ECZANESİ̇",
+        "name": "FATİH ECZANESİ",
         "dist": "KÜÇÜKÇEKMECE",
-        "address": "Kemalpaşa Mahallesi Sultan Murat Caddesi No:No:51/A",
-        "phone": "",
-        "loc": "41.003712,28.793808"
+        "address": "Söğütlüçeşme Mahallesi, Celildağ Caddesi, 9/1",
+        "phone": "+902126962427",
+        "loc": "41.02211845449895,28.78946349116871"
       },
       {
-        "name": "ATİLLA ECZANESİ",
+        "name": "ATAKENT ECZANESİ",
         "dist": "KÜÇÜKÇEKMECE",
-        "address": "Kanarya Mahallesi, Balıkçın Caddesi, 46/B",
-        "phone": "+902124240497",
-        "loc": "41.013838,28.781483"
+        "address": "Atakent Mahallesi, 5. Caddesi, 4/7",
+        "phone": "+902124724011",
+        "loc": "41.0504320172405,28.7840619066649"
+      },
+      {
+        "name": "BARİŞ ECZANESİ",
+        "dist": "KÜÇÜKÇEKMECE",
+        "address": "Kemalpaşa Mahallesi, Halkalı Caddesi, 129",
+        "phone": "+902126242775",
+        "loc": "41.003202,28.797886"
+      },
+      {
+        "name": "UMUDUM ECZANESİ",
+        "dist": "KÜÇÜKÇEKMECE",
+        "address": "Cennet Mahallesi, Hürriyet Caddesi, 22/A",
+        "phone": "+902125415055",
+        "loc": "41.00243745300789,28.80953488110713"
       }
     ],
     "maltepe": [
       {
-        "name": "İREM ECZANESİ",
+        "name": "NUR ECZANESİ",
         "dist": "MALTEPE",
-        "address": "Zümrütevler Mahallesi, Tülin Caddesi, 4/A",
-        "phone": "+902164915858",
-        "loc": "40.933423,29.147124"
+        "address": "Nil Caddesi No:35/C Zümrütevler / Maltepe / İstanbul",
+        "phone": "0(216)441-14-18",
+        "loc": "40.942661,29.149909"
       },
       {
-        "name": "KÜBRA ECZANESİ",
+        "name": "POZİTİF ECZANESİ",
         "dist": "MALTEPE",
-        "address": "Bağlarbaşı Mahallesi, Sakızağacı Sokak, 60B",
-        "phone": "+902164416766",
-        "loc": "40.9259434461065,29.1335949355377"
+        "address": "Yalı Mahallesi, Mareşal Fevzi Çakmak Caddesi, 44",
+        "phone": "+902163837098",
+        "loc": "40.9172324227942,29.1362984144586"
       },
       {
-        "name": "ÖZEN KÜÇÜKYALİ ECZANESİ",
+        "name": "NİDA CADDE ECZANESİ",
         "dist": "MALTEPE",
-        "address": "İdealtepe Mahallesi, Mızrak Sokak, 2A",
-        "phone": "+902163885074",
-        "loc": "40.941244,29.116123"
-      }
-    ],
-    "pendi̇k": [
-      {
-        "name": "UYGUN ECZANESİ",
-        "dist": "PENDİK",
-        "address": "Fevzi Çakmak Mahallesi Selanik Sokak 3/A",
-        "phone": "+902163966666",
-        "loc": "40.886260246254,29.2601249092296"
+        "address": "Çınar Mahallesi, Bağdat Caddesi, 136/C",
+        "phone": "+902164177417",
+        "loc": "40.944295,29.112287"
       },
       {
-        "name": "BAHAR ECZANESİ",
-        "dist": "PENDİK",
-        "address": "Doğu Mahallesi, Ortanca Caddesi, 61/A",
-        "phone": "+902164834386",
-        "loc": "40.87819864049896,29.23463380289219"
+        "name": "NEFES ECZANESİ",
+        "dist": "MALTEPE",
+        "address": "Cevizli Mahallesi, Toros Caddesi, 3/B",
+        "phone": "+902164570464",
+        "loc": "40.9170669338412,29.1457764067126"
       }
     ],
     "sancaktepe": [
       {
-        "name": "NİLGÜN ECZANESİ",
+        "name": "EYLÜL ECZANESİ",
         "dist": "SANCAKTEPE",
-        "address": "Emek Mahallesi, Buğra Sokak, 26-28A",
-        "phone": "+902166222181",
-        "loc": "41.003828,29.19884"
+        "address": "Abdurrahmangazi Mahallesi, Siper Sokak, 5/A",
+        "phone": "+902163117121",
+        "loc": "40.987793,29.231772"
       },
       {
-        "name": "FEYZA ECZANESİ",
+        "name": "BİZİMTEPE AYDOS SALİH ECZANESİ",
         "dist": "SANCAKTEPE",
-        "address": "Atatürk Mahallesi Uysal Caddesi No:No:86/K",
-        "phone": "5461228225",
-        "loc": "41.01221782092232,29.22515237809592"
+        "address": "Veysel Karani Mahallesi, Kanuni Caddesi, Ticari Blok 3/2 No:25",
+        "phone": "+902167554031",
+        "loc": "40.967525,29.236147"
       },
       {
-        "name": "ENES ECZANESİ",
+        "name": "EMEK ECZANESİ",
         "dist": "SANCAKTEPE",
-        "address": "Akpınar Mahallesi, Malkoçoğlu Caddesi, 137/A",
-        "phone": "+905303991289",
-        "loc": "40.96520554716232,29.22925581349363"
+        "address": "Emek Mahallesi, Fatih Caddesi, 21/B",
+        "phone": "+902166224467",
+        "loc": "41.00286101489231,29.19679432457162"
+      },
+      {
+        "name": "DEREYOLU ECZANESİ̇",
+        "dist": "SANCAKTEPE",
+        "address": "Merve Mahallesi Dereyolu Caddesi No:No:6-8A",
+        "phone": "2165145933",
+        "loc": "41.002474,29.255146"
       }
     ],
     "sariyer": [
       {
-        "name": "ŞİFA SUYU ECZANESİ",
+        "name": "KÖY ECZANESİ",
         "dist": "SARIYER",
-        "address": "Maden Mahallesi, Şifa Yolu Üstü Sokak, 2/B",
-        "phone": "+902122712260",
-        "loc": "41.1744128497226,29.0482268358464"
+        "address": "Zekeriyaköy Mahallesi Prof. Dr. Oktay Sinanoğlu Caddesi No:6 - B Blok İç Kapı No: 12-13",
+        "phone": "2122622225",
+        "loc": "41.20246881156392,29.034754289485"
       },
       {
-        "name": "MASLAK CAN ECZANESİ",
+        "name": "VADİ ECZANESİ",
         "dist": "SARIYER",
-        "address": "Maslak Mahallesi Büyükdere Caddesi 13",
-        "phone": "+902123282928",
-        "loc": "41.1086403270514,29.0164315101507"
+        "address": "Ayazağa Mahallesi, Kemerburgaz Caddesi, 7D-3",
+        "phone": "+905305106751",
+        "loc": "41.11155047928253,28.98748273743434"
       },
       {
-        "name": "ORÇUN ECZANESİ",
+        "name": "KUTAY ECZANESİ",
         "dist": "SARIYER",
-        "address": "Tarabya Mahallesi, Arabayolu Caddesi, 230/A",
-        "phone": "+902122232222",
-        "loc": "41.1417013876287,29.0479111381748"
+        "address": "Maden Mahallesi, Nalbant Çeşme Caddesi, 26/C",
+        "phone": "+902122425677",
+        "loc": "41.1738168951242,29.0498413893521"
+      },
+      {
+        "name": "İSTİNYE BEYAZ ECZANESİ",
+        "dist": "SARIYER",
+        "address": "Pınar Mahallesi, Çamlıbel Caddesi, 60/C",
+        "phone": "+902122852315",
+        "loc": "41.114463,29.032427"
       }
     ],
     "si̇li̇vri̇": [
       {
-        "name": "AKDENİZ ECZANESİ",
+        "name": "ERCİYES ECZANESİ",
         "dist": "SİLİVRİ",
-        "address": "Yeni Mahallesi, Varnalı Caddesi, 32/5",
-        "phone": "+902128129413",
-        "loc": "41.086338,28.248431"
+        "address": "Alibey Mahallesi Başkomutan Caddesi No:74C",
+        "phone": "+902127273072",
+        "loc": "41.0735424881174,28.2480444838312"
       },
       {
-        "name": "SEMİH ECZANESİ",
+        "name": "İSTANBUL ECZANESİ",
         "dist": "SİLİVRİ",
-        "address": "Piri Mehmet Paşa Mahallesi, Marmara Sokak, 33",
-        "phone": "+902127276390",
-        "loc": "41.0771484103994,28.243333843678"
+        "address": "Yeni Mahallesi, Varnalı Caddesi, 32B",
+        "phone": "+905385540000",
+        "loc": "41.08631148228003,28.24839971235334"
       },
       {
-        "name": "YAŞAM ECZANESİ",
+        "name": "SÖNMEZ ECZANESİ",
         "dist": "SİLİVRİ",
-        "address": "Selimpaşa Merkez Mahallesi, Halaskargazi Cad., 31/A",
-        "phone": "+902127316038",
-        "loc": "41.055566454112,28.3677121953202"
+        "address": "Yavuz Selim Mahallesi, 202 Caddesi, 25/A",
+        "phone": "+902127318515",
+        "loc": "41.0546379800674,28.3784938637572"
       }
     ],
     "sultanbeyli̇": [
@@ -4633,32 +4711,32 @@
     ],
     "sultangazi̇": [
       {
-        "name": "BEGÜM ECZANESİ",
+        "name": "BAHTİYAR ECZANESİ",
         "dist": "SULTANGAZİ",
-        "address": "Cebeci Mahallesi, S Caddesi, 92/A",
-        "phone": "+902126062262",
-        "loc": "41.113009,28.864801"
+        "address": "Yunus Emre Mahallesi, Adem Yavuz Caddesi, 71B",
+        "phone": "+902126507656",
+        "loc": "41.09259849070494,28.89551684260368"
       },
       {
-        "name": "MANOLYA ECZANESİ",
+        "name": "NANE LİMON ECZANESİ",
         "dist": "SULTANGAZİ",
-        "address": "Uğur Mumcu Mahallesi, Muhsin Yazcıoğlu Caddesi, No:87/C",
-        "phone": "+902124766685",
-        "loc": "41.098163,28.865197"
+        "address": "Esentepe Mahallesi, Şehit Eyüp Gönen Caddesi, 97/B",
+        "phone": "+902125948496",
+        "loc": "41.09727368403316,28.88033793858834"
       },
       {
-        "name": "GÜNDÜZ ECZANESİ",
+        "name": "KAĞAN ECZANESİ",
         "dist": "SULTANGAZİ",
-        "address": "İsmetpaşa Mahallesi, 91. Sokak, 95A  95B",
-        "phone": "+905352876634",
-        "loc": "41.10778906090151,28.852583983858"
+        "address": "50. Yıl Mahallesi, 2162. Sokak, 22",
+        "phone": "+902126681817",
+        "loc": "41.0916441086338,28.8691257930292"
       },
       {
-        "name": "BERRAK ECZANESİ",
+        "name": "BULVAR ECZANESİ",
         "dist": "SULTANGAZİ",
-        "address": "Zübeyde Hanım Mahallesi, 1280. Sokak, 64/3",
-        "phone": "+902126508182",
-        "loc": "41.1022114884364,28.9082417920448"
+        "address": "İsmetpaşa Mahallesi, 48/1. Sokak, 4/B",
+        "phone": "+902125948637",
+        "loc": "41.105828,28.860076"
       }
     ],
     "şi̇le": [
@@ -4679,138 +4757,152 @@
     ],
     "şi̇şli̇": [
       {
-        "name": "PAMUK ECZANESİ",
+        "name": "AVRUPA ECZANESİ",
         "dist": "ŞİŞLİ",
-        "address": "Şişli Merkez Mahallesi Teyyareci Mehmet Ali Bey Sokak No:4/F",
-        "phone": "2122480619",
-        "loc": "41.05889746795039,28.98652281162322"
+        "address": "Halaskargazi Mahallesi, Zafer Sokak, 18/12",
+        "phone": "+902122303234",
+        "loc": "41.050768,28.988634"
       },
       {
-        "name": "NİŞANTAŞİ NABİZ ECZANESİ",
+        "name": "ŞİRİN ECZANESİ",
         "dist": "ŞİŞLİ",
-        "address": "Teşvikiye Mahallesi, Nişantaşı Ihlamur Yolu Sokak, 32/B",
-        "phone": "+902122472001",
-        "loc": "41.05135193049398,28.99621937664456"
+        "address": "Mecidiyeköy Mahallesi, Selahattin Pınar Caddesi, 6-8A",
+        "phone": "+902122171793",
+        "loc": "41.06721508058541,28.99783106483881"
       },
       {
-        "name": "AFŞAR ECZANESİ",
+        "name": "FULYA SEMT ECZANESİ",
         "dist": "ŞİŞLİ",
-        "address": "Duatepe Mahallesi, Bozkurt Caddesi, 2-4A",
-        "phone": "+902122406542",
-        "loc": "41.052869,28.983613"
+        "address": "Fulya Mahallesi, Mehmetçik Caddesi, 48A",
+        "phone": "+902122130412",
+        "loc": "41.117514,29.097106"
       },
       {
-        "name": "OĞUZHAN ECZANESİ",
+        "name": "MUMCU ECZANESİ",
         "dist": "ŞİŞLİ",
-        "address": "Fulya Mahallesi, Mevlüt Pehlivan Sokak, 21",
-        "phone": "+902122756325",
-        "loc": "41.0641460869842,29.0014846667207"
+        "address": "Cumhuriyet Mahallesi, İncirli Dede Caddesi, 8/26",
+        "phone": "+902128122111",
+        "loc": "41.057629,28.974971"
+      },
+      {
+        "name": "SEZEN ECZANESİ",
+        "dist": "ŞİŞLİ",
+        "address": "Şişli Merkez Mahallesi, Abidei Hürriyet Caddesi, 118/B",
+        "phone": "+902122911019",
+        "loc": "41.0620987893009,28.9876943997291"
       }
     ],
     "tuzla": [
       {
-        "name": "HALK ECZANESİ",
+        "name": "BÜŞRA ECZANESİ",
         "dist": "TUZLA",
-        "address": "Cami Mahallesi, İstasyon Caddesi, 102/9",
-        "phone": "+902164465313",
-        "loc": "40.8210378457033,29.3087191928269"
+        "address": "Aydınlı Mahallesi, DerSaadet Sokak, 20/F",
+        "phone": "+902167592824",
+        "loc": "40.8704502551843,29.33029350243969"
       },
       {
-        "name": "ŞEYMA ECZANESİ",
+        "name": "DOĞA ECZANESİ",
         "dist": "TUZLA",
-        "address": "Şifa Mahallesi, Başar Sokak, 34A",
-        "phone": "+902166745005",
-        "loc": "40.831093,29.356935"
+        "address": "Şifa Mahallesi, Başar Sokak, 32A",
+        "phone": "+902164233642",
+        "loc": "40.8310027238517,29.3567188071089"
       },
       {
-        "name": "BELKİS ECZANESİ",
+        "name": "MERCAN ECZANESİ",
         "dist": "TUZLA",
-        "address": "Aydıntepe Mahallesi, Batu Sokak, 62A",
-        "phone": "+902163929343",
-        "loc": "40.855013585751,29.2998755372328"
+        "address": "Cami Mahallesi, İstasyon Caddesi, 48D",
+        "phone": "+902163953306",
+        "loc": "40.8175519132297,29.3044110749451"
       }
     ],
     "ümrani̇ye": [
       {
-        "name": "İDEALİST ECZANESİ",
+        "name": "SEYHAN ECZANESİ",
         "dist": "ÜMRANİYE",
-        "address": "Madenler Mahallesi İdealist Kent Caddesi No:5/4",
-        "phone": "+902165900353",
-        "loc": "41.0141668332965,29.1804318944163"
+        "address": "Atatürk Mahallesi Çavuşbaşı Caddesi No:80/A",
+        "phone": "5544058090",
+        "loc": "41.028227,29.094384"
       },
       {
-        "name": "SAADET ECZANESİ",
+        "name": "GÖKÇE ECZANESİ̇",
         "dist": "ÜMRANİYE",
-        "address": "Elmalıkent Mahallesi, Atatürk Caddesi, BİSAN Sitesi, A1 Blok, 1P2",
-        "phone": "+902166310007",
-        "loc": "41.032045182958,29.0961861500454"
+        "address": "İstiklal Mahallesi Anafartalar Caddesi No:No:3/B",
+        "phone": "2164613919",
+        "loc": "41.01536622724771,29.10073135861386"
       },
       {
-        "name": "DERYA ECZANESİ",
+        "name": "SEREN ECZANESİ",
         "dist": "ÜMRANİYE",
-        "address": "Armağanevler Mahallesi, Mithat Paşa Caddesi, 144/B",
-        "phone": "+902163354386",
-        "loc": "41.0210554749482,29.1176212472589"
+        "address": "Mehmet Akif Mahallesi, Elalmış Caddesi, 11/B",
+        "phone": "+902163653673",
+        "loc": "41.009578,29.135832"
       },
       {
-        "name": "VURAL ECZANESİ",
+        "name": "YENİŞEHİR ELİF ECZANESİ",
         "dist": "ÜMRANİYE",
-        "address": "Esenevler Mahallesi, Yunus Emre Caddesi, 41/B",
-        "phone": "+902163163626",
-        "loc": "41.012531,29.090809"
+        "address": "Site Mahallesi, Atay Caddesi, 96B",
+        "phone": "+902165336489",
+        "loc": "41.008685,29.109521"
+      },
+      {
+        "name": "AKADEMİ ECZANESİ",
+        "dist": "ÜMRANİYE",
+        "address": "İnkılap Mahallesi, Mabet Sokak, 20A",
+        "phone": "+902166316441",
+        "loc": "41.0346712607586,29.1102388439726"
       }
     ],
     "üsküdar": [
       {
-        "name": "KANDİLLİ AYŞE ECZANESİ",
+        "name": "EMİRHAN ECZANESİ",
         "dist": "ÜSKÜDAR",
-        "address": "Küçüksu Mahallesi Rasathane Caddesi No:No:53A",
-        "phone": "2163087070",
-        "loc": "41.064517,29.066356"
+        "address": "Küçüksu Mahallesi, Mustafa Düzgünman Caddesi, 1",
+        "phone": "+902166294308",
+        "loc": "41.05852005597598,29.07000973440039"
       },
       {
-        "name": "ATA ECZANESİ",
+        "name": "VANİLYA ECZANESİ",
         "dist": "ÜSKÜDAR",
-        "address": "Valide-i Atik Mahallesi Nuhkuyusu Caddesi No:201/B",
-        "phone": "2164844074",
-        "loc": "41.019927,29.034197"
+        "address": "Kısıklı Mahallesi, Alemdağ Caddesi, 101/A",
+        "phone": "+902165051105",
+        "loc": "41.0240577622706,29.0823684064229"
       },
       {
-        "name": "CEYDA ECZANESİ",
+        "name": "HEKİMOĞLU ECZANESİ",
         "dist": "ÜSKÜDAR",
-        "address": "Bulgurlu Mahallesi, Bulgurlu Caddesi, 152/C",
-        "phone": "+902166507868",
-        "loc": "41.018777,29.081017"
+        "address": "Cumhuriyet Mahallesi, Hekimoğlu Sokak, 13",
+        "phone": "+902164811734",
+        "loc": "41.010953,29.083712"
       },
       {
-        "name": "SEVGİ ECZANESİ",
+        "name": "CAPİTOL ECZANESİ",
         "dist": "ÜSKÜDAR",
-        "address": "Mimar Sinan Mahallesi, Selmanı Pak Caddesi, 74/A",
-        "phone": "+902164929763",
-        "loc": "41.0259800577162,29.0218981912458"
+        "address": "Altunizade Mahallesi Mahir İz Caddesi No:Capitol Alışveriş Merkezi No:16",
+        "phone": "2166514730",
+        "loc": "41.021046,29.03962"
+      },
+      {
+        "name": "ASYAM ECZANESİ",
+        "dist": "ÜSKÜDAR",
+        "address": "Kısıklı Mahallesi Reşatbey Sokak No:19-A",
+        "phone": "2164941111",
+        "loc": "41.025594,29.016922"
       }
     ],
     "zeyti̇nburnu": [
       {
-        "name": "ŞÖLEN ECZANESİ",
+        "name": "NİHAL ECZANESİ",
         "dist": "ZEYTİNBURNU",
-        "address": "Maltepe Mahallesi Tayyareci Sami Sokak No:Beyaz Rezidans C Blok No:2/O",
-        "phone": "2123026276",
-        "loc": "41.01589849216505,28.90534171717926"
+        "address": "Yenidoğan Mahallesi, 41. Sokak, 10A",
+        "phone": "+902125463290",
+        "loc": "40.9869822956318,28.9055390650049"
       },
       {
-        "name": "İSTASYON ECZANESİ",
+        "name": "ÇİRPİCİ ECZANESİ",
         "dist": "ZEYTİNBURNU",
-        "address": "Nuripaşa Mahallesi 58. Bulvar Caddesi No:150/A",
-        "phone": "2124161649",
-        "loc": "40.985839,28.904148"
-      },
-      {
-        "name": "SAĞLİK ECZANESİ",
-        "dist": "ZEYTİNBURNU",
-        "address": "Kazlıçeşme Mahallesi, Asım Kazancıgil Caddesi, 2/A",
-        "phone": "+902126642277",
-        "loc": "41.000214,28.915386"
+        "address": "Çırpıcı Mahallesi, Şener Sokak, 26/B",
+        "phone": "+902124165539",
+        "loc": "40.9999981064432,28.8963760946685"
       }
     ]
   },
@@ -4884,15 +4976,6 @@
         "address": "Manavkuyu Mahallesi, Mustafa Kemal Caddesi No:132/D Bayraklı / İzmir",
         "phone": "0(232)373-87-71",
         "loc": "38.46158,27.201607"
-      }
-    ],
-    "bergama": [
-      {
-        "name": "İSTANBUL ECZANESİ",
-        "dist": "BERGAMA",
-        "address": "Kurtuluş Mahallesi, Kestel Caddesi, No:65/15 Bergama / İzmir",
-        "phone": "0(232)632-28-28",
-        "loc": "39.119171,27.198587"
       }
     ],
     "beydağ": [
@@ -5072,15 +5155,6 @@
         "loc": "38.294139,27.174886"
       }
     ],
-    "güzelbahçe": [
-      {
-        "name": "ŞAHAN ECZANESİ",
-        "dist": "GÜZELBAHÇE",
-        "address": "Şehit Kemal Caddesi, No:128/A Güzelbahçe",
-        "phone": "0(232)234-80-81",
-        "loc": "38.360924,26.88388"
-      }
-    ],
     "karabağlar": [
       {
         "name": "ÖZGÜVENLİ ECZANESİ",
@@ -5212,6 +5286,13 @@
         "address": "501 Sokak, No:10/A Konak / İzmir",
         "phone": "0(232)227-50-05",
         "loc": "38.402841,27.121938"
+      },
+      {
+        "name": "YENİ SERTER ECZANESİ",
+        "dist": "KONAK",
+        "address": "Fevzipaşa Bulvarı No:133/B Basmane Konak",
+        "phone": "0(232)489-84-43",
+        "loc": "38.422634,27.1405"
       },
       {
         "name": "KIVILCIM ECZANESİ",
@@ -5388,11 +5469,11 @@
     "merkez": [],
     "sarikamiş": [
       {
-        "name": "SAĞLIK ECZANESİ",
+        "name": "GERÇEK ECZANESİ",
         "dist": "SARIKAMIŞ",
-        "address": "Tepe Mahallesi, Belediye Caddesi, No:127 Sarıkamış / Kars",
-        "phone": "0(474)413-52-08",
-        "loc": "40.3342,42.5897"
+        "address": "Cumhuriyet Mahallesi, Şehit Binbaşı Bedri Karabıyık Caddesi No:44/A Sarıkamış / Kars",
+        "phone": "0(535)460-39-04",
+        "loc": "40.33401,42.58903"
       }
     ],
     "seli̇m": [
@@ -5402,6 +5483,15 @@
         "address": "Çarşı Mahallesi, Kazımpaşa Caddesi No:169/A Selim / Kars",
         "phone": "0(474)461-26-36",
         "loc": "40.46426,42.79092"
+      }
+    ],
+    "susuz": [
+      {
+        "name": "CAN ECZANESİ",
+        "dist": "SUSUZ",
+        "address": "Kazım Karabekir Mahallesi, No:116 Susuz / Kars",
+        "phone": "0 (474) 511-57-22",
+        "loc": "40.779678,43.129821"
       }
     ]
   },
@@ -5413,6 +5503,15 @@
         "address": "Merkez Mahallesi Cumhuriyet Meydanı, No:1/A Abana / Kastamonu",
         "phone": "0(366)564-20-30",
         "loc": "41.9787,34.0058"
+      }
+    ],
+    "ağli": [
+      {
+        "name": "DENİZ ECZANESİ",
+        "dist": "AĞLI",
+        "address": "Gençlik Mahallesi, No:8/I Ağlı / Kastamonu",
+        "phone": "0(366)737-14-14",
+        "loc": "41.688774,33.553496"
       }
     ],
     "araç": [
@@ -5431,15 +5530,6 @@
         "loc": "41.244448,33.326239"
       }
     ],
-    "azdavay": [
-      {
-        "name": "UMUT ECZANESİ",
-        "dist": "AZDAVAY",
-        "address": "Cumhuriyet Caddesi, No:31/A Azdavay / Kastamonu",
-        "phone": "0(366)717-13-70",
-        "loc": "41.641944,33.302056"
-      }
-    ],
     "bozkurt": [
       {
         "name": "YÜCETÜRK ECZANESİ",
@@ -5449,22 +5539,13 @@
         "loc": "41.958193,34.010913"
       }
     ],
-    "ci̇de": [
-      {
-        "name": "YÜKSEL ECZANESİ",
-        "dist": "CİDE",
-        "address": "Kasaba Mahallesi, Fevzi Paşa Caddesi, Paner Yeri Sokak, No:2/A Cide / Kastamonu",
-        "phone": "0(366)866-16-17",
-        "loc": "41.892278,33.003693"
-      }
-    ],
     "çatalzeyti̇n": [
       {
-        "name": "ÇATALZEYTİN ECZANESİ",
+        "name": "RÜZGAR ECZANESİ",
         "dist": "ÇATALZEYTİN",
-        "address": "Merkez Mahallesi, Gınolu Caddesi, Cami Sokak, No:2/A Çatalzeytin / Kastamonu",
-        "phone": "0(366)516-13-60",
-        "loc": "41.954177,34.213182"
+        "address": "Merkez Mahallesi, Ginolu Caddesi, No:3/A Çatalzeytin / Kastamonu",
+        "phone": "0(366)516-12-43",
+        "loc": "41.954417,34.212606"
       }
     ],
     "daday": [
@@ -5512,15 +5593,6 @@
         "loc": "41.203614,33.553854"
       }
     ],
-    "i̇nebolu": [
-      {
-        "name": "KÖKTEN ECZANESİ",
-        "dist": "İNEBOLU",
-        "address": "Cumhuriyet Caddesi, No:12 İnebolu / Kastamonu",
-        "phone": "0(366)811-56-57",
-        "loc": "41.9778162,33.7606972"
-      }
-    ],
     "küre": [
       {
         "name": "KÜRE ECZANESİ",
@@ -5542,20 +5614,11 @@
     ],
     "seydi̇ler": [
       {
-        "name": "SEYDİLER ECZANESİ",
+        "name": "DAMLA ECZANESİ",
         "dist": "SEYDİLER",
-        "address": "Merkez Mahallesi, Şehit Şerife Bacı Caddesi No:35/20 Seydiler / Kastamonu",
-        "phone": "0(545)932-54-09",
-        "loc": "41.61981,33.71966"
-      }
-    ],
-    "şenpazar": [
-      {
-        "name": "UMUT ECZANESİ",
-        "dist": "ŞENPAZAR",
-        "address": "Cumhuriyet Alanı No:28/A Şenpazar / Kastamonu",
-        "phone": "0(366)788-10-11",
-        "loc": "41.811,33.2341"
+        "address": "Şehit Şerife Bacı Caddesi No:13/17D Seydiler / Kastamonu",
+        "phone": "0(366)668-49-54",
+        "loc": "41.62022,33.718564"
       }
     ],
     "taşköprü": [
@@ -5576,16 +5639,15 @@
     ],
     "tosya": [
       {
-        "name": "KOZANOĞLU ECZANESİ",
+        "name": "GÜLTEKİN ECZANESİ",
         "dist": "TOSYA",
-        "address": "Cumhuriyet Mahallesi, 100.Yıl Caddesi, No:14 Tosya / Kastamonu",
-        "phone": "0(366)313-54-74",
-        "loc": "41.015332,34.039361"
+        "address": "Ibnı Selim Mahallesi, Namazgah Sokak, No:13 Tosya / Kastamonu",
+        "phone": "0(366)313-50-66",
+        "loc": "41.0172,34.0371"
       }
     ]
   },
   "kayseri": {
-    "akkişla": [],
     "bünyan": [
       {
         "name": "EMEKTAR ECZANESİ",
@@ -5597,14 +5659,13 @@
     ],
     "develi̇": [
       {
-        "name": "AŞIK SEYRANİ ECZANESİ",
+        "name": "MEYDAN ECZANESİ",
         "dist": "DEVELİ",
-        "address": "İzmirli Mahallesi, Yakup Kenan Arıkan Meydanı, Gezer Apt. No:3/A Develi / Kayseri",
-        "phone": "0(352)621-00-38",
-        "loc": "38.38547,35.49136"
+        "address": "Harman Mahallesi, Elbiz Caddesi No:18 Develi / Kayseri",
+        "phone": "0(352)621-08-81",
+        "loc": "38.389155,35.492244"
       }
     ],
-    "felahi̇ye": [],
     "hacilar": [
       {
         "name": "SELVİ ECZANESİ",
@@ -5614,7 +5675,15 @@
         "loc": "38.645197,35.450315"
       }
     ],
-    "i̇ncesu": [],
+    "i̇ncesu": [
+      {
+        "name": "YENİ BAHAR ECZANESİ",
+        "dist": "İNCESU",
+        "address": "İhsan Aras Mahallesi, Atatürk Caddesi No:18/G İncesu / Kayseri",
+        "phone": "0(545)965-09-59",
+        "loc": "38.62304,35.18412"
+      }
+    ],
     "kocasi̇nan": [
       {
         "name": "BİLAL ECZANESİ",
@@ -5703,6 +5772,7 @@
         "loc": "38.7221004,35.5182437"
       }
     ],
+    "özvatan": [],
     "pinarbaşi": [],
     "sarioğlan": [],
     "sariz": [],
@@ -5722,15 +5792,22 @@
         "loc": "38.7121296,35.5588114"
       }
     ],
-    "tomarza": [],
-    "yahyali": [],
-    "yeşi̇lhi̇sar": [
+    "tomarza": [
       {
-        "name": "DERMAN ECZANESİ",
-        "dist": "YEŞİLHİSAR",
-        "address": "Köşk Mahallesi, İstasyon Caddesi No:15 Yeşilhisar / Kayseri",
-        "phone": "0(352)651-32-65",
-        "loc": "38.357183,35.08594"
+        "name": "ŞEFKAT ECZANESİ",
+        "dist": "TOMARZA",
+        "address": "Yavuz Selim Mahallesi, Şehit Tamer Gülveren Caddesi, No:34 Tomarza / Kayseri",
+        "phone": "0(352)661-55-84",
+        "loc": "38.44751,35.801173"
+      }
+    ],
+    "yahyali": [
+      {
+        "name": "MERKEZ ECZANESİ",
+        "dist": "YAHYALI",
+        "address": "Gazibeyli Mahallesi Hacı Fakılı Sokak No:1/C Yahyalı",
+        "phone": "0(352)611-30-93",
+        "loc": "38.099113,35.358661"
       }
     ]
   },
@@ -5760,14 +5837,13 @@
     ],
     "demi̇rköy": [
       {
-        "name": "BAŞAK ECZANESİ",
+        "name": "DUROĞLU ECZANESİ",
         "dist": "DEMİRKÖY",
-        "address": "Hamdiye Mahallesi, Cumhuriyet Meydanı No:11/B Demirköy / Kırklareli",
-        "phone": "0(288)681-65-99",
-        "loc": "41.824888,27.7667129"
+        "address": "Orhaniye Mahallesi, İğneada Caddesi No:30/A Demirköy / Kırklareli",
+        "phone": "0(288)681-65-68",
+        "loc": "41.82459,27.76834"
       }
     ],
-    "kofçaz": [],
     "lüleburgaz": [
       {
         "name": "KIVANÇ ECZANESİ",
@@ -5785,7 +5861,15 @@
       }
     ],
     "merkez": [],
-    "pehli̇vanköy": [],
+    "pehli̇vanköy": [
+      {
+        "name": "DALGIÇ ECZANESİ",
+        "dist": "PEHLİVANKÖY",
+        "address": "Kazım Dirik Mahallesi, Ecz. Mahmut Tuna Caddesi, No:4/C Pehlivanköy / Kırklareli",
+        "phone": "0(288)714-10-39",
+        "loc": "41.347626,26.917388"
+      }
+    ],
     "pinarhi̇sar": [
       {
         "name": "AYTEN ECZANESİ",
@@ -5797,11 +5881,11 @@
     ],
     "vi̇ze": [
       {
-        "name": "AYDIN ECZANESİ",
+        "name": "AKSOY ECZANESİ",
         "dist": "VİZE",
-        "address": "Devlet Mahallesi, Ziraat Bahçe Sokak No:7/B Vize / Kırklareli",
-        "phone": "0(288)318-33-76",
-        "loc": "41.574288,27.761125"
+        "address": "Cumhuriyet Meydanı Atatürk Caddesi, No:3 Vize / Kırklareli",
+        "phone": "0(288)318-39-49",
+        "loc": "41.5730479,27.7667294"
       }
     ]
   },
@@ -5819,7 +5903,6 @@
         "loc": "39.359516,33.7233"
       }
     ],
-    "merkez": [],
     "mucur": [
       {
         "name": "MUCUR ECZANESİ",
@@ -5838,22 +5921,6 @@
         "address": "Serdar Mahallesi, Pasinler Caddesi No:49 Başiskele / Kocaeli",
         "phone": "0 (262) 346-71-41",
         "loc": "40.712025,29.945995"
-      }
-    ],
-    "çayirova": [
-      {
-        "name": "ZEYNEP ECZANESİ",
-        "dist": "ÇAYIROVA",
-        "address": "Çayirova Mah.5213.Sok.no:50/A",
-        "phone": "0(262)744-94-22",
-        "loc": "40.819763,29.372214"
-      },
-      {
-        "name": "YENİ YAŞAM ECZANESİ",
-        "dist": "ÇAYIROVA",
-        "address": "Özgürlük Mahallesi, Uğur Mumcu Caddesi, No:52 Çayırova / Kocaeli",
-        "phone": "0(262)743-94-03",
-        "loc": "40.82546304,29.38339908"
       }
     ],
     "darica": [
@@ -5936,22 +6003,50 @@
         "loc": "40.72040604,29.79415908"
       }
     ],
-    "kandira": [
+    "i̇zmi̇t": [
       {
-        "name": "TOKİ ECZANESİ",
-        "dist": "KANDIRA",
-        "address": "Orhan Mahallesi, Kabaağaç Caddesi No:22/D Kandıra / Kocaeli",
-        "phone": "0(262)551-48-88",
-        "loc": "41.0658,30.1354"
+        "name": "ANITPARK ECZANESİ",
+        "dist": "İZMİT",
+        "address": "Kadıköy Mahallesi, Hayırsevenler Sokak, No:21/A İzmit / Kocaeli",
+        "phone": "0(555)081-11-41",
+        "loc": "40.767183,29.94198084"
+      },
+      {
+        "name": "TÜRKANT ECZANESİ",
+        "dist": "İZMİT",
+        "address": "Ömerağa Mahallesi, Hafız Şerif Sokak No:5 İzmit / Kocaeli",
+        "phone": "0(262)321-20-49",
+        "loc": "40.7637,29.9273"
+      },
+      {
+        "name": "BAYINDIRLIK ECZANESİ",
+        "dist": "İZMİT",
+        "address": "Tepeköy Mahallesi, Egemenlik Caddesi, No:9 Bayındırlık İzmit / Kocaeli",
+        "phone": "0(262)329-17-07",
+        "loc": "40.80189897,29.97459684"
+      },
+      {
+        "name": "MELEK ECZANESİ",
+        "dist": "İZMİT",
+        "address": "Yeni Mahallesi, İnkılap Caddesi, No:2/B İzmit / Kocaeli",
+        "phone": "0(262)226-25-54",
+        "loc": "40.76409303,29.88777708"
+      },
+      {
+        "name": "ELİF ŞİFA ECZANESİ",
+        "dist": "İZMİT",
+        "address": "Mehmet Ali Paşa Mahallesi, Beren Sokak, No:12/A İzmit",
+        "phone": "0(262)324-54-81",
+        "loc": "40.76955297,29.95401096"
       }
     ],
-    "karamürsel": [
+    "kandira": [
       {
-        "name": "HANDAN ECZANESİ",
-        "dist": "KARAMÜRSEL",
-        "address": "Kayacık Mahallesi, Hüseyin Karadeniz Sokak, No:11 Karamürsel",
-        "phone": "0(262)452-54-11",
-        "loc": "40.68487503,29.58909804"
+        "name": "GEBEŞ ECZANESİ",
+        "dist": "KANDIRA",
+        "address": "Aydınlık Mahallesi, Sezenler Caddesi, No:1/A Kandıra / Kocaeli",
+        "phone": "0(262)551-43-96",
+        "loc": "41.07061404,30.15282816"
       }
     ],
     "kartepe": [
@@ -5981,7 +6076,15 @@
     ]
   },
   "konya": {
-    "ahirli": [],
+    "ahirli": [
+      {
+        "name": "AKKİSE ECZANESİ",
+        "dist": "AHIRLI",
+        "address": "Akkise Mahallesi, Akören Seydişehir Yolu 1/a, Ahırlı / Konya",
+        "phone": "0 (332) 483-74-02",
+        "loc": "37.365589,32.132273"
+      }
+    ],
     "akören": [],
     "akşehi̇r": [
       {
@@ -6019,22 +6122,6 @@
         "loc": "37.1893459,32.2463848"
       }
     ],
-    "ci̇hanbeyli̇": [
-      {
-        "name": "KAYHAN ECZANESİ",
-        "dist": "CİHANBEYLİ",
-        "address": "Atçeken Mahallesi, Hastane Caddesi No:50/C Cihanbeyli / Konya",
-        "phone": "0(332)673-41-31",
-        "loc": "38.6654442,32.9218904"
-      },
-      {
-        "name": "SAĞLIK ECZANESİ",
-        "dist": "CİHANBEYLİ",
-        "address": "Yeniceoba Mahallesi, Yeniceoba Caddesi, No:88/A Cihanbeyli",
-        "phone": "0(332)676-25-04",
-        "loc": "38.870668,32.788593"
-      }
-    ],
     "çelti̇k": [
       {
         "name": "KAÇMAZ ECZANESİ",
@@ -6042,6 +6129,15 @@
         "address": "Fatih Mahallesi, 70025.Sokak No:5/A Çeltik / Konya",
         "phone": "0(542)638-80-26",
         "loc": "39.021655,31.792052"
+      }
+    ],
+    "çumra": [
+      {
+        "name": "MERKEZ ECZANESİ",
+        "dist": "ÇUMRA",
+        "address": "İzzetbey Mahallesi, Gazi Caddesi, No:9/B Çumra",
+        "phone": "0(332)447-12-05",
+        "loc": "37.572033,32.780051"
       }
     ],
     "derbent": [],
@@ -6151,15 +6247,6 @@
         "loc": "37.860041,32.523559"
       }
     ],
-    "kulu": [
-      {
-        "name": "TAŞKIRAN ECZANESİ",
-        "dist": "KULU",
-        "address": "Fatih Sultan Mehmet Mahallesi, Ahmet Baran Caddesi No:5/D Kulu / Konya",
-        "phone": "0(332)641-30-40",
-        "loc": "39.088865,33.069563"
-      }
-    ],
     "meram": [
       {
         "name": "AYMİLA ECZANESİ",
@@ -6188,15 +6275,6 @@
         "address": "Süleyman Şah Mahallesi, Beyşehir Caddesi, No:183/D-E Meram/ Konya",
         "phone": "0(332)323-23-21",
         "loc": "37.87971,32.448079"
-      }
-    ],
-    "sarayönü": [
-      {
-        "name": "AYŞE ÇINAR ECZANESİ",
-        "dist": "SARAYÖNÜ",
-        "address": "Fatih Mahallesi, Tahir Çelik Caddesi No:87/A Sarayönü / Konya",
-        "phone": "0(553)610-61-28",
-        "loc": "38.261034,32.405398"
       }
     ],
     "selçuklu": [
@@ -6310,7 +6388,6 @@
         "loc": "39.802605,29.612599"
       }
     ],
-    "dumlupinar": [],
     "emet": [
       {
         "name": "ŞULENUR ECZANESİ",
@@ -6411,13 +6488,22 @@
         "loc": "38.34878202,38.32310808"
       }
     ],
+    "darende": [
+      {
+        "name": "SAĞLIK ECZANESİ",
+        "dist": "DARENDE",
+        "address": "Heyiketeği Mahallesi, İbrahim Paşa Caddesi, Darende / Malatya",
+        "phone": "0(422)615-22-53",
+        "loc": "38.556819,37.49132592"
+      }
+    ],
     "doğanşehi̇r": [
       {
-        "name": "TOPRAK ECZANESİ",
+        "name": "DOĞANŞEHİR ŞİFA ECZANESİ",
         "dist": "DOĞANŞEHİR",
-        "address": "Karşıyaka Mahallesi, Eşref Bitlis Caddesi No:1/A Doğanşehir / Malatya",
-        "phone": "0(536)292-24-70",
-        "loc": "38.08791,37.87988"
+        "address": "Yeni Mahallesi, İnönü Caddesi No:24/C Doğanşehir / Malatya",
+        "phone": "0(544)740-46-02",
+        "loc": "38.08886,37.87871"
       }
     ],
     "doğanyol": [],
@@ -6449,6 +6535,7 @@
         "loc": "38.195926,38.868925"
       }
     ],
+    "yazihan": [],
     "yeşi̇lyurt": [
       {
         "name": "HEKİMOĞLU ECZANESİ",
@@ -6476,40 +6563,40 @@
         "loc": "38.921777,27.839489"
       }
     ],
-    "demi̇rci̇": [
+    "alaşehi̇r": [
       {
-        "name": "EGE ECZANESİ",
-        "dist": "DEMİRCİ",
-        "address": "Cumhuriyet Mahallesi, Menderes Bulvarı No:37/A Demirci",
-        "phone": "0(236)462-40-17",
-        "loc": "39.039954,28.658279"
+        "name": "CANSEL ECZANESİ",
+        "dist": "ALAŞEHİR",
+        "address": "Soğuksu Mahallesi, İstiklal Caddesi No:138 Alaşehir / Manisa",
+        "phone": "0(553)403-00-45",
+        "loc": "38.34881,28.51521"
       }
     ],
-    "gölmarmara": [
+    "demi̇rci̇": [
       {
-        "name": "VATAN ECZANESİ",
-        "dist": "GÖLMARMARA",
-        "address": "İhsaniye Mahallesi, 512 Sokak, No:35/B Gölmarmara / Manisa",
-        "phone": "0(236)515-11-52",
-        "loc": "38.717571,27.911318"
+        "name": "GÜL ECZANESİ",
+        "dist": "DEMİRCİ",
+        "address": "Pazar Mahallesi Kaymakam Ibrahım Akıncı Caddesi, No:9/A Demirci",
+        "phone": "0(236)462-49-69",
+        "loc": "39.044364,28.653582"
       }
     ],
     "gördes": [
       {
-        "name": "YAVAŞOĞLU ECZANESİ",
+        "name": "COŞKUN ECZANESİ",
         "dist": "GÖRDES",
-        "address": "Hüseyni Baba Mahallesi, Fatih Bulvarı No:115 Gördes / Manisa",
-        "phone": "0(236)547-11-00",
-        "loc": "38.932783,28.288595"
+        "address": "Cuma Mahallesi, Jandarma Astsubay Üstçavuş Özgür Artunç Bulvarı No:136 Gördes / Manisa",
+        "phone": "0(236)547-13-47",
+        "loc": "38.933317,28.288811"
       }
     ],
-    "köprübaşi": [
+    "kirkağaç": [
       {
-        "name": "YILMAZ ECZANESİ",
-        "dist": "KÖPRÜBAŞI",
-        "address": "Borlu Mahallesi, Kenan Evren Caddesi No:24/A Köprübaşı / Manisa",
-        "phone": "0(236)473-71-38",
-        "loc": "38.752677,28.467953"
+        "name": "DERYA ECZANESİ",
+        "dist": "KIRKAĞAÇ",
+        "address": "Yeni Mahalle, Menderes Caddesi, 53 Sokak No:77/B Kırkağaç / Manisa",
+        "phone": "0(236)588-27-32",
+        "loc": "39.104948,27.671474"
       }
     ],
     "kula": [
@@ -6539,11 +6626,11 @@
     ],
     "sarigöl": [
       {
-        "name": "YENİ BUKET ECZANESİ",
+        "name": "ÖZYILDIZ ECZANESİ",
         "dist": "SARIGÖL",
-        "address": "Konak Mahallesi, Yokuşbaşı Caddesi, No:38 Sarıgöl / Manisa",
-        "phone": "0(236)867-44-66",
-        "loc": "38.240502,28.697841"
+        "address": "Konak Mahallesi, Şehit Esin Akay Caddesi, Salih Çavuş Sokak, No:8/B Sarıgöl / Manisa",
+        "phone": "0(236)867-24-99",
+        "loc": "38.238396,28.69784"
       }
     ],
     "saruhanli": [
@@ -6670,6 +6757,15 @@
         "loc": "38.019209,36.49429"
       }
     ],
+    "nurhak": [
+      {
+        "name": "YİLDİRİM ECZANESİ",
+        "dist": "NURHAK",
+        "address": "Karaçar Mah. Atatürk Cad. No:154/B",
+        "phone": "0(501)267-11-13",
+        "loc": "37.965745,37.451069"
+      }
+    ],
     "oni̇ki̇şubat": [
       {
         "name": "ESRA AKSOY ECZANESİ",
@@ -6745,11 +6841,11 @@
     ],
     "dargeçi̇t": [
       {
-        "name": "ŞİFA ECZANESİ",
+        "name": "ORMAN ECZANESİ",
         "dist": "DARGEÇİT",
-        "address": "Bahçebaşı Mahallesi, Selahaddin Eyyübi Caddesi No:35/A-B Dargeçit / Mardin",
-        "phone": "0(546)850-89-42",
-        "loc": "37.541,41.7159"
+        "address": "Bahçebaşı Mahallesi, Selahattin Eyyubi Caddesi No:66/A Dargeçit / Mardin",
+        "phone": "0(535)630-66-47",
+        "loc": "37.540955,41.715424"
       }
     ],
     "deri̇k": [
@@ -6759,22 +6855,6 @@
         "address": "Kale Mahalle Amed 5 Sokak No:2/C",
         "phone": "0(482)251-21-21",
         "loc": "37.37193086,40.27193486"
-      }
-    ],
-    "kiziltepe": [
-      {
-        "name": "CENG ECZANESİ",
-        "dist": "KIZILTEPE",
-        "address": "Ersoylu Mahalle 12 Cadde No:37/A Kızıltepe / Mardin",
-        "phone": "0(482)312-31-31",
-        "loc": "37.193981,40.574623"
-      },
-      {
-        "name": "DUYAN ECZANESİ",
-        "dist": "KIZILTEPE",
-        "address": "Yenikent Mahalle 9314A Sokak Günaynur 2 Apt A Blok No:1B",
-        "phone": "0(482)313-65-39",
-        "loc": "37.235774,40.629643"
       }
     ],
     "mazidaği": [
@@ -6821,15 +6901,6 @@
         "phone": "0(482)571-20-38",
         "loc": "37.53562,40.88754"
       }
-    ],
-    "yeşi̇lli̇": [
-      {
-        "name": "İLKNUR ECZANESİ",
-        "dist": "YEŞİLLİ",
-        "address": "Gül Mahallesi, Vatan Caddesi No:2/A Yeşilli / Mardin",
-        "phone": "0(482)591-10-91",
-        "loc": "37.339544,40.82223"
-      }
     ]
   },
   "muğla": {
@@ -6856,6 +6927,13 @@
         "loc": "37.010865,27.270827"
       },
       {
+        "name": "ÇAĞIN ECZANESİ",
+        "dist": "BODRUM",
+        "address": "Gölköy Mahallesi, Hürriyet Caddesi No:119/A Bodrum / Muğla",
+        "phone": "0(555)080-47-48",
+        "loc": "37.119558,27.384545"
+      },
+      {
         "name": "BANU ECZANESİ",
         "dist": "BODRUM",
         "address": "Ortakent Mahallesi, Gölbaşı Sokak, No:34/2 Bodrum / Muğla",
@@ -6877,73 +6955,64 @@
         "loc": "37.105104,27.291448"
       }
     ],
-    "dalaman": [
-      {
-        "name": "CAMUZCUOĞLU ECZANESİ",
-        "dist": "DALAMAN",
-        "address": "Merkez Mahallesi, Atatürk Caddesi, No:75 Dalaman / Muğla",
-        "phone": "0(252)692-10-02",
-        "loc": "36.76605531,28.8059499"
-      }
-    ],
     "datça": [
       {
-        "name": "GÜLİN ECZANESİ",
+        "name": "KOCAREİS ECZANESİ",
         "dist": "DATÇA",
-        "address": "iskele Mahallesi, Dr. Turgut Dündar Caddesi No:12/F",
-        "phone": "0(544)452-35-82",
-        "loc": "36.727255,27.687456"
+        "address": "İskele Mahallesi, Atatürk Caddesi, No:24/A Datça / Muğla",
+        "phone": "0(252)712-38-65",
+        "loc": "36.7268048516714,27.6859830445166"
       }
     ],
     "fethi̇ye": [
       {
-        "name": "ABALI ECZANESİ",
+        "name": "SAĞLIK ECZANESİ",
         "dist": "FETHİYE",
-        "address": "Akarca Mahallesi 893.Sokak E-Blok No:10 Fethiye Muğla",
-        "phone": "0(252)613-78-40",
-        "loc": "36.65388778,29.12137493"
+        "address": "Karaçulha Mahallesi, Katip Emin Caddesi No:56/1 Fethiye / Muğla",
+        "phone": "0(252)646-49-46",
+        "loc": "36.641314,29.166651"
       },
       {
-        "name": "ÇARŞI ECZANESİ",
+        "name": "MERT ECZANESİ",
         "dist": "FETHİYE",
-        "address": "Tuzla Mahallesi, Sadi Pekin Caddesi, No:22 Fethiye / Muğla",
-        "phone": "0(252)614-25-54",
-        "loc": "36.63064947,29.12089097"
+        "address": "Pazaryeri Mahallesi, Şehit Sabri Acar Caddesi No:34/B Fethiye / Muğla",
+        "phone": "0(252)646-92-83",
+        "loc": "36.6296025310572,29.153011547946"
       },
       {
-        "name": "GÖCEK ECZANESİ",
+        "name": "EROĞLU ECZANESİ",
         "dist": "FETHİYE",
-        "address": "Göcek Mahallesi, Çarşı Yolu Caddesi, No:48/B Fethiye / Muğla",
-        "phone": "0(252)645-25-23",
-        "loc": "36.755128241712,28.9405914367348"
+        "address": "Cumhuriyet Mahallesi, Atatürk Caddesi, No:56/A Fethiye / Muğla",
+        "phone": "0(252)614-14-97",
+        "loc": "36.62200387,29.11079242"
       },
       {
-        "name": "OVACIK ECZANESİ",
+        "name": "KARDELEN ECZANESİ",
         "dist": "FETHİYE",
-        "address": "Ölüdeniz Mahallesi, Atatürk Caddesi No:121/E Fethiye / Muğla",
-        "phone": "0 (252) 616-62-53",
-        "loc": "36.571685976174,29.1441604975781"
+        "address": "Akarca Mahallesi, Yerguzlar Caddesi No:30/C Fethiye / Muğla",
+        "phone": "0(252)502-19-28",
+        "loc": "36.655734,29.122488"
       },
       {
-        "name": "GÜL ECZANESİ",
+        "name": "EMEK ECZANESİ",
         "dist": "FETHİYE",
-        "address": "Esenköy Mahallesi, Sağ Sokak, No:196 Fethiye / Muğla",
-        "phone": "0(252)635-74-15",
-        "loc": "36.6284376888724,29.2178553890633"
+        "address": "Çatalarık Mahallesi, Turgut Özal Bulvarı No:97/B Fethiye / Muğla",
+        "phone": "0 (252) 502-24-63",
+        "loc": "36.661266,29.142547"
       },
       {
-        "name": "CANDAN ECZANESİ",
+        "name": "SAHİL ECZANESİ",
         "dist": "FETHİYE",
-        "address": "Menteşeoğlu Mahallesi, Süleyman Demirel Bulvarı. No:245/A Fethiye / Muğla",
-        "phone": "0(252)611-03-23",
-        "loc": "36.631312,29.148576"
+        "address": "Göcek Mahallesi, Turgut Özal Caddesi No:56/A-3 Fethiye / Muğla",
+        "phone": "0(252)502-18-84",
+        "loc": "36.7575833776801,28.9356726267294"
       },
       {
-        "name": "VARÇİN ECZANESİ",
+        "name": "ESENKÖY DEFNE ECZANESİ",
         "dist": "FETHİYE",
-        "address": "Karaçulha Mahallesi, Atatürk Bulvarı No:156/1 Fethiye / Muğla",
-        "phone": "0(252)646-82-84",
-        "loc": "36.639435,29.169478"
+        "address": "Esenköy Mahallesi, Sol Sokak, No:117 Fethiye / Muğla",
+        "phone": "0(252)635-77-67",
+        "loc": "36.6283558446246,29.218070864702"
       }
     ],
     "kavaklidere": [
@@ -7010,50 +7079,20 @@
         "loc": "37.2667374329483,28.2181153739843"
       }
     ],
-    "mi̇las": [
-      {
-        "name": "ÇAKIRÖZ ECZANESİ",
-        "dist": "MİLAS",
-        "address": "Selimiye Mahallesi, Cumhuriyet Caddesi, No:36 Milas / Muğla",
-        "phone": "0(252)542-26-99",
-        "loc": "37.39862601,27.65824992"
-      },
-      {
-        "name": "KORKMAZ ECZANESİ",
-        "dist": "MİLAS",
-        "address": "Ören Mahallesi, Şehit Şükrü Uyar Sokak, No:2/A Milas / Muğla",
-        "phone": "0(252)532-28-11",
-        "loc": "37.031884739701,27.9725615134326"
-      },
-      {
-        "name": "UMUT ECZANESİ",
-        "dist": "MİLAS",
-        "address": "Şevketiye Mahallesi, Hastane Caddesi, No:18 Milas / Muğla",
-        "phone": "0(252)512-99-86",
-        "loc": "37.3160177086518,27.7869722203048"
-      },
-      {
-        "name": "HAYAL ECZANESİ",
-        "dist": "MİLAS",
-        "address": "Güllük Mahallesi, 280. Sokak, No:10-B Milas / Muğla",
-        "phone": "0(252)522-34-58",
-        "loc": "37.23768,27.598374"
-      }
-    ],
     "ortaca": [
       {
-        "name": "DAKA ECZANESİ",
+        "name": "SALTIK ECZANESİ",
         "dist": "ORTACA",
-        "address": "Beşköprü Mahallesi, Atatürk Bulvari, No:120/A",
-        "phone": "0(252)282-22-20",
-        "loc": "36.8399104163087,28.7632564110451"
+        "address": "Terzialiler Mahallesi, Cumhuriyet Caddesi, No:3 Ortaca / Muğla",
+        "phone": "0(252)282-29-66",
+        "loc": "36.836498638659,28.7639415447347"
       },
       {
-        "name": "DALYAN ECZANESİ",
+        "name": "KAUNOS ECZANESİ",
         "dist": "ORTACA",
-        "address": "Dalyan Mahallesi, Maraş Caddesi, No:35/C Ortaca / Muğla",
-        "phone": "0(252)284-20-15",
-        "loc": "36.832946,28.6406032"
+        "address": "Dalyan Mahallesi, Atatürk Bulvarı. No:4/B Ortaca / Muğla",
+        "phone": "0(252)284-25-09",
+        "loc": "36.8341148311258,28.6429574634688"
       }
     ],
     "seydi̇kemer": [
@@ -7087,16 +7126,25 @@
         "phone": "0(252)242-33-34",
         "loc": "37.1026670161199,28.4171612052122"
       }
+    ],
+    "yatağan": [
+      {
+        "name": "ALPÖZEN ECZANESİ",
+        "dist": "YATAĞAN",
+        "address": "Konak Mahallesi, Cumhuriyet Caddesi, No:1/A Yatağan / Muğla",
+        "phone": "0(252)572-52-27",
+        "loc": "37.333793,28.142416"
+      }
     ]
   },
   "muş": {
     "bulanik": [
       {
-        "name": "SAĞLIK ECZANESİ",
+        "name": "HAMİDE ECZANESİ",
         "dist": "BULANIK",
-        "address": "Zafer Mahallesi, Hastane Caddesi, No.z04 Bulanık / Muş",
-        "phone": "0(436)311-22-52",
-        "loc": "39.0949669,42.274193"
+        "address": "Yeni Mahallesi, Karaoğlanoğlu Caddesi No:8/A Bulanık / Muş",
+        "phone": "0(436)311-20-30",
+        "loc": "39.09409,42.2699"
       }
     ],
     "hasköy": [
@@ -7119,11 +7167,11 @@
     ],
     "malazgi̇rt": [
       {
-        "name": "DERMAN ECZANESİ",
+        "name": "YAŞAM ECZANESİ",
         "dist": "MALAZGİRT",
-        "address": "Saltukgazi Mahallesi, Hükümet Konağı Caddesi önü No:1/F Malazgirt / Muş",
-        "phone": "0(436)511-45-40",
-        "loc": "39.1466907,42.5419437"
+        "address": "Selçuklu Mahallesi, Hastane Caddesi No:70/B Malazgirt / Muş",
+        "phone": "0(436)511-36-01",
+        "loc": "39.152342,42.550871"
       }
     ],
     "merkez": [],
@@ -7140,20 +7188,20 @@
   "nevşehir": {
     "acigöl": [
       {
-        "name": "PAPATYA ECZANESİ",
+        "name": "ÖMÜR ECZANESİ",
         "dist": "ACIGÖL",
-        "address": "Çayırlık Mahallesi, Hastane Caddesi, No:35/1 Acıgöl / Nevşehir",
-        "phone": "0(384)311-27-26",
-        "loc": "38.546948,34.500316"
+        "address": "Çayırlık Mahallesi, Hastane Caddesi, No:35/2 Acıgöl / Nevşehir",
+        "phone": "0(384)311-50-54",
+        "loc": "38.546913,34.500397"
       }
     ],
     "avanos": [
       {
-        "name": "MEYDAN ECZANESİ",
+        "name": "AVANOS ECZANESİ",
         "dist": "AVANOS",
-        "address": "Yukarı Mahallesi, Edip Akbayram Caddesi, No:2/1 Avanos / Nevşehir",
-        "phone": "0(384)511-70-50",
-        "loc": "38.7194,34.8474"
+        "address": "Bahçelievler Mahallesi, Saruhan Caddesi, No:1 Avanos",
+        "phone": "0(384)511-42-42",
+        "loc": "38.712804,34.844651"
       }
     ],
     "deri̇nkuyu": [
@@ -7183,6 +7231,15 @@
         "loc": "38.9416,34.5595"
       }
     ],
+    "kozakli": [
+      {
+        "name": "VOLKAN ECZANESİ",
+        "dist": "KOZAKLI",
+        "address": "Altınsu Mahallesi, Dr.Doğan Birgül Caddesi, Kozaklı Toplum Sağlığı Merkezi karşısı Kozaklı / Nevşehir",
+        "phone": "0(384)471-40-92",
+        "loc": "39.218473,34.851141"
+      }
+    ],
     "merkez": [],
     "ürgüp": [
       {
@@ -7202,6 +7259,15 @@
         "address": "İstiklal Mahallesi, Şehit Abdulkadir Tanık Caddesi, Sıhhatli Sokak No:42/2 Altunhisar / Niğde",
         "phone": "0 (388) 611-22-56",
         "loc": "37.981773,34.375401"
+      }
+    ],
+    "bor": [
+      {
+        "name": "HAKAN ECZANESİ",
+        "dist": "BOR",
+        "address": "Yeni Göçmen Mahallesi, Sakarya Caddesi Bor / Niğde",
+        "phone": "0 (388) 311-79-80",
+        "loc": "37.880744,34.556606"
       }
     ],
     "çamardi": [
@@ -7399,35 +7465,18 @@
         "phone": "0(452)861-32-21",
         "loc": "40.872724,37.75855"
       }
-    ],
-    "ünye": [
-      {
-        "name": "BEŞLİOĞLU ECZANESİ",
-        "dist": "ÜNYE",
-        "address": "Hükümet Caddesi No:7 Ünye / Ordu",
-        "phone": "0(452)323-23-03",
-        "loc": "41.130187,37.286472"
-      },
-      {
-        "name": "GÜVENAY ECZANESİ",
-        "dist": "ÜNYE",
-        "address": "Orta Yılmazlar Mahallesi Türbe Caddesi No:2/B Ünye",
-        "phone": "0(452)324-73-24",
-        "loc": "41.12717,37.2859582"
-      }
     ]
   },
   "rize": {
     "ardeşen": [
       {
-        "name": "HAYAT ECZANESİ",
+        "name": "SEVİM ECZANESİ",
         "dist": "ARDEŞEN",
-        "address": "Deniz Mahallesi, Lütfü Alemdar Caddesi No:27/B Ardeşen / Rize",
-        "phone": "0 (464) 715-34-53",
-        "loc": "41.19267,40.981926"
+        "address": "Atatürk Caddesi, No:38/A Ardeşen / Rize",
+        "phone": "0(464)715-15-83",
+        "loc": "41.1925316,40.9925884"
       }
     ],
-    "çamlihemşi̇n": [],
     "çayeli̇": [
       {
         "name": "DEVA ECZANESİ",
@@ -7447,6 +7496,15 @@
         "loc": "41.271769,41.141506"
       }
     ],
+    "güneysu": [
+      {
+        "name": "EROĞLU ECZANESİ",
+        "dist": "GÜNEYSU",
+        "address": "Merkez Mahallesi, Adnan Menderes Caddesi, No:17 Güneysu / Rize",
+        "phone": "0(464)344-14-62",
+        "loc": "40.977726,40.61259"
+      }
+    ],
     "hemşi̇n": [],
     "i̇ki̇zdere": [],
     "i̇yi̇dere": [],
@@ -7459,7 +7517,6 @@
         "loc": "40.927465,40.442874"
       }
     ],
-    "merkez": [],
     "pazar": [
       {
         "name": "MERKEZ ECZANESİ",
@@ -7473,25 +7530,25 @@
   "sakarya": {
     "adapazari": [
       {
-        "name": "ŞEKER ECZANESİ",
+        "name": "ZEYTİN ECZANESİ",
         "dist": "ADAPAZARI",
-        "address": "Şeker Mahallesi, Sedat Kirtepe Caddesi, Zarif Sokak, No:18 A-B Adapazarı / Sakarya",
-        "phone": "0(264)281-87-88",
-        "loc": "40.782556,30.389294"
+        "address": "Şeker Mahallesi Zarif Sokak, No:14/A Adapazarı / Sakarya",
+        "phone": "0(264)270-13-14",
+        "loc": "40.782482,30.388642"
       },
       {
-        "name": "MAYA ECZANESİ",
+        "name": "DİLEK ECZANESİ",
         "dist": "ADAPAZARI",
-        "address": "Korucuk Mahallesi, Hastane Caddesi No:10/Z-6 Adapazarı / Sakarya",
-        "phone": "0(264)221-34-54",
-        "loc": "40.851853,30.289116"
+        "address": "Karaman Mahallesi, 1777 Küme Evleri No:1/Üz-14-16 Adapazarı / Sakarya",
+        "phone": "0(264)221-25-45",
+        "loc": "40.85213697,30.339189"
       },
       {
-        "name": "HEKİMOĞLU ECZANESİ",
+        "name": "GÜNDOĞAR ECZANESİ",
         "dist": "ADAPAZARI",
-        "address": "Güllük Mahallesi, Sağlık Caddesi, No:3/A-1 Adapazarı / Sakarya",
-        "phone": "0(264)276-08-66",
-        "loc": "40.758558,30.389828"
+        "address": "Milli Egemenlik Caddesi, No:5 Adapazarı / Sakarya",
+        "phone": "0(264)277-75-27",
+        "loc": "40.77477,30.401725"
       }
     ],
     "akyazi": [
@@ -7503,31 +7560,31 @@
         "loc": "40.68146,30.624245"
       }
     ],
-    "ari̇fi̇ye": [
-      {
-        "name": "BAYINDIR ECZANESİ",
-        "dist": "ARİFİYE",
-        "address": "Aşağı Kirazca Mahallesi, 101. Sokak No:3/A Arifiye / Sakarya",
-        "phone": "0 (264) 229-18-81",
-        "loc": "40.707369,30.378503"
-      }
-    ],
     "erenler": [
       {
-        "name": "OZAN ECZANESİ",
+        "name": "BERKAY ECZANESİ",
         "dist": "ERENLER",
-        "address": "Hacıoğlu Mahallesi, Şehit Astsubay Yaşar Güller Caddesi, No:79 Erenler / Sakarya",
-        "phone": "0(264)241-55-67",
-        "loc": "40.764504,30.406054"
+        "address": "Küpçüler Mahallesi, 3005 Sokak, No:18/1 Erenler / Sakarya",
+        "phone": "0(264)241-60-07",
+        "loc": "40.762349,30.415741"
+      }
+    ],
+    "feri̇zli̇": [
+      {
+        "name": "HİLAL ECZANESİ",
+        "dist": "FERİZLİ",
+        "address": "inönüğ Mah. Favziçakmak Cad No 77-B",
+        "phone": "0(264)781-76-76",
+        "loc": "40.939693,30.487989"
       }
     ],
     "geyve": [
       {
-        "name": "ESEN ECZANESİ",
+        "name": "ZEYNEP ECZANESİ",
         "dist": "GEYVE",
-        "address": "Alifuatpaşa Mahallesi, Park Sokak, No:11 Geyve",
-        "phone": "0(264)516-19-03",
-        "loc": "40.535947,30.296501"
+        "address": "Tepecikler Mahallesi, Konyalı Alibey Caddesi, No:143/A Geyve / Sakarya",
+        "phone": "0(264)517-30-22",
+        "loc": "40.522034,30.294405"
       }
     ],
     "karapürçek": [
@@ -7555,6 +7612,15 @@
         "loc": "41.091765,30.697715"
       }
     ],
+    "kaynarca": [
+      {
+        "name": "KAYNARCA ECZANESİ",
+        "dist": "KAYNARCA",
+        "address": "Dr.Hasan Akgün Bulvarı No:6/L Kaynarca / Sakarya",
+        "phone": "0(264)871-31-76",
+        "loc": "41.033831,30.30595"
+      }
+    ],
     "kocaali̇": [
       {
         "name": "FEYZA ECZANESİ",
@@ -7564,40 +7630,31 @@
         "loc": "41.072225,30.860875"
       }
     ],
-    "pamukova": [
-      {
-        "name": "EBRU ECZANESİ",
-        "dist": "PAMUKOVA",
-        "address": "Ankara Caddesi, Elpret Mahallesi, No:82/1A Pamukova / Sakarya",
-        "phone": "0(264)551-20-05",
-        "loc": "40.507779,30.169762"
-      }
-    ],
     "sapanca": [
       {
-        "name": "BAYRAK ECZANESİ",
+        "name": "ÇARŞI ECZANESİ",
         "dist": "SAPANCA",
-        "address": "Çayiçi Mahallesi, İzmit Caddesi, No:32/2 Sapanca",
-        "phone": "0(264)582-53-20",
-        "loc": "40.689813,30.256968"
+        "address": "Rüstempaşa Mahallesi, Vehbibey Caddesi, No:2/A Sapanca / Sakarya",
+        "phone": "0(264)582-66-56",
+        "loc": "40.691912,30.266806"
       }
     ],
-    "söğütlü": [
+    "serdi̇van": [
       {
-        "name": "TURAN ECZANESİ",
-        "dist": "SÖĞÜTLÜ",
-        "address": "Camii Cedit Mahallesi, Atatürk Caddesi, No:471/2 Söğütlü / Sakarya",
-        "phone": "0(264)681-25-95",
-        "loc": "40.894546,30.468374"
+        "name": "BURAK ECZANESİ",
+        "dist": "SERDİVAN",
+        "address": "Arabacı Alanı Mahallesi, Şehit Mehmet Karabaşoğlu Caddesi, No:70/1 Serdivan / Sakarya",
+        "phone": "0(264)211-49-03",
+        "loc": "40.776114,30.354879"
       }
     ],
     "tarakli": [
       {
-        "name": "TARAKLI ECZANESİ",
+        "name": "RAHİME HANIM ECZANESİ",
         "dist": "TARAKLI",
-        "address": "Hacımurat Mahallesi, Ankara Caddesi, Taraklı / Sakarya",
+        "address": "Ulucami Mahallesi, Taraklı / Sakarya",
         "phone": "0 (541) 494-10-07",
-        "loc": "40.397533,30.495637"
+        "loc": "40.397465,30.495716"
       }
     ]
   },
@@ -7618,6 +7675,29 @@
         "address": "Biçimcik Mahallesi, Esen Sokak, No:11 Asarcık / Samsun",
         "phone": "0(362)791-32-56",
         "loc": "41.036344,36.225344"
+      }
+    ],
+    "atakum": [
+      {
+        "name": "ÖZGÜR ECZANESİ",
+        "dist": "ATAKUM",
+        "address": "Cumhuriyet Mahallesi, 26. Sokak, No:18/A Atakum / Samsun",
+        "phone": "0(362)440-14-00",
+        "loc": "41.3362,36.2693"
+      },
+      {
+        "name": "ÇAKIRLAR ECZANESİ",
+        "dist": "ATAKUM",
+        "address": "Çakırlar Yalı Mahallesi, Atatürk Sokak, No:263/B Atakum / Samsun",
+        "phone": "0(362)457-77-99",
+        "loc": "41.3997417094279,36.1920772287322"
+      },
+      {
+        "name": "YEŞİL ECZANESİ",
+        "dist": "ATAKUM",
+        "address": "Yenimahalle Mah. Atatürk3. Kisim Bulvari No:189/A",
+        "phone": "0(530)839-64-05",
+        "loc": "41.355646,36.23679"
       }
     ],
     "ayvacik": [
@@ -7665,27 +7745,14 @@
         "loc": "40.964074,35.665152"
       }
     ],
-    "i̇lkadim": [
+    "i̇lkadim": [],
+    "kavak": [
       {
-        "name": "ANADOLU ECZANESİ",
-        "dist": "İLKADİM",
-        "address": "Kale Mahallesi Sahil Caddesi No:19 İlkadım / Samsun",
-        "phone": "0(362)400-40-92",
-        "loc": "41.292154,36.334036"
-      },
-      {
-        "name": "ENGİN ECZANESİ",
-        "dist": "İLKADİM",
-        "address": "Kale Mahallesi, Salihbey Sokak, No:19 İlkadım-Canik / Samsun",
-        "phone": "0(362)433-12-05",
-        "loc": "41.291344,36.331334"
-      },
-      {
-        "name": "REİS ECZANESİ",
-        "dist": "İLKADİM",
-        "address": "Fevzi Çakmak Mahallesi, Aziziye Caddesi, No:83 Merkez / Samsun",
-        "phone": "0(362)230-01-71",
-        "loc": "41.2788808589548,36.3324931076211"
+        "name": "ERTUĞRUL ECZANESİ",
+        "dist": "KAVAK",
+        "address": "Yaşardoğu Mah.adnan Menderes Cad. No:116/16",
+        "phone": "0(362)741-50-55",
+        "loc": "41.073138,36.034277"
       }
     ],
     "ladi̇k": [
@@ -7706,6 +7773,15 @@
         "loc": "41.08338,36.825099"
       }
     ],
+    "tekkeköy": [
+      {
+        "name": "FAZİLET ECZANESİ",
+        "dist": "TEKKEKÖY",
+        "address": "19 Mayıs Mahallesi, Teyfik Öztürk Caddesi, No:6/A Tekkeköy / Samsun",
+        "phone": "0(362)256-06-51",
+        "loc": "41.2128192055949,36.4595258218603"
+      }
+    ],
     "terme": [
       {
         "name": "BURCU ECZANESİ",
@@ -7713,6 +7789,15 @@
         "address": "Fenk Mahallesi, Mevlana Caddesi, No:5/E Terme / Samsun",
         "phone": "0(362)876-45-12",
         "loc": "41.210208,36.974278"
+      }
+    ],
+    "vezi̇rköprü": [
+      {
+        "name": "ÇINAR ECZANESİ",
+        "dist": "VEZİRKÖPRÜ",
+        "address": "Mehmetpaşa Mahallesi, Faruk Cömert Caddesi, Vezirköprü / Samsun",
+        "phone": "0(362)647-35-55",
+        "loc": "41.142801,35.45732"
       }
     ],
     "yakakent": [
@@ -7745,23 +7830,22 @@
     ],
     "eruh": [
       {
-        "name": "ERUH ECZANESİ",
+        "name": "ŞİFA ECZANESİ",
         "dist": "ERUH",
-        "address": "Fatih Mahallesi, Şeyhmus Çiftçi Caddesi No:122 Eruh / Siirt",
-        "phone": "0(534)372-89-92",
-        "loc": "37.74807,42.18015"
+        "address": "Fatih Mah.şirnak Cad.no:122",
+        "phone": "0(484)311-26-00",
+        "loc": "37.747788,42.17934"
       }
     ],
     "kurtalan": [
       {
-        "name": "TUNÇ ECZANESİ",
+        "name": "UGAR ECZANESİ",
         "dist": "KURTALAN",
-        "address": "Cumhuriyet Mahallesi, Ethem Sancak Caddesi No:8/C Kurtalan / Siirt",
-        "phone": "0 (484) 502-90-90",
-        "loc": "37.92737,41.69349"
+        "address": "Cumhuriyet Mahallesi, Ethem Sancak Caddesi No:8/A Kurtalan / Siirt",
+        "phone": "0(484)502-36-56",
+        "loc": "37.927373,41.693185"
       }
     ],
-    "merkez": [],
     "pervari̇": [
       {
         "name": "DOĞU ECZANESİ",
@@ -7785,11 +7869,11 @@
   "sinop": {
     "ayancik": [
       {
-        "name": "YAVUZ ECZANESİ",
+        "name": "YÜKSEL ECZANESİ",
         "dist": "AYANCIK",
-        "address": "Yalı Mahallesi, Atatürk Caddesi, Hastane Sokak, No:1/A Ayancık / Sinop",
-        "phone": "0(368)613-13-11",
-        "loc": "41.945799,34.588356"
+        "address": "Yalı Mahallesi, Atatürk Caddesi, No:26/A Ayancık / Sinop",
+        "phone": "0(368)613-16-31",
+        "loc": "41.9435,34.5883"
       }
     ],
     "boyabat": [
@@ -7820,6 +7904,15 @@
         "loc": "41.8795,34.9079"
       }
     ],
+    "gerze": [
+      {
+        "name": "EKİN ECZANESİ",
+        "dist": "GERZE",
+        "address": "Hamidiye Mahallesi, Recai Kuruoğlu Bulvarı No:41 Gerze / Sinop",
+        "phone": "0(368)718-48-37",
+        "loc": "41.80686,35.197961"
+      }
+    ],
     "merkez": [
       {
         "name": "SAĞLIK ECZANESİ",
@@ -7841,6 +7934,7 @@
     ]
   },
   "sivas": {
+    "akincilar": [],
     "altinyayla": [
       {
         "name": "ALTINYAYLA ECZANESİ",
@@ -7859,7 +7953,6 @@
         "loc": "39.371559,38.116306"
       }
     ],
-    "doğanşar": [],
     "gemerek": [
       {
         "name": "ÖZTÜRK ECZANESİ",
@@ -7918,11 +8011,20 @@
     ],
     "şarkişla": [
       {
-        "name": "ÖZDAL ECZANESİ",
+        "name": "PINAR ECZANESİ",
         "dist": "ŞARKIŞLA",
-        "address": "Cumhuriyet Caddesi, No:15/A Şarkışla / Sivas",
-        "phone": "0(346)512-45-09",
-        "loc": "39.350487,36.41264"
+        "address": "Ulu Cami Caddesi, No:26/C Şarkışla / Sivas",
+        "phone": "0(346)512-32-26",
+        "loc": "39.351541,36.408074"
+      }
+    ],
+    "ulaş": [
+      {
+        "name": "ULAŞ ECZANESİ",
+        "dist": "ULAŞ",
+        "address": "Hürriyet Mahallesi, No:23 Ulaş / Sivas",
+        "phone": "0 (346) 781-21-53",
+        "loc": "39.444234,37.040227"
       }
     ],
     "yildizeli̇": [
@@ -7932,15 +8034,6 @@
         "address": "Mehmet Akif Ersoy Mahallesi, Cumhuriyet Caddesi No:26/D Yıldızeli / Sivas",
         "phone": "0(530)961-71-58",
         "loc": "39.8704,36.6001"
-      }
-    ],
-    "zara": [
-      {
-        "name": "TÜRKİSTAN ECZANESİ",
-        "dist": "ZARA",
-        "address": "Kızılırmak Mahallesi, Ahmet Çuhadaroğlu Caddesi No:27/A Zara / Sivas",
-        "phone": "0 (346) 816-27-28",
-        "loc": "39.896808,37.757242"
       }
     ]
   },
@@ -8012,6 +8105,15 @@
         "address": "Ulaş Mahallesi, Atatürk Caddesi No:69/1 Ergene / Tekirdağ",
         "phone": "0 (282) 655-59-35",
         "loc": "41.238444,27.710457"
+      }
+    ],
+    "hayrabolu": [
+      {
+        "name": "YELTEKİN ECZANESİ",
+        "dist": "HAYRABOLU",
+        "address": "Kahya Mahallesi, Malkara Caddesi, No:13/1 Hayrabolu / Tekirdağ",
+        "phone": "0(282)315-19-97",
+        "loc": "41.212329,27.105927"
       }
     ],
     "kapakli": [
@@ -8137,11 +8239,11 @@
     "merkez": [],
     "ni̇ksar": [
       {
-        "name": "ANADOLU ECZANESİ",
+        "name": "AKSOY ECZANESİ",
         "dist": "NİKSAR",
-        "address": "Bağlar Mahallesi, Atatürk Bulvarı No:6 Niksar / Tokat",
-        "phone": "0(356)527-63-12",
-        "loc": "40.5909716,36.9436158"
+        "address": "Cumhuriyet Caddesi, No:159 Niksar / Tokat",
+        "phone": "0(356)527-81-38",
+        "loc": "40.58916,36.9560161"
       }
     ],
     "pazar": [
@@ -8155,11 +8257,11 @@
     ],
     "reşadi̇ye": [
       {
-        "name": "SAĞLAM ECZANESİ",
+        "name": "SELVİ ECZANESİ",
         "dist": "REŞADİYE",
-        "address": "Kayalık Mahallesi, Sağlık Caddesi No:18 Reşadiye / Tokat",
-        "phone": "0(356)461-28-28",
-        "loc": "40.391422,37.338157"
+        "address": "Kayalık Mahallesi, Sağlık Caddesi, No:24 Reşadiye / Tokat",
+        "phone": "0(356)461-47-58",
+        "loc": "40.391534,37.338279"
       }
     ],
     "sulusaray": [],
@@ -8170,15 +8272,6 @@
         "address": "Cumhuriyet Mahallesi, Şehit Emrah Taşdemir Caddesi, No:26/A Turhal Tokat",
         "phone": "0(356)276-66-67",
         "loc": "40.385588,36.060031"
-      }
-    ],
-    "yeşi̇lyurt": [
-      {
-        "name": "FATİH ECZANESİ",
-        "dist": "YEŞİLYURT",
-        "address": "100. Yıl Mahallesi, Atatürk Bulvarı No:34/B Yeşilyurt / Tokat",
-        "phone": "0(356)631-22-60",
-        "loc": "40.0072605,36.222145"
       }
     ],
     "zi̇le": [
@@ -8242,15 +8335,6 @@
         "address": "Merkez Mahallesi, Avni Akkan Caddesi, No:44 Çarşıbaşı / Trabzon",
         "phone": "0(462)821-45-22",
         "loc": "41.08188996,39.37747788"
-      }
-    ],
-    "çaykara": [
-      {
-        "name": "ÇAYKARA ECZANESİ",
-        "dist": "ÇAYKARA",
-        "address": "Işıklı Mahallesi, Uzun M. Sokak, No:89 Çaykara / Trabzon",
-        "phone": "0(462)616-10-59",
-        "loc": "40.7483922600887,40.2422787238063"
       }
     ],
     "dernekpazari": [],
@@ -8387,39 +8471,48 @@
   "şanlıurfa": {
     "akçakale": [
       {
-        "name": "POLAT ECZANESİ",
+        "name": "AKA ECZANESİ",
         "dist": "AKÇAKALE",
-        "address": "Abdullah Gül Bulvarı, Hilal Yıldız Plaza No:11 Akçakale / Şanlıurfa",
-        "phone": "0(414)411-31-52",
-        "loc": "36.71489502,38.94809112"
+        "address": "Süleymanşah Mahallesi, Ceylanpinar Yolu üzeri̇, Ömer Ay Tazi̇ye Evi̇ yanı, 3 Nolu Aile Sağlığı Merkezi Akçakale / Şanlıurfa",
+        "phone": "0(531)241-83-14",
+        "loc": "36.71193,38.95514"
       }
     ],
     "bi̇reci̇k": [
       {
-        "name": "YUSUF ECZANESİ",
+        "name": "HATİCE DEMİR ECZANESİ",
         "dist": "BİRECİK",
-        "address": "Meydan Mahallesi, Hastane Caddesi, No:67A Birecik / Şanlıurfa",
-        "phone": "0(414)652-29-22",
-        "loc": "37.01201301,37.97293788"
+        "address": "Meydan Mahallesi, 10 Temmuz Caddesi, No:10/B Birecik / Şanlıurfa",
+        "phone": "0(414)652-18-18",
+        "loc": "37.0247073,37.9762073"
+      }
+    ],
+    "bozova": [
+      {
+        "name": "ERDAL ECZANESİ",
+        "dist": "BOZOVA",
+        "address": "Yeşilova Mahallesi, 1018. Sokak, Bozova Yeni Devlet Hastanesi karşısı",
+        "phone": "0(414)711-66-68",
+        "loc": "37.36153,38.514248"
       }
     ],
     "ceylanpinar": [
       {
-        "name": "KAVAK ECZANESİ",
+        "name": "TUNÇ ECZANESİ",
         "dist": "CEYLANPINAR",
-        "address": "Seydo Atilla Mahallesi, 185 Sokak, No:48/B Ceylanpınar / Şanlıurfa",
-        "phone": "0(414)471-38-60",
-        "loc": "36.8479881,40.0519505"
+        "address": "Seydo Atilla Mahallesi, 209 Sokak, No:11 Ceylanpınar / Şanlıurfa",
+        "phone": "0(414)471-68-58",
+        "loc": "36.872449,40.041372"
       }
     ],
     "eyyübi̇ye": [],
     "halfeti̇": [
       {
-        "name": "MERKEZ ECZANESİ",
+        "name": "KARAGÜL ECZANESİ",
         "dist": "HALFETİ",
-        "address": "Siyahgül Mahallesi Aydın Güven Gürkan Caddesi, No:13/A Halfeti / Şanlıurfa",
-        "phone": "0(414)751-12-63",
-        "loc": "37.23011703,37.94576796"
+        "address": "Karaotlak Mahallesi, Aydın Güven Gürkan Caddesi No:10/B Halfeti / Şanlıurfa",
+        "phone": "0(545)673-29-91",
+        "loc": "37.228659,37.945042"
       }
     ],
     "hali̇li̇ye": [],
@@ -8441,7 +8534,15 @@
         "loc": "37.59116,38.96432"
       }
     ],
-    "karaköprü": [],
+    "karaköprü": [
+      {
+        "name": "ATAŞEHİR ECZANESİ",
+        "dist": "KARAKÖPRÜ",
+        "address": "Mehmetçik Mahallesi Eyüp Cenap Gülpınar Bulvarı No:10/A Merkez / Şanlıurfa",
+        "phone": "0(537)514-06-63",
+        "loc": "37.190104,38.782751"
+      }
+    ],
     "si̇verek": [
       {
         "name": "SERHAN ECZANESİ",
@@ -8449,22 +8550,15 @@
         "address": "İnönü Bulvarı No:55 Siverek / Şanlıurfa",
         "phone": "0(414)552-23-83",
         "loc": "37.7524667612715,39.3165221718139"
-      },
-      {
-        "name": "HATİPOĞLU ECZANESİ",
-        "dist": "SİVEREK",
-        "address": "Camikebir Mahallesi Adnan Menderes Bulvarı No:71/A Siverek / Şanlıurfa",
-        "phone": "0(414)553-36-88",
-        "loc": "37.7518558654441,39.3164111905515"
       }
     ],
     "suruç": [
       {
-        "name": "HOCAOĞLU ECZANESİ",
+        "name": "ÇELİK ECZANESİ",
         "dist": "SURUÇ",
-        "address": "Aligör Beldesi, Tepe Mh.cumhuriyet Cd.no:72",
-        "phone": "0(414)111-11-11",
-        "loc": "37.02776904,38.44075896"
+        "address": "Barış Mahallesi Mis Sokak No:29/D Suruç Devlet Hastanesi karşısı",
+        "phone": "0(414)612-13-13",
+        "loc": "36.985095,38.42202888"
       }
     ],
     "vi̇ranşehi̇r": [
@@ -8577,6 +8671,15 @@
         "address": "Kışla Mahallesi, Emniyet Caddesi No:1 Dükkan:19 Erciş / Van",
         "phone": "0(432)503-98-65",
         "loc": "39.028425,43.360249"
+      }
+    ],
+    "gevaş": [
+      {
+        "name": "BÜYÜK ECZANESİ",
+        "dist": "GEVAŞ",
+        "address": "Bahçelievler Mahallesi Muhlis Görentaş Bulvarı No:25/27 Gevaş / Van",
+        "phone": "0(432)612-30-99",
+        "loc": "38.296484,43.109369"
       }
     ],
     "gürpinar": [
@@ -8710,6 +8813,15 @@
         "loc": "40.06884,35.49579"
       }
     ],
+    "kadişehri̇": [
+      {
+        "name": "FATİH ECZANESİ",
+        "dist": "KADIŞEHRİ",
+        "address": "Kadıoğlu Mahallesi, Cumhuriyet Bulvarı No:83/B Kadışehri / Yozgat",
+        "phone": "0 (354) 375-41-40",
+        "loc": "39.997005,35.791657"
+      }
+    ],
     "merkez": [],
     "saraykent": [
       {
@@ -8718,6 +8830,15 @@
         "address": "Fatih Sultan Mehmet Mahallesi, Gazi Mustafa Kemal Bulvarı No:168/C Saraykent / Yozgat",
         "phone": "0(354)502-77-67",
         "loc": "39.69121,35.51227"
+      }
+    ],
+    "sarikaya": [
+      {
+        "name": "HANDE ECZANESİ",
+        "dist": "SARIKAYA",
+        "address": "Osman Gazi Mahallesi, Hastane Caddesi, No:19 Sarıkaya / Yozgat",
+        "phone": "0(354)501-86-66",
+        "loc": "39.4901859,35.3867651"
       }
     ],
     "sorgun": [
@@ -8765,6 +8886,50 @@
         "address": "Merkez Mahallesi, Açık Pazaryeri No:17/2-C Alaplı / Zonguldak",
         "phone": "0(372)378-17-40",
         "loc": "41.178982,31.390991"
+      }
+    ],
+    "çaycuma": [
+      {
+        "name": "HEYKEL ECZANESİ",
+        "dist": "ÇAYCUMA",
+        "address": "Yeni Mahallesi, Nihat Kantarcı Caddesi No:11/C Çaycuma / Zonguldak",
+        "phone": "0 (372) 615-70-00",
+        "loc": "41.425801,32.075891"
+      },
+      {
+        "name": "YÜCEL ECZANESİ",
+        "dist": "ÇAYCUMA",
+        "address": "Nebioğlu Beldesi, Yenipazar Mahallesi, Alikadıoğulları Sokak No:5/B Çaycuma / Zonguldak",
+        "phone": "0(372)658-74-32",
+        "loc": "41.43895,32.24281"
+      },
+      {
+        "name": "PERŞEMBE ECZANESİ",
+        "dist": "ÇAYCUMA",
+        "address": "Merkez Mahallesi, Sağlık Sokak No:7/C Çaycuma / Zonguldak",
+        "phone": "0(372)638-55-55",
+        "loc": "41.417881,32.150716"
+      },
+      {
+        "name": "KARAPINAR ŞİFA ECZANESİ",
+        "dist": "ÇAYCUMA",
+        "address": "Karapınar Beldesi Milli Egemenlik Caddesi, No:25/B Çaycuma / Zonguldak",
+        "phone": "0(372)638-30-26",
+        "loc": "41.4929565,32.1881118"
+      },
+      {
+        "name": "ACAR ECZANESİ",
+        "dist": "ÇAYCUMA",
+        "address": "Öteyüz Mahallesi, İsmetpaşa Caddesi, No:25 Hisarönü / Çaycuma",
+        "phone": "0(372)623-22-26",
+        "loc": "41.562157,32.023735"
+      },
+      {
+        "name": "ÇAKIR ECZANESİ",
+        "dist": "ÇAYCUMA",
+        "address": "Saltukova Beldesi, Kokaksu Mahallesi, Uzun Mehmet Caddesi, No:41/A Çaycuma / Zonguldak",
+        "phone": "0(372)618-14-35",
+        "loc": "41.520149,32.094408"
       }
     ],
     "devrek": [
@@ -8853,15 +9018,6 @@
         "phone": "0(372)266-12-89",
         "loc": "41.43497,31.749145"
       }
-    ],
-    "merkez": [
-      {
-        "name": "YAZICI ECZANESİ",
-        "dist": "MERKEZ",
-        "address": "İncivez Mahallesi Çaybaşı Sokak, No:91/1 Merkez / Zonguldak",
-        "phone": "0(372)281-02-02",
-        "loc": "41.447287,31.76546"
-      }
     ]
   },
   "aksaray": {
@@ -8899,6 +9055,15 @@
         "loc": "38.39353398,34.346025"
       }
     ],
+    "güzelyurt": [
+      {
+        "name": "KARA ECZANESİ",
+        "dist": "GÜZELYURT",
+        "address": "Yukarı Mahallesi, Prof.Dr.Necdet Sağlam Caddesi No:28/B Güzelyurt / Aksaray",
+        "phone": "0(552)812-09-73",
+        "loc": "38.27792,34.36969"
+      }
+    ],
     "merkez": [],
     "ortaköy": [
       {
@@ -8910,7 +9075,15 @@
       }
     ],
     "sariyahşi̇": [],
-    "sultanhani": []
+    "sultanhani": [
+      {
+        "name": "UMUT ECZANESİ",
+        "dist": "SULTANHANI",
+        "address": "İstikamet Mahallesi, Hastane Caddesi, Şifa Sokak No.4 Sultanhanı / Aksaray",
+        "phone": "0(382)242-33-43",
+        "loc": "38.24604504,33.54622092"
+      }
+    ]
   },
   "bayburt": {
     "aydintepe": [],
@@ -8921,15 +9094,6 @@
         "address": "Esentepe Mahallesi, Fatih Sultan Mehmet Caddesi No:1/D Demirözü / Bayburt",
         "phone": "0 (458) 411-64-65",
         "loc": "40.163631,39.892081"
-      }
-    ],
-    "merkez": [
-      {
-        "name": "BÜŞRA ECZANESİ",
-        "dist": "MERKEZ",
-        "address": "Nihat Üçyıldız Caddesi, No:11 Merkez / Bayburt",
-        "phone": "0(458)211-71-80",
-        "loc": "40.254469,40.223244"
       }
     ]
   },
@@ -8954,11 +9118,11 @@
     ],
     "ermenek": [
       {
-        "name": "DOST ECZANESİ",
+        "name": "EŞME ECZANESİ",
         "dist": "ERMENEK",
-        "address": "Taşbaşı Mahallesi, Cumhuriyet Caddesi, No:78/C Karaman / Ermenek",
-        "phone": "0(338)716-33-22",
-        "loc": "36.639449,32.890147"
+        "address": "Seyran Mahallesi, Müst. Yrd. Lütfi Elvan Caddesi No:27/B Ermenek / Karaman",
+        "phone": "0 (338) 716-42-40",
+        "loc": "36.632074,32.904665"
       }
     ],
     "kazimkarabeki̇r": [
@@ -8985,11 +9149,11 @@
     "bahşi̇li̇": [],
     "balişeyh": [
       {
-        "name": "BALIŞEYH ECZANESİ",
+        "name": "FEYZA ECZANESİ",
         "dist": "BALIŞEYH",
-        "address": "Yeni Mahallesi, 43.Sokak No:14/B Balışeyh / Kırıkkale",
-        "phone": "0(318)233-33-18",
-        "loc": "39.91613,33.71577"
+        "address": "Yeni Mahallesi, Balışeyh / Kırıkkale",
+        "phone": "0 (318) 713-72-77",
+        "loc": "39.9098351,33.7171557"
       }
     ],
     "çelebi̇": [],
@@ -9101,15 +9265,24 @@
     ],
     "sason": [
       {
-        "name": "ERDEM ECZANESİ",
+        "name": "ÇELİK ECZANESİ",
         "dist": "SASON",
-        "address": "Aşağı Mahallesi, 207 Sokak, No:18 Sason / Batman",
-        "phone": "0(488)461-30-30",
-        "loc": "38.33956602,41.41225008"
+        "address": "Aşağı Mah. Hastane Sok.no:16/",
+        "phone": "0(488)461-40-40",
+        "loc": "38.339599,41.412339"
       }
     ]
   },
   "şırnak": {
+    "beytüşşebap": [
+      {
+        "name": "FORİA ECZANESİ",
+        "dist": "BEYTÜŞŞEBAP",
+        "address": "Elki Mahalle 5 Cadde No:11/B Beytüşşebap / Şırnak",
+        "phone": "0(486)311-21-32",
+        "loc": "37.57083,43.168634"
+      }
+    ],
     "ci̇zre": [
       {
         "name": "BİŞENK ECZANESİ",
@@ -9119,13 +9292,22 @@
         "loc": "37.3326,42.182034"
       }
     ],
+    "güçlükonak": [
+      {
+        "name": "KONAK ECZANESİ",
+        "dist": "GÜÇLÜKONAK",
+        "address": "Yeni Mahallesi, Vali Atilla Koç Cadde No:7/C Güçlükonak / Şırnak",
+        "phone": "0(486)681-30-08",
+        "loc": "37.471274,41.911169"
+      }
+    ],
     "i̇di̇l": [
       {
-        "name": "ELİF ECZANESİ",
+        "name": "HAMARAT ECZANESİ",
         "dist": "İDİL",
-        "address": "Aşağı Mahalle, Hastane Caddesi No:7/1 İdil / Şırnak",
-        "phone": "0(507)856-73-56",
-        "loc": "37.34044,41.90138"
+        "address": "Yeni Mahalle, Alanya Caddesi No:211/C İdil / Şırnak",
+        "phone": "0(545)551-65-47",
+        "loc": "37.34159,41.900549"
       }
     ],
     "merkez": [],
@@ -9151,29 +9333,29 @@
   "bartın": {
     "amasra": [
       {
-        "name": "KALEŞAH ECZANESİ",
+        "name": "EGEMEN ECZANESİ",
         "dist": "AMASRA",
-        "address": "Kaleşah Mahallesi, İsmet İnönü Caddesi No:34/B Amasra / Bartın",
-        "phone": "0 (378) 315-10-20",
-        "loc": "41.737302,32.394461"
+        "address": "Kum Mahallesi, Cumhuriyet Caddesi, Kumsal Apt. No:42/A Amasra / Bartın",
+        "phone": "0(378)315-23-23",
+        "loc": "41.746637,32.385414"
       }
     ],
     "kurucaşi̇le": [],
     "merkez": [],
     "ulus": [
       {
-        "name": "UMUT ECZANESİ",
+        "name": "BURAK ÇELİK ECZANESİ",
         "dist": "ULUS",
-        "address": "Uğur Mumcu Sokak No:6/A Ulus / Bartın",
-        "phone": "0(378)416-10-66",
-        "loc": "41.583595,32.640401"
+        "address": "Mezgeller Mahallesi, Zübeyde Hanım Caddesi, No:43/A-B Ulus / Bartın",
+        "phone": "0(378)416-21-21",
+        "loc": "41.580741,32.634666"
       },
       {
-        "name": "TÜMER ECZANESİ",
+        "name": "SONER ECZANESİ",
         "dist": "ULUS",
-        "address": "Ahmet Özsoy 1 Sokak, No:1-A Abdipaşa / Ulus",
-        "phone": "0(378)426-50-03",
-        "loc": "41.5166,32.559831"
+        "address": "Abdipaşa Beldesi Yeşilpazar Mahallesi, Hürriyet Caddesi, No:73/C Abdipaşa / Ulus",
+        "phone": "0(378)426-42-42",
+        "loc": "41.516565,32.559866"
       }
     ]
   },
@@ -9249,15 +9431,6 @@
         "loc": "40.687155,29.45366712"
       }
     ],
-    "armutlu": [
-      {
-        "name": "İSKELE ECZANESİ",
-        "dist": "ARMUTLU",
-        "address": "Bayır Mah. İskele Sok. No:10/C Ergenekon Apt.",
-        "phone": "0 (501) 012-94-77",
-        "loc": "40.509364,28.837155"
-      }
-    ],
     "çinarcik": [
       {
         "name": "IŞIL ECZANESİ",
@@ -9272,15 +9445,6 @@
         "address": "Harmanlar Mahallesi, Vali Akı Caddesi, No:2/4 Çınarcık / Yalova",
         "phone": "0(226)246-35-95",
         "loc": "40.64536899,29.11943808"
-      }
-    ],
-    "çi̇ftli̇kköy": [
-      {
-        "name": "HASTANE ECZANESİ",
-        "dist": "ÇİFTLİKKÖY",
-        "address": "Çiftlik Mahallesi, Gonca Sokak, No:11 Çiftlikköy / Yalova",
-        "phone": "0(226)352-84-13",
-        "loc": "40.66311096,29.32176888"
       }
     ],
     "merkez": [],
@@ -9315,15 +9479,6 @@
         "phone": "0(370)712-54-34",
         "loc": "41.271633,32.674372"
       }
-    ],
-    "yeni̇ce": [
-      {
-        "name": "YENİ ZÜMRÜT ECZANESİ",
-        "dist": "YENİCE",
-        "address": "İsmetpaşa Mahallesi, Doruk Sokak, No:8/B Yenice / Karabük",
-        "phone": "0(370)766-45-00",
-        "loc": "41.209554,32.305744"
-      }
     ]
   },
   "kilis": {
@@ -9342,27 +9497,19 @@
         "loc": "37.200661,36.577469"
       }
     ],
-    "hasanbeyli̇": [],
-    "kadi̇rli̇": [
+    "düzi̇çi̇": [
       {
-        "name": "OVA ECZANESİ",
-        "dist": "KADİRLİ",
-        "address": "Savrun Mahallesi, Atatürk Caddesi, No:134/D Kadirli / Osmaniye",
-        "phone": "0(328)717-18-47",
-        "loc": "37.369785,36.097934"
+        "name": "ÖZKAN ECZANESİ",
+        "dist": "DÜZİÇİ",
+        "address": "İstiklal Mahallesi, Şehit Kemal Keskin Caddesi, No:19 Düziçi / Osmaniye",
+        "phone": "0(328)876-78-78",
+        "loc": "37.241326,36.455191"
       }
     ],
+    "kadi̇rli̇": [],
     "merkez": [],
     "sumbas": [],
-    "toprakkale": [
-      {
-        "name": "NURTEN ECZANESİ",
-        "dist": "TOPRAKKALE",
-        "address": "Karatas Mahallesi, Lise Caddesi, No:22-A/3 Toprakkle/ Osmaniye",
-        "phone": "0(328)633-31-96",
-        "loc": "37.0684,36.1502"
-      }
-    ]
+    "toprakkale": []
   },
   "düzce": {
     "akçakoca": [
